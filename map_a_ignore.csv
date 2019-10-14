@@ -1,0 +1,826 @@
+﻿State,County,county_geoid,Remove from Map,Percent Students Enrolled in CNC,Students Enrolled in CNC Schools,Number of Districts,Number of Schools,Number of Counselors,Number of Law Enforcement,Sum of Counselors,Number Cop no Counselor Schools,White Students Enrolled,White Students Enrolled in CNC,MTW Status,latitude,longitude,MTW Status,DISTRICT,SCHOOL,MTW Status,Number of Social Workers,Number of Psychologists,Number of Nurses,Number of Teachers,MTW Status,MTW Status
+FL,Franklin,12037,1,100.0%,1286,1,2,0,2,0,2,1001,1001,Matching,29.66,-84.86,Matching,FRANKLIN,FRANKLIN COUNTY SCHOOLS PK-12,Matching,0,0,0,85,Matching,Matching
+SD,Butte,46019,1,82.0%,1378,2,8,0,5,0,5,1442,1196,Matching,44.648239,-103.834661,Matching,Belle Fourche School District 09-1,Belle Fourche Middle School - 07,Matching,1,0.25,1,121.67,Matching,Matching
+TN,Lake,47095,1,73.5%,590,1,3,1,3,0,2,552,410,Matching,36.372887,-89.473603,Matching,Lake County,Lake Co High School,Matching,0,0,3,85,Matching,Matching
+NM,Sierra,35051,1,73.0%,974,1,5,1,1.9,0,4,611,451,Matching,33.15,-107.25,Matching,T OR C MUNICIPAL SCHOOLS,HOT SPRINGS HIGH,Matching,3.5,0.4,2.6,102,Matching,Matching
+KY,Caldwell,21033,1,71.4%,1472,1,4,2,4,0,3,1774,1248,Matching,37.140278,-87.890871,Matching,Caldwell County,Caldwell County Middle School,Matching,0,4,4,117,Matching,Matching
+MI,Presque Isle,26141,1,67.6%,1009,4,8,2,6,0,6,1394,936,Matching,45.32738,-84.24011,Matching,Onaway Area Community School District,Onaway Senior High School,Matching,2,0,0.5,83,Matching,Matching
+AZ,Greenlee,4011,1,66.6%,771,3,5,1,2.66,0,3,476,381,Matching,32.71,-109.1,Matching,Duncan Unified District,Duncan High School,Matching,0,0,4,74,Matching,Matching
+LA,Assumption,22007,,60.7%,2159,1,9,5,9,0,7,1803,1099,Matching,29.946369,-91.026715,Matching,Assumption Parish,Assumption High School,Matching,1,2,9,273.71,Matching,Matching
+IL,Jersey,17083,1,59.7%,1573,2,7,3.5,5,0,4,2536,1501,Matching,39.043492,-90.259516,Matching,Region III Spec Ed Coop,Journeys School,Matching,0,2,2,167,Matching,Matching
+IN,Switzerland,18155,1,58.6%,923,1,4,2,1,0,2,1498,872,Matching,38.741941,-85.078157,Matching,Switzerland County School Corp,Switzerland Co Middle School,Matching,0,0,4,97.5,Matching,Matching
+OH,Gallia,39053,,58.3%,2776,3,14,8,8,0,9,4394,2550,Matching,38.893385,-82.389399,Matching,Gallia-Jackson-Vinton,Buckeye Hills Career Center,Matching,0,1,4,339.8,Matching,Matching
+UT,Garfield,49017,1,58.0%,584,1,9,1.9,6.45,0,5,891,521,Matching,37.625352,-112.083345,Matching,GARFIELD DISTRICT,BRYCE VALLEY HIGH,Matching,0,0,0.9,53.37,Matching,Matching
+UT,Millard,49027,1,57.6%,1188,1,8,3,1.8,0,3,1619,921,Matching,39.347407,-112.573628,Matching,MILLARD DISTRICT,DELTA MIDDLE,Matching,0,0,0,116.42,Matching,Matching
+UT,Beaver,49001,1,56.7%,891,1,6,2.3,2.83,0,4,1314,736,Matching,38.39759,-113.014452,Matching,BEAVER DISTRICT,MILFORD HIGH,Matching,0,0,0.6,72.59,Matching,Matching
+GA,Taylor,13269,1,53.9%,792,1,5,2,4,0,2,818,431,Matching,32.548948,-84.228771,Matching,Taylor County,Taylor County High School,Matching,0,0,0,99.58,Matching,Matching
+TN,Cannon,47015,1,53.8%,968,1,6,2,5,0,4,1695,910,Matching,35.82,-86.06,Matching,Cannon County,Cannon County High School,Matching,0,0,1,116,Matching,Matching
+MS,Lauderdale,28075,,53.4%,6664,2,24,17,19.9,0,12,4855,4428,Matching,32.360989,-88.738832,Matching,MERIDIAN PUBLIC SCHOOL DIST,OAKLAND HEIGHTS ELEMENTARY SCHOOL,Matching,1,0,0,865,Matching,Matching
+KY,Clay,21051,1,53.1%,1527,1,9,2,1.95,0,7,2790,1489,Matching,37.11048,-83.75381,Matching,Clay County,Clay County High School,Matching,0,2.31,9.54,211,Matching,Matching
+OR,Klamath,41035,,52.0%,4862,2,29,13,27,0,18,6062,3111,Matching,42.152024,-121.69508,Matching,Klamath County SD,Henley High School,Matching,0.7,2.56,5.96,475.9,Matching,Matching
+AZ,La Paz,4012,1,51.3%,1202,6,11,2,2,0,3,611,270,Matching,33.66,-114.24,Matching,Quartzsite Elementary School District #4,Quartzsite Elementary School,Matching,0,8,0,143.9,Matching,Matching
+IL,Scott,17171,1,50.9%,444,2,5,2.2,2,0,1,848,436,Matching,39.62522,-90.46054,Matching,Winchester CUSD 1,Winchester Elem School,Matching,2.2,0.3,2.2,73,Matching,Matching
+MN,Yellow Medicine,27173,1,50.8%,778,4,7,0,1,0,3,1237,543,Matching,44.617325,-95.410068,Matching,E.C.H.O. Charter School,E.C.H.O. Charter School,Matching,3,1.77,2.53,112.1,Matching,Matching
+IN,Warren,18171,1,50.5%,606,1,4,2,4,0,3,1153,576,Matching,40.28,-87.39,Matching,M S D Warren County,Seeger Memorial Jr-Sr HS,Matching,0,0,3,86,Matching,Matching
+MN,Kandiyohi,27067,,49.8%,3309,4,16,7.9,6.5,0,6,4175,2070,Matching,45.143157,-95.018124,Matching,TECHNICAL ACADEMIES OF MINNESOTA,DREAM TECHNICAL ACADEMY,Matching,13.5,4.75,11.15,482.26,Matching,Matching
+LA,West Feliciana,22125,1,49.7%,1085,1,4,2,4,0,2,1237,623,Matching,30.826219,-91.383584,Matching,West Feliciana Parish,West Feliciana High School,Matching,3,1,1.99,182.2,Matching,Matching
+OH,Harrison,39067,1,49.7%,945,4,6,2,2,0,2,1779,878,Matching,40.291951,-80.997666,Matching,Belmont-Harrison,Harrison Career Center,Matching,3.5,1.12,3.5,121,Matching,Matching
+VA,Charlotte,51037,1,49.3%,952,1,5,3,4,0,3,1193,597,Matching,37.041997,-78.551162,Matching,CHARLOTTE CO PBLC SCHS,EUREKA ELEM,Matching,1,0,5,150.05,Matching,Matching
+ID,Fremont,16043,1,49.3%,1085,1,7,4,7,0,4,1759,883,Matching,43.975041,-111.68385,Matching,FREMONT COUNTY JOINT DISTRICT,SOUTH FREMONT HIGH SCHOOL,Matching,1,0,0,134,Matching,Matching
+NC,Pamlico,37137,1,48.9%,903,2,5,4,4.6,0,3,1217,561,Matching,35.140717,-76.777343,Matching,Pamlico County Schools,Pamlico County High,Matching,4,1,5,154.17,Matching,Matching
+LA,Natchitoches,22069,,48.8%,3330,2,18,11,17,0,11,2639,1564,Matching,31.938943,-93.148154,Matching,Natchitoches Parish,Fairview-Alpha Elementary & Junior High School,Matching,1,1,4,514,Matching,Matching
+UT,Grand,49019,1,48.7%,769,2,4,2,3,0,1,1174,556,Matching,38.571898,-109.542931,Matching,GRAND DISTRICT,GRAND COUNTY HIGH,Matching,0,0,0,105.75,Matching,Matching
+MI,Clare,26035,1,48.3%,2125,4,14,4.17,4.75,0,6,4118,1989,Matching,44.03,-84.8,Matching,Harrison Community Schools,Harrison Middle School,Matching,2.39,1.49,1.82,249.6,Matching,Matching
+ID,Lewis,16061,1,48.1%,340,3,5,0.65,3,0,2,518,227,Matching,46.233792,-116.441682,Matching,HIGHLAND JOINT DISTRICT,HIGHLAND SCHOOL,Matching,0,0.48,0.48,59.2,Matching,Matching
+KY,Green,21087,1,48.0%,779,1,4,2,4,0,2,1480,704,Matching,37.255907,-85.489713,Matching,Green County,Green County High School,Matching,0,0,4,116,Matching,Matching
+IN,Owen,18119,1,47.7%,1275,1,6,3,11,0,3,2523,1191,Matching,39.29,-86.76,Matching,Spencer-Owen Community Schools,Owen Valley Community High School,Matching,1.83,0.43,3.26,146.7,Matching,Matching
+TN,Polk,47139,1,47.7%,1292,1,6,4,4,0,3,2565,1209,Matching,35.022919,-84.383094,Matching,Polk County,Copper Basin High School,Matching,0,0,3,161.25,Matching,Matching
+MI,Crawford,26039,,47.7%,796,1,5,6,0.98,0,2,1515,734,Matching,44.669035,-84.718865,Matching,Crawford AuSable Schools,Grayling High School,Matching,5.9,0,0,106,Matching,Matching
+UT,Uintah,49047,,47.2%,3450,3,13,11.5,4,0,6,5803,2844,Matching,40.46373,-109.56144,Matching,UINTAH DISTRICT,ASHLEY VALLEY EDUC CTR,Matching,1,2.2,4.3,325.5,Matching,Matching
+ID,Oneida,16071,1,47.1%,443,1,5,1.5,1,0,3,884,423,Matching,42.178752,-112.239555,Matching,ONEIDA COUNTY DISTRICT,MALAD SENIOR HIGH SCHOOL,Matching,0,0,0,50.1,Matching,Matching
+MI,Cheboygan,26031,1,46.9%,1358,4,8,2,4.48,0,5,2513,1211,Matching,45.631322,-84.495753,Matching,Cheboygan Area Schools,Cheboygan Area High School,Matching,0,0,0,154,Matching,Matching
+MN,Pennington,27113,1,46.2%,1121,2,6,3,1,0,2,2079,935,Matching,48.117886,-96.183111,Matching,THIEF RIVER FALLS SCHOOL DISTRICT,LINCOLN SENIOR HIGH,Matching,0,0,1,175.59,Matching,Matching
+MN,Chippewa,27023,1,46.2%,852,2,8,2,1,0,3,1498,648,Matching,44.938045,-95.705379,Matching,MONTEVIDEO PUBLIC SCHOOL DISTRICT,MONTEVIDEO SENIOR HIGH,Matching,6.5,1,2,134.32,Matching,Matching
+IL,Moultrie,17139,1,46.0%,769,1,6,2,3,0,2,1569,722,Matching,39.713746,-88.627949,Matching,Arthur CUSD 305,Lovington Grade School,Matching,2,2.15,1,116.26,Matching,Matching
+IN,Rush,18139,1,45.8%,1075,2,7,3,1.02,0,4,2188,991,Matching,39.64,-85.58,Matching,Rush County Schools,Arlington Elementary School,Matching,4,0,5,151.3,Matching,Matching
+IL,Gallatin,17059,1,44.8%,352,1,3,1,2,0,1,741,334,Matching,37.72,-88.24,Matching,Gallatin CUSD 7,Gallatin High School,Matching,1,0,1,53.52,Matching,Matching
+LA,Rapides,22079,,44.0%,10853,2,50,22,48,0,29,12649,5098,Matching,31.300066,-92.474666,Matching,Rapides Parish,Alexandria Middle Magnet School,Matching,2,2,19,1643.83,Matching,Matching
+IN,Jay,18075,1,43.6%,1529,1,10,4.05,10,0,7,3208,1402,Matching,40.37951,-85.205422,Matching,Jay School Corporation,West Jay County Middle School,Matching,0,0,8.5,219.5,Matching,Matching
+IN,Dearborn,18029,,43.4%,2888,2,13,8.5,12,0,7,6328,2743,Matching,39.099656,-84.853075,Matching,Lawrenceburg Com School Corp,Lawrenceburg High School,Matching,3,0,12.5,420.03,Matching,Matching
+MN,Hubbard,27057,1,43.3%,1123,3,9,1,4,0,3,2200,964,Matching,46.92,-95.06,Matching,PARK RAPIDS PUBLIC SCHOOL DISTRICT,PARK RAPIDS SENIOR HIGH,Matching,2,1.05,4,176.84,Matching,Matching
+MD,Baltimore,24510,,42.8%,36468,3,183,115.6,174,0,97,7127,2935,Matching,39.29338,-76.537638,Matching,Baltimore City Public Schools,Patterson High,Matching,194.8,136.9,7,5293.1,Matching,Matching
+LA,Jefferson,22051,,41.9%,20002,2,83,71,77,0,43,12800,4858,Matching,29.85675,-90.105658,Matching,Jefferson Parish,Westbank Community School,Matching,62.5,40.25,47,3352,Matching,Matching
+IN,Fulton,18049,1,41.9%,948,1,5,4,5,0,2,1976,872,Matching,41.055896,-86.223699,Matching,Rochester Community Sch Corp,Rochester Community Md Sch,Matching,4,1,5,143.1,Matching,Matching
+IN,Kosciusko,18085,,41.3%,5060,3,20,18,8.03,0,10,9599,3838,Matching,41.409684,-85.854974,Matching,Wawasee Community School Corp,Milford School,Matching,9.5,6.75,21,747.79,Matching,Matching
+UT,Duchesne,49013,,41.0%,2120,1,14,6.7,13,0,7,4400,1813,Matching,40.296142,-109.99853,Matching,DUCHESNE DISTRICT,ROOSEVELT JR HIGH,Matching,0,0,0,261.5,Matching,Matching
+OH,Pickaway,39129,,40.8%,3737,4,19,12.75,4.97,0,6,8483,3510,Matching,39.513967,-82.785846,Matching,Logan Elm Local,Salt Creek Intermediate School,Matching,1.3,10.39,5.84,565.29,Matching,Matching
+MN,Faribault,27043,,40.3%,1169,4,11,5.28,5.21,0,6,2231,951,Matching,43.767573,-94.167701,Matching,SOUTHERN PLAINS EDUCATION COOP.,SOUTHERN PLAINS AREA LEARNING CNTR.,Matching,7.75,1.99,5.23,233.17,Matching,Matching
+MI,Gogebic,26053,,40.1%,750,4,6,7.5,1,0,1,1659,727,Matching,46.48194,-90.052092,Matching,Ironwood Area Schools of Gogebic County,Gogebic Co. Community Education,Matching,0,0,0.75,117.5,Matching,Matching
+IL,Stark,17175,1,39.6%,363,2,5,2,3,0,1,842,340,Matching,41.09,-89.87,Matching,Stark County CUSD 100,Stark County High School,Matching,3.4,3.2,6.5,80.5,Matching,Matching
+LA,Concordia,22029,,39.2%,1522,2,11,7,9,0,4,1923,622,Matching,31.574577,-91.453321,Matching,Concordia Parish,Vidalia High School,Matching,0,0,1,249,Matching,Matching
+MS,Tallahatchie,28135,1,39.2%,807,2,5,2,4,0,2,297,82,Matching,34.009665,-90.048916,Matching,EAST TALLAHATCHIE CONSOL SCH DIST,CHARLESTON HIGH SCHOOL,Matching,0,0,4,141.98,Matching,Matching
+CO,Prowers,8099,1,36.6%,723,3,10,3,1.54,0,3,781,276,Matching,38.084254,-102.62583,Matching,Lamar School District No. Re-2,WASHINGTON ELEMENTARY SCHOOL,Matching,0,0,1.58,151.98,Matching,Matching
+MN,Olmsted,27109,,34.9%,8676,10,53,39.72,8.75,0,19,17373,5644,Matching,44.022906,-92.485991,Matching,ROCHESTER PUBLIC SCHOOL DISTRICT,Rochester Academy-Idp Living(RAIL),Matching,7.99,16.45,41.38,1526.02,Matching,Matching
+KS,Miami,20121,,34.9%,1735,3,13,9,3,0,4,4490,1549,Matching,38.501153,-94.963097,Matching,Osawatomie,Osawatomie High,Matching,5,2.64,6,321.5,Matching,Matching
+AK,Anchorage,2020,,34.9%,16899,1,99,105.4,94,0,46,20983,8287,Matching,61.179413,-149.75987,Matching,Anchorage School District,Benson Secondary/S.E.A.R.C.H.,Matching,3,0.05,84.4,2815.4,Matching,Matching
+UT,Sevier,49041,,34.2%,1590,1,12,5.95,3.65,0,3,4182,1479,Matching,38.767777,-112.09335,Matching,SEVIER DISTRICT,RICHFIELD HIGH,Matching,0,0,1.24,195.14,Matching,Matching
+LA,Pointe Coupee,22077,1,34.2%,1010,1,5,4,5,0,2,981,252,Matching,30.60992,-91.373335,Matching,Pointe Coupee Parish,Rougon Elementary School,Matching,3,0,3.5,187.85,Matching,Matching
+TX,Camp,48063,1,33.8%,836,1,5,4,4,0,2,962,305,Matching,32.993264,-94.97266,Matching,PITTSBURG ISD,PITTSBURG H S,Matching,0,0,3,200,Matching,Matching
+IN,Cass,18017,,33.7%,2091,3,11,11,7,0,4,4067,1072,Matching,40.749767,-86.332291,Matching,Logansport Community Sch Corp,Logansport Comm High School,Matching,4,2,10.5,382.5,Matching,Matching
+IN,Howard,18067,,33.4%,4565,5,25,21,20.51,0,9,10498,3213,Matching,40.47,-86.11,Matching,Taylor Community School Corporation,Taylor Middle School,Matching,15,5,25,811.89,Matching,Matching
+IN,Morgan,18109,,33.3%,3764,4,22,18,10.58,0,8,10579,3524,Matching,39.575392,-86.478159,Matching,Monroe-Gregg School District,Monrovia High School,Matching,2,6.3,15.14,648,Matching,Matching
+MI,Arenac,26011,1,32.7%,717,4,10,3.7,0.44,0,2,2059,692,Matching,44.011757,-83.960739,Matching,Standish-Sterling Community Schools,Standish-Sterling Middle School,Matching,0,0,0,112.29,Matching,Matching
+IN,Daviess,18027,,32.2%,1481,3,11,7.5,2.2,0,4,3932,1090,Matching,38.87,-87.09,Matching,North Daviess Com Schools,North Daviess Jr-Sr High School,Matching,2,0,7,240,Matching,Matching
+KS,Harvey,20079,,31.8%,1730,5,17,11.8,2.8,0,6,3932,1107,Matching,38.044586,-97.329754,Matching,Newton,Chisholm Middle School,Matching,8,3.5,5.7,428.95,Matching,Matching
+NC,Clay,37043,1,31.8%,435,1,3,2,6,0,1,1224,397,Matching,35.040915,-83.815222,Matching,Clay County Schools,Hayesville High,Matching,0,2,6,100.78,Matching,Matching
+KY,Perry,21193,,31.7%,1663,2,16,8,11,0,5,4957,1589,Matching,37.263599,-83.192997,Matching,Hazard Independent,Hazard Middle School,Matching,5,0,7.61,330.49,Matching,Matching
+IN,Jackson,18071,,31.7%,2259,4,15,12,4.99,0,5,5685,1496,Matching,38.883882,-86.04744,Matching,Brownstown Cnt Com Sch Corp,Brownstown Central High School,Matching,4,0,7.99,402.1,Matching,Matching
+CA,Colusa,6011,,31.4%,1517,6,21,7,4,0,5,987,138,Matching,39.152168,-122.154585,Matching,Williams Unified,Williams Upper Elementary,Matching,0.9,1.8,2.6,242.86,Matching,Matching
+MS,Marion,28091,,31.2%,1186,2,9,7,6,0,3,1974,672,Matching,31.249237,-89.812264,Matching,COLUMBIA SCHOOL DISTRICT,COLUMBIA HIGH SCHOOL,Matching,0,0.5,4.5,273,Matching,Matching
+UT,Utah,49049,,31.1%,41798,31,176,180.28,31.92,0,71,108590,33038,Matching,40.2969,-111.6946,Matching,ALPINE DISTRICT,POLARIS HIGH SCHOOL,Matching,14.22,60.72,29.38,5775.32,Matching,Matching
+MN,Martin,27091,1,31.0%,939,4,10,4,2,0,1,2635,772,Matching,43.825446,-94.432687,Matching,TRUMAN PUBLIC SCHOOL DISTRICT,TRUMAN SECONDARY,Matching,4,1,3.3,209.76,Matching,Matching
+MN,Renville,27129,1,31.0%,789,4,10,3.6,3,0,3,1942,543,Matching,44.525846,-94.714436,Matching,G.f.W.,G.f.W. MIDDLE SCHOOL,Matching,6.1,2.95,4.65,188.18,Matching,Matching
+KY,Whitley,21235,,30.7%,2809,3,20,10.5,5.02,0,8,8793,2711,Matching,36.73558,-84.168473,Matching,Williamsburg Independent,Williamsburg City School,Matching,0.14,5,13,586.25,Matching,Matching
+MI,Monroe,26115,,30.4%,6865,13,48,30.87,17.85,0,15,19959,5700,Matching,41.766864,-83.702253,Matching,Whiteford Agricultural School District of the Counties of Lenawee and Monroe,Whiteford High School,Matching,15.4,9.25,6.9,1202.46,Matching,Matching
+IN,Warrick,18173,,30.4%,3085,1,16,17,9.7,0,7,9157,2689,Matching,38.041324,-87.280574,Matching,Warrick County School Corp,Boonville Middle School,Matching,11.4,8.65,12.65,561.9,Matching,Matching
+CO,Fremont,8043,,30.1%,1568,3,15,11.62,7.87,0,6,4188,1254,Matching,38.39,-105.13,Matching,Fremont Re-2,FLORENCE HIGH SCHOOL,Matching,1,5.16,5.5,331.39,Matching,Matching
+OH,Perry,39127,,30.0%,1796,5,15,9,6.2,0,5,5856,1745,Matching,39.728462,-82.211683,Matching,New Lexington City,New Lexington High School,Matching,2,3.2,7.2,397.45,Matching,Matching
+MN,Mahnomen,27087,1,29.6%,322,3,8,4,5,0,1,171,43,Matching,47.188239,-95.939367,Matching,WAUBUN-OGEMA-WHITE EARTH PUBLIC SCH,WAUBUN SECONDARY,Matching,2,3,2,100.83,Matching,Matching
+MN,Morrison,27097,,29.4%,1790,6,22,6.1,0.99,0,5,5653,1595,Matching,45.91,-94.64,Matching,SWANVILLE PUBLIC SCHOOL DISTRICT,SWANVILLE SECONDARY,Matching,11.2,1.07,13.13,636,Matching,Matching
+NY,Yates,36123,,28.5%,629,2,5,9,3,0,1,2042,580,Matching,42.666107,-77.058882,Matching,PENN YAN CENTRAL SCHOOL DISTRICT,PENN YAN MIDDLE SCHOOL,Matching,5,10,10,220,Matching,Matching
+NY,Sullivan,36105,,28.5%,2707,9,19,32.5,9.1,0,5,5695,1331,Matching,41.795374,-74.747136,Matching,SULLIVAN BOCES,Rubin Pollack Education Center,Matching,26,21.4,20.5,949.72,Matching,Matching
+FL,Gulf,12045,1,27.9%,542,1,4,2,2,0,1,1525,403,Matching,29.788931,-85.29045,Matching,GULF,PORT ST. JOE HIGH SCHOOL,Matching,0,0,0,105.97,Matching,Matching
+MN,Isanti,27059,,27.3%,1597,2,13,7,2.85,0,5,5254,1409,Matching,45.575748,-93.203026,Matching,RUM RIVER SPECIAL EDUCATION COOP,RUM RIVER EAST EDUCATION PROGRAM,Matching,2,0.6,4.2,404.69,Matching,Matching
+NY,Cayuga,36011,,27.2%,2903,8,24,24.6,11,0,7,9354,2380,Matching,42.924474,-76.579627,Matching,AUBURN CITY SCHOOL DISTRICT,GENESEE STREET ELEMENTARY SCHOOL,Matching,10.6,32.9,24.5,836.11,Matching,Matching
+TX,Gonzales,48177,1,27.1%,1154,3,10,3,3,0,2,906,293,Matching,29.68,-97.28,Matching,WAELDER ISD,WAELDER SCHOOL,Matching,0,1,8,301.42,Matching,Matching
+IN,Shelby,18145,,27.0%,2050,4,16,12.2,17,0,3,6547,1596,Matching,39.453248,-85.661404,Matching,Shelby Eastern Schools,Waldron Jr-Sr High School,Matching,4,8.45,9.01,448.8,Matching,Matching
+KS,Pottawatomie,20149,,26.9%,1023,3,12,7.8,5,0,3,3333,930,Matching,39.21595,-96.316815,Matching,Wamego,Wamego Middle School,Matching,3,2.5,2.5,278.6,Matching,Matching
+MN,Douglas,27041,,26.7%,1436,4,17,5.93,4,0,2,4979,1304,Matching,45.861009,-95.395722,Matching,RUNESTONE AREA ED. DISTRICT,SOAR (Students Optimizing Academics & Relationships),Matching,6.5,3,2.99,303.56,Matching,Matching
+IN,Benton,18007,1,25.8%,480,1,4,3,1.25,0,1,1627,421,Matching,40.566062,-87.247566,Matching,Benton Community School Corp,Prairie Crossing Elementary School,Matching,0,0,3.5,118.5,Matching,Matching
+MS,George,28039,,25.6%,1023,1,8,6,8,0,3,3449,837,Matching,30.919393,-88.600631,Matching,GEORGE CO SCHOOL DIST,GEORGE COUNTY MIDDLE SCHOOL,Matching,0,0,6.5,310,Matching,Matching
+IL,De Witt,17039,,25.6%,637,2,7,5,1.67,0,3,2236,558,Matching,40.247759,-88.646098,Matching,Blue Ridge CUSD 18,Blue Ridge High School,Matching,0.5,0,2.5,182,Matching,Matching
+LA,De Soto,22031,,25.5%,1324,1,9,7,9,0,2,2703,497,Matching,32.234125,-93.827838,Matching,DeSoto Parish,North DeSoto High School,Matching,0,0,6.83,377,Matching,Matching
+IN,Knox,18083,,25.5%,1312,3,11,9,7,0,4,4769,1156,Matching,38.648611,-87.501606,Matching,Vincennes Community Sch Corp,George Rogers Clark School,Matching,6,3.5,11,312.88,Matching,Matching
+KY,Spencer,21215,1,25.4%,722,1,5,4,5,0,2,2582,656,Matching,38.039163,-85.337154,Matching,Spencer County,Spencer County High School,Matching,0,8,4,163,Matching,Matching
+DC,"Washington, D.C.",11001,,25.1%,20457,56,209,234.75,153.61,0,60,8401,3140,Matching,38.892439,-76.97898,Matching,District of Columbia Public Schools,Eliot-Hine MS,Matching,223.25,198.48,154.11,6686.26,Matching,Matching
+CO,Park,8093,1,25.0%,499,2,9,4.28,4.33,0,1,1659,412,Matching,39.224062,-105.99938,Matching,Park County School District No. Re-2,SOUTH PARK MIDDLE SCHOOL,Matching,0.5,0.69,2.5,120.03,Matching,Matching
+NY,Putnam,36079,,24.7%,3566,6,21,39.5,15.5,0,6,10571,2454,Matching,41.441978,-73.603377,Matching,BREWSTER CENTRAL SCHOOL DISTRICT,BREWSTER HIGH SCHOOL,Matching,18,30,24,1155.24,Matching,Matching
+KY,Laurel,21125,,24.6%,2288,2,17,12,9,0,5,8861,2213,Matching,37.103601,-84.072114,Matching,Laurel County,McDaniel Learning Center,Matching,0,8.35,8.66,494.5,Matching,Matching
+KY,Mason,21161,1,24.4%,693,1,4,4,4,0,1,2350,571,Matching,38.63,-83.79,Matching,Mason County,Mason County Middle School,Matching,0,2,4,166.3,Matching,Matching
+KS,Kearny,20093,1,24.0%,205,2,6,3,3.5,0,3,432,54,Matching,37.94,-101.26,Matching,Lakin,Lakin Middle,Matching,0,1.83,2.83,78,Matching,Matching
+MI,Oscoda,26135,1,23.8%,191,2,3,1.85,2,0,1,756,181,Matching,44.652266,-84.145436,Matching,Mio-AuSable Schools,Mio-AuSable High School,Matching,0,0,0,53,Matching,Matching
+MS,Pearl River,28109,,23.7%,1994,3,18,11,15,0,5,6538,1616,Matching,30.609156,-89.669209,Matching,PEARL RIVER CO SCHOOL DIST,CENTER FOR ALTERNATIVE EDUCATION,Matching,7,0,15,575,Matching,Matching
+OH,Monroe,39111,1,23.6%,374,1,7,4.3,1.25,0,2,1525,362,Matching,39.848135,-81.040889,Matching,Switzerland of Ohio Local,Beallsville High School,Matching,0,1.6,3.36,129.3,Matching,Matching
+OH,Jackson,39079,,23.5%,1210,4,12,7,8,0,4,4953,1147,Matching,39.134524,-82.534975,Matching,Wellston City,Wellston High School,Matching,2,7,5.1,356,Matching,Matching
+IL,Randolph,17157,,23.3%,898,6,12,7.34,3,0,2,3393,677,Matching,37.919225,-89.813463,Matching,Chester CUSD 139,Chester High School,Matching,6.3,0.2,5,297.01,Matching,Matching
+MN,Sherburne,27141,,23.1%,3927,4,30,24.13,11.7,0,7,14758,3406,Matching,45.293661,-93.548601,Matching,SPECTRUM HIGH SCHOOL,SPECTRUM MIDDLE SCHOOL,Matching,21.9,7.4,3.05,1060.44,Matching,Matching
+IL,Coles,17029,,22.9%,1513,4,16,11,4,0,2,5746,1298,Matching,39.38,-88.31,Matching,Clk/Cls/Cmbn/Dglas/Edgr/Mltr/Shlb,Lerna Bridges,Matching,8.5,6.25,10.75,439.5,Matching,Matching
+MS,Harrison,28047,,22.9%,7471,6,50,57,38.67,0,13,17210,3397,Matching,30.406851,-89.100241,Matching,HARRISON CO SCHOOL DIST,NORTH GULFPORT 7TH GRADE,Matching,18,3.1,52.6,2098.1,Matching,Matching
+MN,Mille Lacs,27095,,22.9%,1467,6,16,10,5,0,3,5586,1167,Matching,45.754541,-93.654464,Matching,RUM RIVER SPECIAL EDUCATION COOP,RUM RIVER NORTH,Matching,9.5,5,14.7,414.95,Matching,Matching
+MN,Wabasha,27157,,22.8%,868,3,11,9,7.5,0,3,3398,759,Matching,44.309517,-92.001672,Matching,HIAWATHA VALLEY ED. DISTRICT,RIVER VALLEY ACADEMY ALC,Matching,4.4,3.5,4.77,284.48,Matching,Matching
+VA,Middlesex,51119,1,22.8%,284,1,3,3,3,0,1,894,208,Matching,37.607838,-76.602272,Matching,MIDDLESEX CO PBLC SCHS,MIDDLESEX HIGH,Matching,0.99,0.99,3,90,Matching,Matching
+FL,Taylor,12123,,22.5%,607,1,6,5,3,0,1,1824,382,Matching,30.07512,-83.567988,Matching,TAYLOR,TAYLOR TECHNICAL INSTITUTE,Matching,1,0,0,183,Matching,Matching
+MN,Pine,27115,,22.5%,878,4,13,6.6,1.93,0,3,3349,804,Matching,46.320109,-92.836754,Matching,WILLOW RIVER PUBLIC SCHOOL DISTRICT,WILLOW RIVER SECONDARY,Matching,3.35,6,6.08,286.59,Matching,Matching
+LA,East Carroll,22035,1,22.3%,235,1,3,1,2,0,1,4,0,Matching,32.84,-91.22,Matching,East Carroll Parish,Griffin Middle School Academy,Matching,1,1,1,64,Matching,Matching
+MS,Jefferson Davis,28065,1,22.3%,359,1,5,4,4,0,1,179,70,Matching,31.60146,-89.868872,Matching,JEFFERSON DAVIS CO SCHOOL DIST,PRENTISS SENIOR HIGH SCHOOL,Matching,1,0,0,121,Matching,Matching
+OH,Wyandot,39175,,22.0%,558,3,8,5.02,5,0,3,2315,507,Matching,40.950298,-83.377848,Matching,Carey Exempted Village,Carey High School,Matching,0,0.63,0.45,164.54,Matching,Matching
+MI,Ottawa,26139,,21.7%,10057,17,88,44,35.96,0,22,34422,7723,Matching,43.060542,-86.224543,Matching,Grand Haven Area Public Schools,Central High School,Matching,41.57,29.9,10.55,2466.06,Matching,Matching
+KS,Linn,20107,,21.7%,409,3,8,5,6.5,0,2,1715,374,Matching,38.173411,-94.720793,Matching,Pleasanton,Pleasanton High,Matching,1,2,2.85,148.6,Matching,Matching
+CA,Kings,6031,,21.6%,6060,13,65,44.2,62.65,0,14,6047,1832,Matching,36.33761,-119.64569,Matching,Hanford Joint Union High,Earl F. Johnson High (Continuation),Matching,11.25,32.54,42.97,1322.78,Matching,Matching
+NE,Cass,31025,,21.6%,815,5,14,11.5,2,0,2,3527,749,Matching,40.865647,-96.141252,Matching,WEEPING WATER PUBLIC SCHOOLS,WEEPING WATER HIGH SCHOOL,Matching,3,8.36,8.45,334.32,Matching,Matching
+IL,Wabash,17185,1,21.5%,477,2,6,1,1,0,1,2130,460,Matching,38.419842,-87.776583,Matching,Wabash CUSD 348,Mt Carmel Middle School,Matching,5,0,5,147,Matching,Matching
+WV,Tyler,54095,1,21.5%,282,1,4,2,2,0,1,1279,274,Matching,39.520681,-80.894739,Matching,TYLER COUNTY SCHOOLS,TYLER CONSOLIDATED MIDDLE SCHOOL,Matching,0,0,1,93,Matching,Matching
+MS,Walthall,28147,1,21.3%,420,1,5,2.5,3.1,0,1,656,97,Matching,31.12,-90.14,Matching,WALTHALL CO SCHOOL DIST,TYLERTOWN HIGH SCHOOL,Matching,0,0,4,135.5,Matching,Matching
+IL,Winnebago,17201,,21.0%,9020,11,88,105.35,14.8,0,24,22088,3039,Matching,42.277431,-89.119615,Matching,Rockford SD 205,Lewis Lemon Elementary,Matching,62.49,42.93,71.54,2782.88,Matching,Matching
+MI,Cass,26027,,20.8%,1614,5,22,10,7,0,5,5791,1436,Matching,41.989337,-86.108983,Matching,Lewis Cass ISD,North Pointe Center,Matching,10,1,4,365.51,Matching,Matching
+MI,Alpena,26007,1,20.8%,888,2,10,3,2,0,1,4015,847,Matching,45.054524,-83.46976,Matching,Alpena Public Schools,Alpena High School,Matching,0,0,0.81,197.69,Matching,Matching
+IN,Posey,18129,,20.7%,727,2,9,8,4,0,2,3210,674,Matching,37.938138,-87.887784,Matching,M S D Mount Vernon,Mount Vernon High School,Matching,0,1.5,9,247.56,Matching,Matching
+TX,Frio,48163,1,20.5%,677,2,7,3,3,0,1,208,40,Matching,28.671914,-99.172061,Matching,DILLEY ISD,MARY HARPER MIDDLE,Matching,0,0,1,246.1,Matching,Matching
+MI,Lapeer,26087,,20.2%,2567,7,27,19.8,6.84,0,7,11361,2125,Matching,43.00504,-83.075179,Matching,Imlay City Community Schools,Venture High School,Matching,10.96,5.06,1.75,624,Matching,Matching
+OH,Ashtabula,39007,,20.1%,2862,7,31,18.33,10,0,7,12055,1996,Matching,41.947405,-80.560203,Matching,Conneaut Area City,Conneaut High School,Matching,0,10.46,13.8,1005.17,Matching,Matching
+CA,Sacramento,6067,,20.1%,45484,15,340,271.47,123.96,0,66,70787,13074,Matching,38.544593,-121.28913,Matching,Folsom-Cordova Unified,Mather Youth Academy,Matching,113.27,188.05,130.1,10660.67,Matching,Matching
+TN,Grundy,47061,,19.8%,501,1,8,6.75,6,0,2,2480,497,Matching,35.37,-85.7,Matching,Grundy County,Grundy County High School,Matching,0,1,5,186.65,Matching,Matching
+OR,Jackson,41029,,19.7%,5853,9,62,28.85,21.37,0,12,20588,4032,Matching,42.37978,-122.92111,Matching,Central Point SD 6,Crater Academy of Health and Public Services,Matching,1,6.69,6.38,1394.34,Matching,Matching
+IL,Johnson,17087,1,19.6%,345,5,6,3,3.05,0,2,1668,335,Matching,37.551597,-88.97776,Matching,Goreville CUD 1,Goreville High School,Matching,2,0,4,111,Matching,Matching
+IN,St. Joseph,18141,,19.6%,7981,8,68,65.5,18.21,0,16,23888,5950,Matching,41.72,-86.19,Matching,School City of Mishawaka,John J Young Middle School,Matching,30.1,20.87,17,2330.56,Matching,Matching
+MN,Redwood,27127,,19.6%,420,5,12,9.5,1.66,0,1,1638,232,Matching,44.605477,-95.326935,Matching,REGN 6 AND 8-SW/WC SRV COOPERATIVE,BELVIEW LEARNING CTR BRIDGES,Matching,4,1.72,3.6,198.18,Matching,Matching
+MN,Wright,27171,,19.6%,5121,13,54,27.76,13.55,0,13,23628,4523,Matching,45.058294,-94.072086,Matching,MEEKER AND WRIGHT SPECIAL EDUCATION,CORNERSTONES PROGRAM,Matching,29,12.15,13.94,1585.34,Matching,Matching
+GA,Dooly,13093,1,19.6%,278,1,3,2.5,4,0,1,129,22,Matching,32.19,-83.75,Matching,Dooly County,Dooly County Middle School,Matching,0,0,0,77.2,Matching,Matching
+IN,Clark,18019,,19.6%,3331,4,32,25,15.8,0,6,12155,2838,Matching,38.27,-85.75,Matching,Greater Clark County Schools,Spring Hill Elementary School,Matching,7.5,5.55,9.5,999,Matching,Matching
+IL,Clay,17025,1,19.5%,455,3,8,3.99,3.05,0,1,2216,442,Matching,38.77,-88.5,Matching,North Clay CUSD 25,North Clay Community High School,Matching,0,0,4.29,150.25,Matching,Matching
+FL,Okaloosa,12091,,19.2%,5455,1,44,39,39,0,13,19237,3415,Matching,30.469212,-86.614709,Matching,OKALOOSA,CHOICE HIGH SCHOOL AND TECHNICAL CENTER,Matching,0,0,0,1337.65,Matching,Matching
+OH,Morrow,39117,,19.0%,861,6,13,11.5,3,0,1,4189,820,Matching,40.554198,-82.862928,Matching,Tomorrow Center,Tomorrow Center,Matching,5,7.66,6.66,290.86,Matching,Matching
+KY,Henry,21103,1,19.0%,544,2,7,4.5,0.85,0,2,2551,497,Matching,38.44,-85.19,Matching,Henry County,Henry County High School,Matching,1,1.85,1.85,154.96,Matching,Matching
+IN,Gibson,18051,,18.9%,933,3,13,13.75,13,0,2,4474,767,Matching,38.366536,-87.580448,Matching,North Gibson School Corp,Princeton Community Middle,Matching,2,10.1,15.1,329,Matching,Matching
+MI,Manistee,26101,,18.8%,837,6,14,5,4,0,3,3590,723,Matching,44.236566,-86.312199,Matching,Casman Alternative Academy,Casman Alternative Academy,Matching,5.5,2,2,257.34,Matching,Matching
+OH,Clinton,39027,,18.7%,1568,4,17,13,3.49,0,3,7625,1485,Matching,39.445316,-83.985736,Matching,Clinton-Massie Local,Clinton-Massie High School,Matching,1.5,4,5.72,493.05,Matching,Matching
+TN,Perry,47135,1,18.6%,213,1,4,2.5,3,0,1,1069,202,Matching,35.62,-87.84,Matching,Perry County,Perry County High School,Matching,0,1.5,3,90,Matching,Matching
+MS,Clarke,28023,,18.5%,545,2,7,7,4,0,1,1663,256,Matching,32.169712,-88.807309,Matching,ENTERPRISE SCHOOL DIST,ENTERPRISE MIDDLE SCHOOL,Matching,0,0,4,217,Matching,Matching
+KS,Cherokee,20021,,18.5%,706,4,15,11.5,5.33,0,3,3219,615,Matching,37.073507,-94.70674,Matching,Riverton,Riverton High,Matching,1,2.2,4.58,289.2,Matching,Matching
+IL,Bureau,17011,,18.3%,956,13,22,10.2,4,0,3,4144,855,Matching,41.54,-89.46,Matching,Ohio CHSD 505,Ohio Community High School,Matching,3.2,1.2,4.25,393.69,Matching,Matching
+FL,Orange,12095,,18.3%,36431,1,240,323,184,0,58,55701,10727,Matching,28.568483,-81.48812,Matching,ORANGE,MAGNOLIA,Matching,4,2,0,11639.97,Matching,Matching
+IA,Lee,19111,,18.2%,887,3,11,6.5,5.5,0,3,4160,726,Matching,40.411298,-91.387537,Matching,Keokuk Comm School District,Keokuk Middle School,Matching,3,0,8.43,343.55,Matching,Matching
+TX,Madison,48313,,17.9%,483,2,5,5,2,0,1,1307,214,Matching,30.944378,-95.907793,Matching,MADISONVILLE CISD,MADISONVILLE H S,Matching,1,0,5,197,Matching,Matching
+CA,Mono,6051,1,17.9%,287,3,13,2,6,0,4,640,145,Matching,37.960927,-119.12204,Matching,Eastern Sierra Unified,Lee Vining High,Matching,0,0,0,100,Matching,Matching
+MN,Polk,27119,,17.9%,930,7,18,9.66,1,0,2,4248,737,Matching,47.789282,-96.597913,Matching,CROOKSTON PUBLIC SCHOOL DISTRICT,CROOKSTON SECONDARY,Matching,5,3,8,408.94,Matching,Matching
+NY,Columbia,36021,,17.8%,1284,7,17,23,6.73,0,3,5523,687,Matching,42.133959,-73.890467,Matching,GERMANTOWN CENTRAL SCHOOL DISTRICT,GERMANTOWN JUNIOR-SENIOR HIGH SCHOOL,Matching,7.35,20.49,17.1,702.91,Matching,Matching
+IL,Perry,17145,,17.7%,528,6,13,9.75,1.37,0,1,2632,445,Matching,38.02,-89.24,Matching,Duquoin CUSD 300,Duquoin High School,Matching,3.25,0,4.5,189.6,Matching,Matching
+NY,Wyoming,36121,,17.5%,778,5,11,11,7,0,2,4208,746,Matching,42.629445,-78.115191,Matching,LETCHWORTH CENTRAL SCHOOL DISTRICT,LETCHWORTH SENIOR HIGH SCHOOL,Matching,3,7,9.98,429.65,Matching,Matching
+MI,Roscommon,26143,1,17.5%,451,4,9,3.2,0.75,0,2,2418,431,Matching,44.334193,-84.802482,Matching,Houghton Lake Community Schools,Houghton Lake Adult Education,Matching,2.06,0,0.02,162.5,Matching,Matching
+MN,Carver,27019,,17.3%,3106,6,35,18.58,5.5,0,3,15089,2577,Matching,44.837846,-93.794474,Matching,WACONIA PUBLIC SCHOOL DISTRICT,WACONIA ALTERNATIVE LEARNING CENTER,Matching,9.95,13.2,26.11,1119.68,Matching,Matching
+KY,Breathitt,21025,1,16.8%,367,2,8,3.5,1,0,1,2119,352,Matching,37.55,-83.38,Matching,Breathitt County,Breathitt County High School,Matching,0,0.5,4.5,106.32,Matching,Matching
+MO,Ripley,29181,,16.6%,416,3,8,7,4,0,1,2387,400,Matching,36.623441,-90.820364,Matching,DONIPHAN R-I,DONIPHAN MIDDLE,Matching,0,0,5,188,Matching,Matching
+NE,Sioux,31165,1,16.3%,17,1,4,1.2,4,0,1,85,13,Matching,42.690281,-103.880341,Matching,SIOUX COUNTY PUBLIC SCHOOLS,SIOUX COUNTY HIGH SCHOOL,Matching,0,0,0,19,Matching,Matching
+ID,Gooding,16047,,16.3%,539,6,11,5.99,3,0,1,1887,331,Matching,42.931439,-114.71453,Matching,NORTH VALLEY ACADEMY,NORTH VALLEY ACADEMY,Matching,2.27,1.5,5.78,203.33,Matching,Matching
+ID,Franklin,16041,,16.2%,538,2,9,7.5,5,0,1,2943,451,Matching,42.09,-111.87,Matching,PRESTON JOINT DISTRICT,FRANKLIN COUNTY (ALT) HIGH,Matching,0,1,0,157.85,Matching,Matching
+OH,Hancock,39063,,16.1%,1905,10,35,31.5,18.25,0,7,10127,1783,Matching,40.96,-83.75,Matching,Cory-Rawson Local,Cory-Rawson Elementary School,Matching,0,10.3,7.2,799.69,Matching,Matching
+ID,Owyhee,16073,,16.0%,374,3,9,6,1.51,0,1,1410,202,Matching,42.931625,-115.984759,Matching,BRUNEAU-GRAND VIEW JOINT SCHOOL DISTRICT,RIMROCK JR-SR HIGH SCHOOL,Matching,0,0,0.75,123.19,Matching,Matching
+IL,McLean,17113,,16.0%,3756,10,54,35.2,11.32,0,7,16371,1837,Matching,40.396353,-88.871365,Matching,Tri Valley CUSD 3,Tri-Valley High School,Matching,15.23,20.12,29.89,1633.13,Matching,Matching
+OH,Scioto,39145,,15.9%,1970,12,30,21,8,0,4,11547,1567,Matching,38.76,-83.03,Matching,Washington-Nile Local,Portsmouth West Middle School,Matching,0,6.51,15.11,671.33,Matching,Matching
+IN,Grant,18053,,15.9%,1628,6,24,18.5,4.12,0,4,7713,862,Matching,40.48922,-85.621433,Matching,Mississinewa Community School Corp,R J Baskett Middle School,Matching,12,5.25,14.25,578,Matching,Matching
+ID,Bonner,16017,,15.9%,817,3,17,11,5.6,0,2,4592,698,Matching,48.300254,-116.557067,Matching,LAKE PEND OREILLE SCHOOL DISTRICT,LAKE PEND OREILLE ALT HIGH SCHOOL,Matching,0,5.4,2,307.35,Matching,Matching
+IN,Franklin,18047,,15.7%,952,3,10,11,3,0,2,5806,857,Matching,39.428592,-84.998769,Matching,Franklin County Com Sch Corp,Franklin County High,Matching,0.6,0.8,7.75,355.99,Matching,Matching
+OH,Tuscarawas,39157,,15.6%,2581,11,42,20,5.47,0,7,15180,2311,Matching,40.414416,-81.364827,Matching,Claymont City,Claymont High School,Matching,1.03,9.24,10.3,1056.82,Matching,Matching
+WY,Sweetwater,56037,,15.5%,1307,2,27,25.67,12.5,0,4,6216,1009,Matching,41.52,-109.47,Matching,Sweetwater County School District #2,Expedition Academy,Matching,13,5.67,11.9,657.62,Matching,Matching
+MT,Park,30067,,15.5%,305,9,15,8.35,0.25,0,1,1781,271,Matching,45.887458,-110.59788,Matching,Shields Valley H S,Shields Valley High Schl,Matching,0,1.6,6.1,152.87,Matching,Matching
+OR,Douglas,41019,,15.4%,2160,14,46,23.5,7.51,0,7,11293,1780,Matching,43.428249,-123.299,Matching,Oakland SD 1,Oakland High School,Matching,0,4,2.4,754.8,Matching,Matching
+MI,Wexford,26165,,15.2%,844,5,15,8.5,4.91,0,3,5205,804,Matching,44.249807,-85.416329,Matching,Cadillac Area Public Schools,Cadillac Senior High School,Matching,18.5,2,1,279.93,Matching,Matching
+IL,Fulton,17057,,15.1%,737,7,22,15.5,1,0,2,4606,689,Matching,40.394452,-90.153396,Matching,West Central IL Spec Educ Coop,New Horizons,Matching,9.31,9.11,0.5,382.82,Matching,Matching
+OH,Allen,39003,,15.1%,2563,13,37,34.35,22.5,0,5,12340,1586,Matching,40.729328,-84.088188,Matching,Auglaize County Educational Academy,Auglaize County Educational Academy,Matching,9,6.24,21.5,1050.95,Matching,Matching
+MI,Osceola,26133,1,14.9%,587,4,12,4,0.99,0,1,3654,553,Matching,43.908384,-85.26595,Matching,Evart Public Schools,Evart Elementary School,Matching,4.84,0.34,0.99,209.52,Matching,Matching
+NY,Ontario,36069,,14.9%,2409,9,30,49,11.5,0,4,13596,1819,Matching,42.96,-77.23,Matching,MANCHESTER-SHORTSVILLE CENTRAL SCHOOL DISTRICT (RED JACKET),RED JACKET MIDDLE SCHOOL,Matching,11.29,34.5,35,1366.5,Matching,Matching
+IA,Cerro Gordo,19033,,14.7%,864,4,15,12.5,1,0,2,4893,722,Matching,43.128324,-93.478085,Matching,Garner-Hayfield-Ventura Comm School District,Garner-Hayfield-Ventura Junior High,Matching,0.36,0,10.1,388,Matching,Matching
+CO,Montrose,8085,,14.6%,872,2,16,23.1,7.91,0,3,3467,619,Matching,38.609168,-107.984651,Matching,Montrose County School District Re-1J,OLATHE MIDDLE SCHOOL,Matching,1,0,0,363,Matching,Matching
+NY,Seneca,36099,,14.6%,574,4,11,13,5,0,2,3488,458,Matching,42.909297,-76.851133,Matching,WATERLOO CENTRAL SCHOOL DISTRICT,LA FAYETTE SCHOOL,Matching,4,9.5,9.5,383,Matching,Matching
+LA,East Feliciana,22037,1,14.5%,301,1,7,3,2,0,1,699,37,Matching,30.858339,-91.022459,Matching,East Feliciana Parish,Clinton Elementary School,Matching,0,0,5,153,Matching,Matching
+AR,Hot Spring,5059,,14.5%,723,5,13,12.81,6.5,0,2,3919,680,Matching,34.355757,-92.804979,Matching,MALVERN SCHOOL DISTRICT,MALVERN HIGH SCHOOL,Matching,0,0.75,9.5,346.29,Matching,Matching
+IL,Knox,17095,,14.4%,992,6,19,8,4,0,2,5032,638,Matching,41.07,-90.23,Matching,R O W V A CUSD 208,R O W V A Jr and  Sr High School,Matching,1,1,7.49,458.33,Matching,Matching
+TX,Henderson,48213,,14.3%,1575,8,31,22.12,7.25,0,5,7103,1316,Matching,32.202884,-95.846463,Matching,ATHENS ISD,ATHENS H S,Matching,0,0.1,22.89,804.7,Matching,Matching
+WY,Park,56029,,14.3%,579,3,16,12.8,1.92,0,3,3545,474,Matching,44.753595,-108.75196,Matching,Park County School District # 1,Shoshone Learning Center,Matching,2,5.01,7.13,325.23,Matching,Matching
+TN,Chester,47023,,14.2%,408,1,6,6,6,0,2,2361,329,Matching,35.443934,-88.615468,Matching,Chester County,Chester County Junior High School,Matching,3,0,4,185,Matching,Matching
+IN,Hamilton,18057,,14.1%,8407,9,69,112.5,33.59,0,13,46153,5494,Matching,40.014997,-85.992035,Matching,Options Charter Sch - Noblesville,Options Charter School Noblesville,Matching,20.4,34.29,61.3,3207.65,Matching,Matching
+CA,San Joaquin,6077,,14.0%,18572,12,203,189.6,52.7,0,26,25795,4415,Matching,37.798265,-121.22617,Matching,Manteca Unified,Manteca Community Day (7-12),Matching,13.75,109.29,58.05,5943.29,Matching,Matching
+WY,Fremont,56013,,14.0%,1016,9,32,61.02,15.45,0,6,3717,631,Matching,43.032229,-108.41173,Matching,Fremont County School District #25,Riverton Middle School,Matching,11,8,14.72,622.53,Matching,Matching
+AZ,Mohave,4015,,14.0%,3440,24,56,28.05,17.25,0,8,16696,2483,Matching,35.487464,-113.56894,Matching,Valentine Elementary District,Valentine Elementary School,Matching,0,1.75,16,1330.97,Matching,Matching
+MN,Sibley,27143,,14.0%,335,5,12,8,2,0,1,1779,256,Matching,44.528986,-93.90355,Matching,MINNESOTA NEW COUNTRY SCHOOL,MINNESOTA NEW COUNTRY SCHOOL,Matching,3.5,0.25,4.33,204.33,Matching,Matching
+IN,DeKalb,18033,,13.9%,979,4,13,18,9,0,3,6478,936,Matching,41.348325,-85.126938,Matching,Garrett-Keyser-Butler Com,Garrett High School,Matching,1,4,12,397,Matching,Matching
+TN,Henderson,47077,,13.9%,685,2,11,10,4,0,1,4154,439,Matching,35.650325,-88.37317,Matching,Lexington City School System,Lexington Middle School,Matching,2.2,0.99,13.5,356,Matching,Matching
+MN,Dodge,27039,,13.8%,527,3,8,6,6.5,0,2,3338,431,Matching,44.032723,-92.866883,Matching,TRITON SCHOOL DISTRICT,TRITON HIGH SCHOOL,Matching,5.5,1,5,270.11,Matching,Matching
+MN,Fillmore,27045,1,13.8%,356,5,13,3,3,0,2,2468,329,Matching,43.695882,-92.388993,Matching,KINGSLAND PUBLIC SCHOOL DISTRICT,Kingsland Junior/Senior High School,Matching,3,1.9,0,186.29,Matching,Matching
+CA,Orange,6059,,13.6%,66011,30,586,451.1,131.42,0,114,134739,25832,Matching,33.506557,-117.663609,Matching,Capistrano Unified,Bridges Community Day,Matching,15.96,311.56,141.43,19367.84,Matching,Matching
+MS,Tippah,28139,,13.5%,571,2,9,7,2.99,0,2,3015,533,Matching,34.67081,-89.032349,Matching,SOUTH TIPPAH SCHOOL DIST,BLUE MOUNTAIN HIGH SCHOOL,Matching,0,0,2,301.25,Matching,Matching
+NM,Eddy,35015,,13.4%,1622,2,26,23.5,12.89,0,6,4688,450,Matching,32.2793,-104.09828,Matching,LOVING MUNICIPAL SCHOOLS,LOVING MIDDLE,Matching,19.9,4.25,16.4,657.26,Matching,Matching
+IL,Sangamon,17167,,13.4%,4015,12,71,18.5,9,0,5,20465,1994,Matching,39.805879,-89.662471,Matching,Springfield SD 186,Douglas School,Matching,44,20.5,39.29,1912.72,Matching,Matching
+IL,Effingham,17049,,13.3%,712,6,17,12.9,9.05,0,3,5060,660,Matching,39.124472,-88.538348,Matching,Eastern IL Area of Spec Educ,Fresh Start Treatment & Learning,Matching,3.9,2.4,3.05,385.5,Matching,Matching
+NY,Cortland,36023,,13.2%,831,5,17,17,6,0,2,5816,776,Matching,42.643793,-76.188323,Matching,HOMER CENTRAL SCHOOL DISTRICT,HOMER SENIOR HIGH SCHOOL,Matching,16,13,20,592.85,Matching,Matching
+NY,Herkimer,36043,,13.2%,1251,11,26,25.77,7.99,0,3,9010,1215,Matching,42.89,-75.17,Matching,MOUNT MARKHAM CENTRAL SCHOOL DISTRICT,MOUNT MARKHAM SENIOR HIGH SCHOOL,Matching,12.1,13.19,23.43,825.9,Matching,Matching
+CA,Imperial,6025,,13.1%,5085,16,66,48.02,14.79,0,5,2883,224,Matching,32.788388,-115.56661,Matching,Central Union High School District,Central Union High,Matching,0,22.32,44.79,1744.49,Matching,Matching
+OR,Polk,41053,,13.0%,1604,4,23,19.9,1,0,3,8177,810,Matching,44.916544,-123.30289,Matching,Dallas SD 2,Dallas High School,Matching,2.5,0.75,1.52,553.52,Matching,Matching
+MI,Newaygo,26123,,12.9%,982,7,23,13.75,0.99,0,3,6536,861,Matching,43.410768,-85.797677,Matching,Newaygo Public School District,Newaygo High School,Matching,0,0,1.5,373.18,Matching,Matching
+MN,Todd,27153,1,12.9%,378,4,10,4.74,2.7,0,1,2353,346,Matching,46.263694,-95.062056,Matching,BERTHA-HEWITT PUBLIC SCHOOL DIST.,BERTHA SECONDARY,Matching,4.45,0.5,3.65,183.69,Matching,Matching
+NY,Kings,36047,,12.9%,3776,60,61,78.9,57.7,0,10,1890,141,Matching,40.594005,-73.937395,Matching,NEW VISIONS CHTR HS-ADV MA/SCI III,NEW VISIONS CHTR HS-ADV MA/SCI III,Matching,65.57,7,30.3,2482.34,Matching,Matching
+IN,Fountain,18045,,12.8%,351,3,7,6,4.5,0,1,2515,322,Matching,40.10783,-87.228001,Matching,Southeast Fountain School Corp,Fountain Central High School,Matching,2,0,5,195,Matching,Matching
+MN,Chisago,27025,,12.8%,1049,4,18,10,4.1,0,2,7632,959,Matching,45.382744,-92.868676,Matching,CHISAGO LAKES SCHOOL DISTRICT,LEVEL 4 PROGRAM PATHWAYS TO CHANGE,Matching,6,15.9,9.8,502.44,Matching,Matching
+TX,Kleberg,48273,,12.8%,711,4,15,17,2,0,2,658,152,Matching,27.508507,-97.879734,Matching,KINGSVILLE ISD,MEMORIAL MIDDLE,Matching,0,0,9.05,377.37,Matching,Matching
+NJ,Salem,34033,,12.8%,1069,13,23,28.18,6,0,4,5912,877,Matching,39.648799,-75.519226,Matching,PENNSVILLE PUBLIC SCHOOL DISTRICT,Pennsville Memorial High School,Matching,9.27,7.01,17,739.02,Matching,Matching
+MN,Itasca,27061,,12.7%,940,6,24,15.8,4.75,0,3,6005,606,Matching,47.12,-93.26,Matching,NORTHERN LIGHTS COMMUNITY SCHOOL,NORTHERN LIGHTS COMMUNITY SCHOOL,Matching,5.5,2.4,12.58,474.28,Matching,Matching
+OH,Jefferson,39081,,12.7%,1171,6,23,15.5,5,0,3,7847,1140,Matching,40.447909,-80.746394,Matching,Edison Local,Edison High School,Matching,5,8.05,13,604.86,Matching,Matching
+CA,Merced,6047,,12.6%,7277,21,105,68.24,36.6,0,16,9577,1270,Matching,37.067349,-120.86166,Matching,Merced County Office of Education,Valley Los Banos Community,Matching,0.5,45.3,50.4,2516.67,Matching,Matching
+NY,Oneida,36065,,12.6%,4389,20,75,83.6,40.49,0,12,25725,4014,Matching,43.138064,-75.561205,Matching,MADISON-ONEIDA BOCES,MADISON-ONEIDA BOCES,Matching,52.65,37.72,84.5,2714.92,Matching,Matching
+TX,Freestone,48161,,12.4%,471,4,14,8.45,5.5,0,2,2242,238,Matching,31.720095,-96.140039,Matching,FAIRFIELD ISD,FAIRFIELD H S,Matching,0,0,7,299.29,Matching,Matching
+IN,Dubois,18037,,12.3%,899,4,18,14.49,1,0,2,6111,773,Matching,38.41472,-86.99944,Matching,Greater Jasper Con Schs,Ireland Elementary School,Matching,6.33,1.2,12.2,437.5,Matching,Matching
+MI,Allegan,26005,,12.2%,2417,14,52,19.45,6.2,0,5,16525,1997,Matching,42.534449,-85.827901,Matching,Outlook Academy,Outlook Academy,Matching,20.7,5.55,13.95,987.5,Matching,Matching
+IN,Hancock,18059,,12.2%,1649,4,22,20,12,0,3,11809,1398,Matching,39.823975,-85.610871,Matching,Eastern Hancock Co Com Sch Corp,Eastern Hancock High School,Matching,5.88,0,4,750.08,Matching,Matching
+IL,Champaign,17019,,12.2%,2905,15,55,44.13,7.05,0,8,13258,1706,Matching,40.115802,-88.241283,Matching,Champaign/Ford ROE,R E A D Y Program,Matching,36.5,22.9,18.89,1777.38,Matching,Matching
+CO,Pueblo,8101,,12.2%,3881,2,59,66.76,16.48,0,13,12059,2209,Matching,38.277424,-104.60764,Matching,Falcon School District No. 49 in the county of El Paso and,GOAL ACADEMY,Matching,0,8.93,10.97,1572.75,Matching,Matching
+OH,Darke,39037,,12.0%,935,8,21,11.99,5.51,0,3,7395,855,Matching,39.995404,-84.550397,Matching,Arcanum-Butler Local,Butler Middle School,Matching,6,4.99,7.64,452.39,Matching,Matching
+AZ,Yavapai,4025,,12.0%,3049,39,74,28.42,14.5,0,7,16983,1972,Matching,34.907649,-112.48029,Matching,Research Based Education Corporation,Paulden Community School,Matching,4.37,19.83,27.43,1374.32,Matching,Matching
+MN,Clay,27027,,12.0%,939,6,19,18.66,7.5,0,2,6616,833,Matching,46.88,-96.32,Matching,LAKE AGASSIZ SPECIAL ED. COOP.,INTENSIVE INTERAGENCY PROGRAM,Matching,6.98,3.31,5,576.54,Matching,Matching
+IN,Marion,18097,,12.0%,16934,52,223,209.68,77.36,0,30,49140,7346,Matching,39.7434,-86.088616,Matching,Indpls Lighthouse Charter School,Indpls Lighthouse Charter School,Matching,108.07,79.66,165.42,8774.19,Matching,Matching
+NC,Cherokee,37039,,11.9%,443,2,14,10.6,13,0,3,3236,399,Matching,35.100475,-84.014908,Matching,Cherokee County Schools,Murphy Middle,Matching,1,0,3,314.79,Matching,Matching
+LA,Sabine,22085,,11.9%,512,1,10,7.5,1,0,1,2125,94,Matching,31.815718,-93.514262,Matching,Sabine Parish,Pleasant Hill High School,Matching,0,0,6,295,Matching,Matching
+IN,Boone,18011,,11.9%,1423,3,17,29,9,0,3,10463,1215,Matching,39.961355,-86.273691,Matching,Zionsville Community Schools,Zionsville Community High School,Matching,0,2,18,634.27,Matching,Matching
+IN,Vigo,18167,,11.8%,1746,1,28,29,47.4,0,5,12137,1460,Matching,39.486293,-87.402088,Matching,Vigo County School Corp,McLean Education Center (Alt),Matching,0,0,2,906,Matching,Matching
+FL,Calhoun,12013,1,11.8%,257,1,5,4,3,0,1,1664,166,Matching,30.44,-85.05,Matching,CALHOUN,BLOUNTSTOWN HIGH SCHOOL,Matching,0,0,0,144.98,Matching,Matching
+OH,Greene,39057,,11.8%,2580,10,35,37,14.5,0,4,17651,2011,Matching,39.674987,-83.958718,Matching,Summit Academy Community School Alternative Learners -Xenia,Summit Academy Community School Alternative Learners -Xenia,Matching,2.5,18.2,21,1108.18,Matching,Matching
+NY,Steuben,36101,,11.8%,1840,13,36,50.55,20.99,0,4,13760,1708,Matching,42.237201,-77.197562,Matching,CAMPBELL-SAVONA CENTRAL SCHOOL DISTRICT,CAMPBELL-SAVONA JUNIOR/SENIOR HIGH SCHOOL,Matching,42.9,26.81,39.3,1547.7,Matching,Matching
+NY,Rockland,36087,,11.7%,4791,11,68,101.8,19.2,0,10,18466,1612,Matching,41.049112,-73.95397,Matching,SOUTH ORANGETOWN CENTRAL SCHOOL DISTRICT,TAPPAN ZEE HIGH SCHOOL,Matching,62.3,118.85,79.9,3517.07,Matching,Matching
+OH,Belmont,39013,,11.6%,1097,8,24,13,6.5,0,2,8685,1073,Matching,40.078577,-80.903002,Matching,St Clairsville-Richland City,St Clairsville High School,Matching,2.22,5.35,9.71,577.35,Matching,Matching
+OR,Lane,41039,,11.6%,5182,16,109,46.94,12.98,0,6,31915,3663,Matching,44.030581,-123.09254,Matching,Eugene SD 4J,Network Charter School,Matching,1.2,13.06,6.25,1793.94,Matching,Matching
+RI,Kent,44003,,11.6%,1627,5,25,41.5,11.82,0,4,11989,1372,Matching,41.607428,-71.638576,Matching,Exeter-West Greenwich,Exeter-West Greenwich Regional,Matching,21.5,13,26.9,1188.27,Matching,Matching
+MI,Muskegon,26121,,11.6%,3286,16,62,38.7,14.25,0,7,19857,2743,Matching,43.42382,-86.360663,Matching,Montague Area Public Schools,Montague High School,Matching,29.22,16.1,8.5,1514.24,Matching,Matching
+TX,Marion,48315,1,11.6%,140,1,4,3,4,0,1,640,61,Matching,32.76,-94.36,Matching,JEFFERSON ISD,JEFFERSON H S,Matching,0,0.1,2.9,97.4,Matching,Matching
+OK,Delaware,40041,,11.5%,780,9,20,18.25,7.75,0,2,2663,275,Matching,36.17,-94.64,Matching,WATTS,WATTS HS,Matching,1,0.75,11,479.83,Matching,Matching
+MN,Otter Tail,27111,,11.4%,1122,12,34,21.5,3.1,0,3,8432,993,Matching,46.52,-95.37,Matching,NEW YORK MILLS PUBLIC SCHOOL DIST.,NEW YORK MILLS SECONDARY,Matching,9.05,4.69,8.53,621.66,Matching,Matching
+MN,Blue Earth,27013,,11.3%,984,5,22,16.5,3,0,2,7093,929,Matching,44.157491,-94.009345,Matching,MANKATO PUBLIC SCHOOL DISTRICT,CENTRAL HIGH  AREA LEARNING CENTER,Matching,8.35,9.5,7,568.81,Matching,Matching
+ME,Franklin,23007,,11.3%,349,5,12,6.6,4,0,1,2973,337,Matching,44.9036,-70.270264,Matching,RSU 58/MSAD 58,Mt Abram Regional High School,Matching,6.6,0,7.17,264.6,Matching,Matching
+LA,Union,22111,1,11.2%,247,2,5,1,2,0,1,1322,61,Matching,32.77921,-92.408614,Matching,Union Parish,Union Parish Junior High School,Matching,0.5,1.1,1.3,153.84,Matching,Matching
+TX,Hopkins,48223,,11.2%,759,7,16,11.11,10.5,0,1,4123,391,Matching,33.136487,-95.846866,Matching,CUMBY ISD,CUMBY H S,Matching,0,0,11,516.57,Matching,Matching
+OH,Crawford,39033,,11.2%,950,8,22,21,1.5,0,2,8002,905,Matching,40.793374,-82.856553,Matching,Colonel Crawford Local,Col Crawford High School,Matching,6.5,10.5,11.5,562.34,Matching,Matching
+IN,Miami,18103,,11.2%,658,3,11,12,8,0,1,5150,568,Matching,40.760574,-86.072875,Matching,Peru Community Schools,Peru High School,Matching,2,0,10,324.5,Matching,Matching
+MI,Shiawassee,26155,,11.1%,1343,10,29,19,3,0,3,11216,1242,Matching,42.973701,-84.186279,Matching,Shiawassee Regional ESD,Shiawassee RESD - Student Learning Center - West,Matching,8,2.5,1,632.6,Matching,Matching
+TX,Rusk,48401,,11.1%,1173,8,25,23.8,8.75,0,3,5311,507,Matching,32.26,-94.93,Matching,WEST RUSK COUNTY CONSOLIDATED ISD,WEST RUSK H S,Matching,0,0,17.42,773.11,Matching,Matching
+IN,Wabash,18169,,11.1%,574,3,12,17,3.99,0,1,4770,541,Matching,40.750711,-85.780554,Matching,M S D Wabash County Schools,White's Jr-Sr High School,Matching,0,4,9,297,Matching,Matching
+IN,Hendricks,18063,,11.0%,3140,6,40,56,25.5,0,6,22873,2733,Matching,39.823223,-86.374668,Matching,Brownsburg Community Sch Corp,Brownsburg East Middle School,Matching,5,15.58,42,1522.05,Matching,Matching
+AZ,Gila,4007,,10.8%,839,12,22,11.25,3.33,0,3,3418,639,Matching,34.101447,-110.986897,Matching,Young Elementary District,Young High School,Matching,0,2.6,7.25,422.61,Matching,Matching
+SD,Corson,46031,1,10.8%,91,3,9,4,2.1,0,1,112,0,Matching,45.674889,-100.504365,Matching,Smee School District 15-3,Wakpala High School - 01,Matching,0.99,0,2.34,82.58,Matching,Matching
+MN,Goodhue,27049,,10.8%,818,7,24,28,6.66,0,3,6547,717,Matching,44.267835,-92.992044,Matching,KENYON-WANAMINGO SCHOOL DISTRICT,KENYON-WANAMINGO SENIOR HIGH,Matching,12.45,5.2,11.39,693.64,Matching,Matching
+IN,Tippecanoe,18157,,10.6%,2301,3,34,45,29.5,0,4,13987,1780,Matching,40.398538,-86.875648,Matching,Lafayette School Corporation,Jefferson High School,Matching,7,2,24.25,1327.5,Matching,Matching
+IL,Williamson,17199,,10.6%,1076,6,23,18.5,3,0,2,8660,941,Matching,37.753535,-89.074933,Matching,Carterville CUSD 5,Carterville Jr High Sch,Matching,6.75,1.25,18,533.39,Matching,Matching
+TX,Tyler,48457,,10.5%,384,5,14,9,2,0,2,2873,353,Matching,30.695917,-94.178636,Matching,SPURGER ISD,SPURGER H S,Matching,0,0,9,279.28,Matching,Matching
+IL,Madison,17119,,10.5%,3931,13,75,34,13,0,5,27938,2597,Matching,38.79,-90,Matching,Edwardsville CUSD 7,District 7 Alternative School,Matching,53,37.6,54.6,2241.02,Matching,Matching
+NC,Avery,37011,,10.4%,274,3,14,7.04,7.9,0,1,2213,223,Matching,36.068646,-81.91423,Matching,Avery County Schools,Blue Ridge Academy,Matching,6.25,4.2,3.7,227.73,Matching,Matching
+CT,Hartford,9003,,10.4%,12187,31,273,298.63,43.29,0,32,55269,7151,Matching,41.82487,-72.7169,Matching,BLOOMFIELD SCHOOL DISTRICT,Carmen Arace Middle School,Matching,220.36,207.08,283.81,9510.67,Matching,Matching
+OK,Ottawa,40115,,10.3%,597,7,22,14.01,10.32,0,2,2752,287,Matching,36.774998,-94.680376,Matching,TURKEY FORD,TURKEY FORD PUBLIC SCHOOL,Matching,10,0,0,368.26,Matching,Matching
+OH,Muskingum,39119,,10.3%,1579,9,31,25,10.1,0,6,13432,1338,Matching,39.95322,-82.017305,Matching,Zanesville City,Zanesville Middle School,Matching,3,37.26,7.59,861.28,Matching,Matching
+IN,Wells,18179,,10.2%,485,3,9,11,4,0,1,4374,436,Matching,40.721926,-85.156642,Matching,M S D Bluffton-Harrison,Bluffton-Harrison Middle Sch,Matching,2,0,8,280.5,Matching,Matching
+PA,Greene,42059,,10.2%,600,6,15,14.5,6.66,0,2,5724,590,Matching,39.803912,-79.93456,Matching,Southeastern Greene SD,Mapletown JSHS,Matching,7.5,7.8,11.5,462.7,Matching,Matching
+MA,Middlesex,25017,,10.0%,17395,57,301,589.18,185.56,0,40,113177,11105,Matching,42.408349,-71.055823,Matching,Everett,Devens School,Matching,153.9,278.24,349.55,14193.52,Matching,Matching
+TN,Smith,47159,,10.0%,256,1,6,5.5,4,0,1,2358,244,Matching,36.253611,-85.947504,Matching,Smith County,Smith County High School,Matching,0.1,0.1,0.2,169,Matching,Matching
+MI,Washtenaw,26161,,9.9%,4726,26,97,75.79,16.56,0,11,29413,2132,Matching,42.247459,-83.720903,Matching,Ann Arbor Public Schools,Pathways To Success Academic Campus,Matching,60.16,37.86,22.16,2809.3,Matching,Matching
+GA,Turner,13287,1,9.9%,139,1,4,4,2,0,1,436,46,Matching,31.709611,-83.649277,Matching,Turner County,Turner County Specialty School,Matching,0,0,2,100.49,Matching,Matching
+WI,Waushara,55137,,9.9%,269,3,11,6.43,5,0,2,2081,221,Matching,44.06,-89.23,Matching,Wautoma Area School District,Wautoma High,Matching,0,2,1.55,205.84,Matching,Matching
+TX,Wood,48499,,9.8%,611,6,18,14,0.99,0,1,4596,475,Matching,32.759122,-95.586302,Matching,ALBA-GOLDEN ISD,ALBA-GOLDEN H S,Matching,0,0,7.99,496.11,Matching,Matching
+NY,Queens,36081,,9.8%,645,13,14,17,4,0,1,875,67,Matching,40.655627,-73.738437,Matching,SUCCESS ACADEMY CS - ROSEDALE,SUCCESS ACADEMY CS - ROSEDALE,Matching,10,3,14,474.46,Matching,Matching
+MS,Bolivar,28011,,9.8%,640,3,23,18.5,13.5,0,2,1209,69,Matching,33.747662,-90.728954,Matching,CLEVELAND SCHOOL DIST,CLEVELAND HIGH SCHOOL,Matching,1,0,24.5,448.54,Matching,Matching
+NY,Broome,36007,,9.8%,2660,12,50,70.5,13.35,0,5,20684,2396,Matching,42.076946,-75.805885,Matching,WINDSOR CENTRAL SCHOOL DISTRICT,FLOYD BELL ELEMENTARY SCHOOL,Matching,38.5,34.5,65.5,2349,Matching,Matching
+FL,Broward,12011,,9.7%,24281,1,319,313,187,0,36,56485,4711,Matching,26.01,-80.21,Matching,BROWARD,WATKINS ELEMENTARY SCHOOL,Matching,6,0,0,7891,Matching,Matching
+IN,Monroe,18105,,9.6%,1340,3,26,24,1,0,3,11126,1194,Matching,39.24,-86.64,Matching,Richland-Bean Blossom C S C,Edgewood High School,Matching,18,1.9,10.8,842.78,Matching,Matching
+IL,Livingston,17105,,9.6%,587,12,24,12.5,1.2,0,1,5328,544,Matching,40.888452,-88.611387,Matching,Livingston Co Spec Services Unit,Livingston Co Crossroads Academy,Matching,9.06,9.1,5,488.73,Matching,Matching
+MA,Plymouth,25023,,9.6%,11150,42,205,333.3,73.98,0,26,77364,9033,Matching,41.964569,-70.596297,Matching,Springfield,Springfield High School,Matching,53.9,128.03,218.98,8527.89,Matching,Matching
+TX,Smith,48423,,9.6%,3410,10,63,68.66,42,0,6,14613,1203,Matching,32.364334,-95.345794,Matching,TYLER ISD,JOHN TYLER H S,Matching,0,4.52,48.62,2540.73,Matching,Matching
+SC,Chester,45023,,9.5%,484,1,11,21,8,0,1,2414,88,Matching,34.7,-81.21,Matching,Chester 01,Chester Middle,Matching,0,0,7,368.5,Matching,Matching
+OH,Ottawa,39123,,9.4%,523,5,16,8.6,4,0,3,4894,486,Matching,41.504298,-82.938998,Matching,Port Clinton City,Port Clinton High School,Matching,1,4,4.25,226,Matching,Matching
+ME,Somerset,23025,,9.4%,630,12,31,22.25,3.81,0,4,6358,613,Matching,44.887546,-69.444723,Matching,RSU 19,Somerset Valley Middle School,Matching,7.66,2.31,11.8,535.39,Matching,Matching
+FL,Monroe,12087,,9.4%,936,1,20,20.5,10,0,2,4456,375,Matching,24.587117,-81.748903,Matching,MONROE,KEY WEST COLLEGIATE SCHOOL,Matching,0,0,1,609.85,Matching,Matching
+OH,Pike,39131,,9.3%,502,4,15,11.5,1.75,0,1,5109,475,Matching,39.051594,-83.005853,Matching,Pike County Area,Vern Riffe Career Technology C,Matching,0,4.49,5.99,315.9,Matching,Matching
+MI,Jackson,26075,,9.3%,2138,15,56,29.5,8.11,0,5,17762,1949,Matching,42.240147,-84.411996,Matching,Jackson Public Schools,TA Wilson School,Matching,21.01,12.19,15.39,1213.54,Matching,Matching
+AZ,Maricopa,4013,,9.3%,67492,310,1024,852.06,225.09,0,87,295776,9880,Matching,33.508047,-112.0834,Matching,Florence Crittenton Services of Arizona  Inc.,Girls Leadership Academy of Arizona,Matching,244.96,446.13,515.43,36269.46,Matching,Matching
+IL,DuPage,17043,,9.2%,13107,45,229,265.65,48.3,0,28,77978,5377,Matching,41.989285,-88.086718,Matching,North DuPage Sp Ed Cooperative,Lincoln Academy,Matching,247.4,175.09,204.48,10094.83,Matching,Matching
+FL,Hamilton,12047,1,9.2%,159,1,5,4,5,0,2,734,77,Matching,30.47,-82.97,Matching,HAMILTON,HAMILTON COUNTY HIGH SCHOOL,Matching,0,0,0,100,Matching,Matching
+TX,Erath,48143,,9.1%,537,8,16,13,6.99,0,1,3460,334,Matching,32.193094,-98.253282,Matching,ERATH EXCELS ACADEMY INC,HUSTON ACADEMY,Matching,0,0,10.16,418.05,Matching,Matching
+MI,Macomb,26099,,9.1%,11793,37,223,170.97,54,0,23,90342,8855,Matching,42.530255,-83.002334,Matching,Macomb ISD,Rockwell Middle School,Matching,123.63,56.59,8.3,6425.03,Matching,Matching
+MN,Hennepin,27053,,9.1%,15796,67,330,272.95,94.7,0,45,86674,9276,Matching,44.994137,-93.300689,Matching,MINNEAPOLIS PUBLIC SCHOOL DIST.,NORTH ACADEMY ARTS/COMMUNICATION,Matching,261.41,143.28,148.65,11932.01,Matching,Matching
+FL,Duval,12031,,9.1%,12775,3,212,258,196,0,37,47793,3707,Matching,30.348095,-81.634679,Matching,DUVAL,JOHN LOVE ELEMENTARY SCHOOL,Matching,3,0,1,7384,Matching,Matching
+MI,Emmet,26047,,9.0%,434,6,16,9.1,4,0,2,4108,356,Matching,45.371606,-84.937654,Matching,Public Schools of Petoskey,Petoskey High School,Matching,0,0,1,272.36,Matching,Matching
+LA,Morehouse,22067,1,8.9%,342,1,9,4.5,3,0,1,1269,13,Matching,32.93056,-91.88691,Matching,Morehouse Parish,Beekman Charter School,Matching,0,0,0,256,Matching,Matching
+IL,Piatt,17147,1,8.9%,286,4,15,4.87,0.33,0,1,3030,265,Matching,39.921503,-88.568812,Matching,Bement CUSD 5,Bement Middle School,Matching,5.8,1,4.5,248.47,Matching,Matching
+MA,Suffolk,25025,,8.9%,5482,24,119,168.55,56.25,0,11,9690,507,Matching,42.376623,-70.987539,Matching,Winthrop,Winthrop Sr High,Matching,35.1,27.66,108.7,4827.42,Matching,Matching
+CT,Fairfield,9001,,8.8%,11826,33,234,372.12,65.09,0,29,73402,6497,Matching,41.040614,-73.586442,Matching,GREENWICH SCHOOL DISTRICT,Alternative High School Programs,Matching,191.15,233.5,263.8,10384.24,Matching,Matching
+NC,Columbus,37047,,8.8%,831,4,25,18.36,8,0,1,4768,592,Matching,34.33,-78.71,Matching,Whiteville City Schools,Central Middle,Matching,4.01,0,13,642.82,Matching,Matching
+TX,Palo Pinto,48363,,8.7%,467,6,15,10,4,0,1,3289,271,Matching,32.812949,-98.077137,Matching,MINERAL WELLS ISD,MINERAL WELLS ACADEMY,Matching,0,0.4,7,400.4,Matching,Matching
+NC,Swain,37173,1,8.7%,184,2,5,1,0.15,0,1,1424,148,Matching,35.446914,-83.456004,Matching,Swain County Schools,Swain County High School,Matching,4,2,3,150.75,Matching,Matching
+MI,St. Clair,26147,,8.7%,2192,10,52,18.8,10,0,7,21838,2005,Matching,42.72,-82.5,Matching,East China School District,Riverview East High School,Matching,5.2,3,3,1183.84,Matching,Matching
+FL,Hendry,12051,,8.6%,616,1,11,13,10,0,1,1447,103,Matching,26.756266,-80.941552,Matching,HENDRY,CLEWISTON MIDDLE SCHOOL,Matching,0,0,0,392,Matching,Matching
+CA,Santa Clara,6085,,8.4%,22208,32,380,292.49,38.88,0,35,56259,4623,Matching,37.320829,-121.85028,Matching,East Side Union High School District,Yerba Buena High,Matching,31.44,207.32,74.15,12166.31,Matching,Matching
+NY,Orleans,36073,,8.4%,508,5,12,22,0.99,0,1,4923,406,Matching,43.319067,-78.024372,Matching,KENDALL CENTRAL SCHOOL DISTRICT,KENDALL JUNIOR-SENIOR HIGH SCHOOL,Matching,5.5,8.78,12,526.9,Matching,Matching
+CA,Riverside,6065,,8.4%,33297,25,455,531.44,153.89,0,43,85507,8235,Matching,33.939822,-117.380276,Matching,Riverside Unified,Opportunity Program,Matching,47.07,210.69,130.13,16845.08,Matching,Matching
+TX,Wise,48497,,8.4%,931,7,28,25.9,11.6,0,4,7252,622,Matching,33.292615,-97.813124,Matching,CHICO ISD,CHICO EL,Matching,1,1.7,18.4,864.9,Matching,Matching
+MI,Kent,26081,,8.3%,8611,43,221,129.53,25.38,0,20,60845,2930,Matching,43.21687,-85.546256,Matching,Cedar Springs Public Schools,New Beginnings Alternative High School,Matching,91.82,49.73,34.7,5657.32,Matching,Matching
+OR,Washington,41067,,8.3%,7134,7,127,189.19,71.1,0,12,45349,4437,Matching,45.435765,-123.14192,Matching,Gaston SD 511J,Gaston Elementary School,Matching,18.1,45.56,16.48,4501.55,Matching,Matching
+GA,Sumter,13261,,8.3%,400,1,8,9.5,4.5,0,1,704,214,Matching,32.114262,-84.21443,Matching,Sumter County,Sumter County Middle School,Matching,0.25,0,0.5,305.4,Matching,Matching
+IL,Franklin,17055,,8.2%,503,9,19,9.5,2,0,1,5806,484,Matching,37.89,-89.06,Matching,Zeigler-Royalton CUSD 188,Zeigler-Royalton Jr High School,Matching,4.5,1.25,11,437.5,Matching,Matching
+OH,Butler,39017,,8.2%,4995,16,88,108.3,29.68,0,10,43951,3439,Matching,39.444663,-84.385027,Matching,Butler Technology & Career Development Schools,Butler Tech Natural Science Center,Matching,21.3,63.95,70.85,3527.42,Matching,Matching
+AZ,Navajo,4017,,8.2%,1483,15,52,38,11,0,4,6924,1129,Matching,35.016731,-110.71047,Matching,Career Development  Inc.,Northern AZ Academy for Career Dev. - Winslow,Matching,4.99,6.87,21.1,1043.77,Matching,Matching
+OK,Mayes,40097,,8.2%,608,8,23,17,11,0,4,3192,278,Matching,36.191369,-95.344786,Matching,CHOUTEAU-MAZIE,CHOUTEAU-MAZIE MS,Matching,3.5,0,5,490.41,Matching,Matching
+TX,Harrison,48203,,8.1%,1046,7,27,36.5,10,0,2,6902,746,Matching,32.5,-94.58,Matching,HALLSVILLE ISD,HALLSVILLE J H,Matching,0,2.8,22.2,936.29,Matching,Matching
+MI,Gratiot,26057,,8.1%,519,6,23,11.14,1,0,1,5627,454,Matching,43.39527,-84.651952,Matching,Alma Public Schools,Donald L. Pavlik  Middle School,Matching,7.14,1.58,2,364.5,Matching,Matching
+NY,Bronx,36005,,8.0%,1612,52,52,62.7,38,0,6,170,8,Matching,40.814965,-73.912291,Matching,UNIVERSITY PREP CHARTER HIGH SCHOOL,UNIVERSITY PREP CHARTER HIGH SCHOOL,Matching,50.2,21.2,41.7,1571,Matching,Matching
+MI,Genesee,26049,,8.0%,5290,35,139,88.7,38.63,0,15,42291,4062,Matching,43.083675,-83.698848,Matching,Beecher Community School District,Milton E. Tucker Middle School,Matching,64.32,20.37,24.69,3376.52,Matching,Matching
+CA,Tulare,6107,,8.0%,8157,42,185,100.82,51.95,0,22,17281,1040,Matching,36.143597,-119.058263,Matching,Strathmore Union Elementary,Strathmore Community Day,Matching,10.46,61.5,74.4,4535.16,Matching,Matching
+CA,Ventura,6111,,7.9%,11507,20,208,215.95,52.6,0,12,45484,3381,Matching,34.23276,-119.15459,Matching,Rio Elementary,Rio del Valle Middle,Matching,26,122.39,84.12,6147.23,Matching,Matching
+CA,San Luis Obispo,6079,,7.9%,2750,11,78,59.72,14.7,0,7,17989,1681,Matching,35.510123,-120.704719,Matching,Los Angeles Unified,Sch of Hist and Dramatic Arts at Sonia Sotomayor Lrng Acads,Matching,0,37.48,23.76,1615.12,Matching,Matching
+WI,Ozaukee,55089,,7.9%,966,5,25,24,2.6,0,3,10486,816,Matching,43.293345,-87.994965,Matching,Cedarburg School District,Cedarburg High,Matching,3,16.1,4.68,844.96,Matching,Matching
+IA,Webster,19187,,7.7%,395,3,11,13.7,7,0,2,4055,305,Matching,42.279342,-94.294765,Matching,Prairie Valley Comm School District,Prairie Valley High School,Matching,0.5,0,7.92,335.28,Matching,Matching
+UT,Davis,49011,,7.7%,6169,11,99,127.75,87,0,9,66942,5571,Matching,40.852796,-111.9324,Matching,SPECTRUM ACADEMY,SPECTRUM ACADEMY - NSL,Matching,4,38.15,11.79,3296.86,Matching,Matching
+OH,Highland,39071,,7.7%,543,5,18,8.65,1,0,1,6561,502,Matching,39.2,-83.61,Matching,Hillsboro City,Hillsboro Middle School,Matching,0,2.13,4.49,345.84,Matching,Matching
+NY,New York,36061,,7.6%,1670,47,46,81.5,33,0,4,663,26,Matching,40.799182,-73.933396,Matching,HARLEM VILLAGE ACADEMY LEADERSHIP CHARTER SCHOOL,HARLEM VILLAGE ACADEMY LEADERSHIP CHARTER SCHOOL,Matching,71,32,39.33,1812,Matching,Matching
+DE,New Castle,10003,,7.4%,5838,25,120,180.1,30.49,0,10,32206,2569,Matching,39.779,-75.5983,Matching,Red Clay Consolidated School District,duPont (Alexis I.) Middle School,Matching,23.46,96.3,145.5,5350.54,Matching,Matching
+NV,Humboldt,32013,,7.4%,303,1,15,6.1,2,0,8,2246,95,Matching,40.975132,-117.7296,Matching,HUMBOLDT COUNTY SCHOOL DISTRICT,Winnemucca Junior High School,Matching,2,2,1,214,Matching,Matching
+MN,Ramsey,27123,,7.4%,6219,42,188,211.75,31.8,0,18,30723,3310,Matching,44.955777,-93.168999,Matching,ST. PAUL PUBLIC SCHOOL DISTRICT,A. G. A. P. E. TEEN PARENT,Matching,159.46,67.2,99.75,5589.07,Matching,Matching
+MS,Monroe,28095,,7.3%,441,3,13,11,7,0,1,3727,16,Matching,33.830015,-88.550689,Matching,ABERDEEN SCHOOL DIST,SHIVERS MIDDLE SCHOOL,Matching,0,1,9,434.46,Matching,Matching
+OH,Montgomery,39113,,7.3%,5456,46,148,160.67,58.9,0,13,45222,1193,Matching,39.742042,-84.403915,Matching,New Lebanon Local,Dixie Middle School,Matching,24.25,60.25,93.12,4634.24,Matching,Matching
+WI,Richland,55103,,7.1%,159,3,13,56.3,3,0,1,2029,145,Matching,43.3446,-90.40283,Matching,Richland School District,Richland Center High,Matching,0.3,1.49,1.3,202.45,Matching,Matching
+IL,Clinton,17027,,7.1%,387,12,19,7.25,1,0,1,4903,370,Matching,38.62,-89.37,Matching,Carlyle CUSD 1,Carlyle Junior High School,Matching,4,3,7.33,360.4,Matching,Matching
+KS,Leavenworth,20103,,7.1%,921,7,25,25,7.5,0,2,9467,605,Matching,39.362762,-95.055597,Matching,Easton,Pleasant Ridge Middle,Matching,8,15.4,22,857.15,Matching,Matching
+KS,Ottawa,20143,1,6.9%,86,2,6,2.75,4,0,1,1122,76,Matching,39.017765,-97.880091,Matching,Twin Valley,Tescott High,Matching,2.5,1.5,2,101.85,Matching,Matching
+MD,Washington,24043,,6.9%,1539,1,45,52,8.07,0,5,15546,725,Matching,39.515427,-77.650174,Matching,Washingtion County Public Schools,Boonsboro High,Matching,13,11.24,41.76,1636.5,Matching,Matching
+MI,Ionia,26067,,6.8%,603,8,25,15,5,0,3,7852,480,Matching,42.881222,-84.920123,Matching,Portland Public Schools,Portland High School,Matching,16.37,8.2,5,460.12,Matching,Matching
+NC,Brunswick,37019,,6.7%,917,3,21,31.31,21.1,0,1,9219,682,Matching,34.038042,-78.238319,Matching,Brunswick County Schools,Brunswick County Academy,Matching,5.8,9.04,12.61,1005.5,Matching,Matching
+IN,Allen,18003,,6.7%,3280,7,85,99,46.5,0,10,28942,886,Matching,41.064238,-85.189732,Matching,Fort Wayne Community Schools,Lindley Elementary School,Matching,37,20.73,63.75,2991.52,Matching,Matching
+AR,Conway,5029,,6.7%,210,3,11,10,8.01,0,1,2403,187,Matching,35.163008,-92.733587,Matching,SO. CONWAY CO. SCHOOL DISTRICT,MORRILTON SR. HIGH SCHOOL,Matching,0,6,8.01,288.64,Matching,Matching
+CA,San Bernardino,6071,,6.7%,26416,31,517,575.66,155.32,0,46,71191,7616,Matching,34.33,-117.48,Matching,Snowline Joint Unified,Eagle Summit Community Day,Matching,27.11,351,167.53,17254.59,Matching,Matching
+IN,Montgomery,18107,,6.7%,363,3,14,15,10.72,0,1,4787,286,Matching,40.124816,-86.906734,Matching,North Montgomery Com Sch Corp,North Montgomery High School,Matching,0,0,12,348.03,Matching,Matching
+MI,Van Buren,26159,,6.6%,1024,13,42,23.08,4,0,4,11080,649,Matching,42.408553,-86.245027,Matching,South Haven Public Schools,Career and Early College Academy,Matching,11.75,4.35,2.25,839.42,Matching,Matching
+NJ,Warren,34041,,6.6%,1006,20,40,45.12,8.7,0,3,11692,597,Matching,40.612306,-75.164215,Matching,Pohatcong Township School District,Pohatcong Township School,Matching,32,25.85,42,1396.53,Matching,Matching
+KS,Douglas,20045,,6.6%,991,3,28,34,7.91,0,3,10555,903,Matching,38.923695,-95.095815,Matching,Eudora,Eudora High  School,Matching,15.15,14.72,13.15,1013.77,Matching,Matching
+MT,Stillwater,30095,,6.6%,94,13,18,72.12,4.16,0,3,1284,84,Matching,45.514713,-109.44765,Matching,Absarokee H S,Absarokee High School,Matching,0,50,0.55,125.87,Matching,Matching
+CT,Middlesex,9007,,6.6%,2278,21,78,109.06,16.89,0,5,24784,1721,Matching,41.519813,-72.661742,Matching,REGIONAL SCHOOL DISTRICT 13,Francis E. Korn School,Matching,49.8,67.95,84,3061.62,Matching,Matching
+OK,McClain,40087,,6.5%,517,7,22,19.82,7,0,1,5308,421,Matching,35.204546,-97.670889,Matching,BLANCHARD,BLANCHARD HS,Matching,0,1,2.75,452.62,Matching,Matching
+TN,Campbell,47013,,6.5%,381,1,14,12,11,0,3,5702,381,Matching,36.385276,-84.111473,Matching,Campbell County,East Lafollette Learning Academy,Matching,1,0,7.25,382.5,Matching,Matching
+NJ,Hudson,34017,,6.5%,5585,27,122,216.6,91.5,0,10,15824,856,Matching,40.748054,-74.044727,Matching,M.E.t.S. CHARTER SCHOOL,M.E.t.S. CHARTER SCHOOL,Matching,147.7,116.3,150,7166.2,Matching,Matching
+IL,Macoupin,17117,,6.5%,493,9,26,9.16,1,0,1,7145,463,Matching,39.43,-89.99,Matching,Northwestern CUSD 2,Northwestern High School,Matching,1.33,2,9.82,462.6,Matching,Matching
+OK,Pontotoc,40123,,6.5%,474,7,23,21.15,1.02,0,1,3497,187,Matching,34.767841,-96.609389,Matching,VANOSS,VANOSS HS,Matching,0,1.98,4.5,504.82,Matching,Matching
+LA,St. Landry,22097,,6.5%,988,2,36,26,9.05,0,3,6001,234,Matching,30.528167,-92.202646,Matching,St. Martin Parish,Cecilia Junior High School,Matching,0,0,16.05,1016.5,Matching,Matching
+KY,Campbell,21037,,6.5%,776,7,24,37.15,9.5,0,2,10275,569,Matching,38.99,-84.4,Matching,Campbell County,Campbell County Day Treatment,Matching,6,4.45,17.1,761.8,Matching,Matching
+OH,Miami,39109,,6.4%,1025,9,34,41,10,0,3,14284,969,Matching,39.96,-84.34,Matching,Milton-Union Exempted Village,Milton-Union High School,Matching,3,23.6,19.33,938.53,Matching,Matching
+OH,Clark,39023,,6.4%,1368,9,48,54.75,17.5,0,3,16155,1065,Matching,39.903596,-83.808099,Matching,Springfield City School District,Hayward Middle School,Matching,1.5,18.5,25.9,1433.17,Matching,Matching
+IN,Delaware,18035,,6.3%,1028,9,36,35.33,14.4,0,3,12894,867,Matching,40.16599,-85.367229,Matching,Muncie Community Schools,Grissom Elementary School,Matching,8,8.33,26.4,1025.75,Matching,Matching
+OK,Creek,40037,,6.2%,767,12,35,28.21,8.85,0,2,7730,419,Matching,35.799437,-96.505553,Matching,DEPEW,DEPEW HS,Matching,0,0,6,764.91,Matching,Matching
+CA,Monterey,6053,,6.2%,4656,25,134,90.06,9.58,0,14,10411,813,Matching,36.313191,-121.24658,Matching,Greenfield Union Elementary,Vista Verde Middle,Matching,4,36.99,26.88,3538.92,Matching,Matching
+FL,Collier,12021,,6.2%,2848,1,61,91,59,0,10,16355,1095,Matching,26.140635,-81.762534,Matching,COLLIER,THE PHOENIX PROGRAM NAPLES,Matching,0,0,0,2679.11,Matching,Matching
+NM,Lincoln,35027,,6.2%,178,5,15,10.3,1,0,1,1137,61,Matching,33.349571,-105.64778,Matching,RUIDOSO MUNICIPAL SCHOOLS,RUIDOSO HIGH,Matching,1.29,1.35,6.8,205,Matching,Matching
+WI,Jefferson,55055,,6.1%,648,7,29,23.82,10.68,0,1,8573,556,Matching,42.873844,-88.592321,Matching,Palmyra-Eagle Area School District,Palmyra-Eagle High,Matching,3.83,9.79,4.38,782.66,Matching,Matching
+MO,Washington,29221,,6.1%,222,4,13,10.41,2,0,2,3517,212,Matching,38.01,-90.76,Matching,KINGSTON K-14,KINGSTON HIGH,Matching,3.05,0,5.86,289.92,Matching,Matching
+OH,Lake,39085,,6.0%,1910,10,54,53.75,12,0,4,25530,1678,Matching,41.59969,-81.464716,Matching,Wickliffe City,Wickliffe High School,Matching,4.1,33.09,41.68,1865.9,Matching,Matching
+MS,Jasper,28061,1,6.0%,112,2,6,3.2,3.4,0,1,551,0,Matching,31.988853,-89.293825,Matching,WEST JASPER CONSOLIDATED SCHOOLS,BAY SPRINGS MIDDLE SCH,Matching,0,0,2,133.5,Matching,Matching
+KS,Sumner,20191,,6.0%,231,7,20,12.6,1.64,0,1,3248,193,Matching,37.270664,-97.391873,Matching,Wellington,Wellington Middle School,Matching,1.7,3.35,5.4,363.78,Matching,Matching
+IL,Rock Island,17161,,6.0%,1288,10,47,45.5,29,0,6,11801,1143,Matching,41.49,-90.39,Matching,Black Hawk Area Sp Ed District,Phoenix Program,Matching,31.1,19.5,43.2,1275.76,Matching,Matching
+OH,Columbiana,39029,,6.0%,943,12,38,27.05,9.84,0,2,14624,923,Matching,40.783815,-80.928157,Matching,United Local,United High School,Matching,1,14.23,24.11,1029.65,Matching,Matching
+WY,Uinta,56041,,6.0%,270,3,13,12.76,6,0,2,3844,239,Matching,41.26833,-110.9625,Matching,Uinta County School District #1,Horizon Alternative School,Matching,4.63,4.9,7.86,377.58,Matching,Matching
+NY,Rensselaer,36083,,6.0%,1288,14,40,56.8,4.7,0,2,16084,887,Matching,42.577533,-73.683926,Matching,RENSSELAER-COLUMBIA-GREENE BOCES (QUESTAR III),RENSSELAER-COLUMBIA-GREENE BOCES,Matching,39.5,41.7,54.9,1789.4,Matching,Matching
+MI,Kalamazoo,26077,,6.0%,2117,17,84,49.15,13.8,0,4,22179,1504,Matching,42.256511,-85.67979,Matching,Youth Advancement Academy,Youth Advancement Academy,Matching,14.32,26.53,5.83,1998.06,Matching,Matching
+NC,Wilson,37195,,5.9%,848,3,29,38.24,14,0,1,4575,7,Matching,35.744181,-77.910673,Matching,Wilson County Schools,Toisnot Middle,Matching,4.4,7.1,11,983.84,Matching,Matching
+MS,Coahoma,28027,,5.9%,246,3,13,12.5,8.5,0,1,118,0,Matching,34.190332,-90.580222,Matching,CLARKSDALE MUNICIPAL SCHOOL DIST,JEROME W. STAMPLEY 9TH GRADE ACADEM,Matching,0,0.5,7,317,Matching,Matching
+IN,Steuben,18151,,5.8%,211,2,9,10,1.84,0,1,3144,193,Matching,41.728527,-84.938095,Matching,Fremont Community Schools,Fremont High School,Matching,2,1.1,2.83,201.01,Matching,Matching
+SD,Oglala Lakota,46102,1,5.8%,80,1,5,3,5,0,1,2,0,Matching,43.03,-102.56,Matching,Oglala Lakota County 65-1,Oglala Lakota County Alternative - 09,Matching,5.5,1,4,106,Matching,Matching
+MS,Pike,28113,,5.8%,433,3,14,15.5,8,0,2,2104,44,Matching,31.26,-90.47,Matching,MCCOMB SCHOOL DISTRICT,DENMAN JUNIOR HIGH SCHOOL,Matching,5,0,12,440,Matching,Matching
+CT,New Haven,9009,,5.8%,5630,30,205,303.35,71.25,0,15,46071,2621,Matching,41.501471,-72.90849,Matching,CHESHIRE SCHOOL DISTRICT,Humiston Alternative School,Matching,187.12,151.02,204.34,8110.56,Matching,Matching
+NC,Burke,37023,,5.8%,761,3,29,33,26,0,3,9206,612,Matching,35.754181,-81.768798,Matching,Burke County Schools,Table Rock Middle,Matching,7,4,6,946.84,Matching,Matching
+MT,Blaine,30005,,5.7%,111,11,17,11.43,3,0,1,769,2,Matching,48,-108.69,Matching,Hays-Lodge Pole K-12 Schls,Hays-Lodge Pole High Sch,Matching,0,2.69,3.5,200.01,Matching,Matching
+ID,Bannock,16005,,5.7%,741,2,29,26.72,11.5,0,4,10632,685,Matching,42.86,-112.45,Matching,POCATELLO DISTRICT,POCATELLO HIGH SCHOOL,Matching,8.5,7.98,5.25,639.85,Matching,Matching
+IL,Lake,17097,,5.7%,7312,49,194,262.43,25.08,0,14,64729,3671,Matching,42.419683,-88.096336,Matching,CHSD 117,Allendale School,Matching,291.15,185.06,191.32,9382.77,Matching,Matching
+FL,Glades,12043,1,5.6%,92,1,5,4,5,0,1,620,7,Matching,27.078206,-81.096799,Matching,GLADES,PEMAYETV EMAHAKV CHARTER MIDDLE SCHOOL,Matching,0,0,0,109,Matching,Matching
+OK,Osage,40113,,5.6%,321,12,26,15.57,6.05,0,3,3077,198,Matching,36.366608,-96.013608,Matching,SKIATOOK,SKIATOOK HS,Matching,1,1.8,1.67,423.14,Matching,Matching
+NY,Monroe,36055,,5.6%,5937,30,177,280.5,37,0,10,59988,544,Matching,43.217309,-77.597177,Matching,WEST IRONDEQUOIT CENTRAL SCHOOL DISTRICT,IRONDEQUOIT HIGH SCHOOL,Matching,145.7,151.25,200.15,9381.38,Matching,Matching
+NY,Jefferson,36045,,5.5%,977,11,38,46.5,7,0,2,14057,692,Matching,44.143808,-75.713156,Matching,INDIAN RIVER CENTRAL SCHOOL DISTRICT,INDIAN RIVER HIGH SCHOOL,Matching,18,29.37,43,1324.38,Matching,Matching
+MI,Oakland,26125,,5.5%,9890,54,328,286.47,37.02,0,24,113681,7247,Matching,42.481107,-83.095607,Matching,Madison District Public Schools,Madison Preparatory High School,Matching,205.65,114.97,17.6,9957.54,Matching,Matching
+KY,Clinton,21053,,5.4%,142,1,6,7,4,0,1,2365,130,Matching,36.750362,-85.21055,Matching,Clinton County,Foothills Academy,Matching,0.5,0.5,5,174.54,Matching,Matching
+OK,Sequoyah,40135,,5.4%,448,11,25,20.5,15,0,1,3595,235,Matching,35.495493,-94.973268,Matching,VIAN,VIAN HS,Matching,19,0,12.5,559.88,Matching,Matching
+MI,Wayne,26163,,5.4%,15077,135,539,442.49,81.5,0,33,122005,12223,Matching,42.27653,-83.141152,Matching,River Rouge School District of the City of,CB Sabbath 6-8 Preparatory Academy,Matching,335.03,138.82,65.79,15193.46,Matching,Matching
+FL,Palm Beach,12099,,5.4%,10344,3,230,341,177,0,18,62193,3399,Matching,26.701428,-80.108175,Matching,PALM BEACH,GOLD COAST COMMUNITY SCHOOL,Matching,9,11,1,11878.62,Matching,Matching
+MI,Lenawee,26091,,5.4%,832,12,42,28.81,0.85,0,3,12348,432,Matching,41.868505,-84.02276,Matching,Madison School District (Lenawee),Madison High School,Matching,4.46,0.25,4.92,859.13,Matching,Matching
+MN,Crow Wing,27035,,5.4%,543,6,20,17,2,0,1,9215,496,Matching,46.48,-93.95,Matching,CROSBY-IRONTON PUBLIC SCHOOL DIST.,CROSBY-IRONTON SECONDARY,Matching,6.5,6.4,7.07,623.53,Matching,Matching
+WI,Outagamie,55087,,5.4%,1612,8,67,65.41,25.3,0,12,24421,1278,Matching,44.443713,-88.575472,Matching,Shiocton School District,Shiocton High,Matching,13.2,24.61,18.03,1980.96,Matching,Matching
+MA,Worcester,25027,,5.3%,6096,49,218,326.31,51.36,0,14,75674,4247,Matching,42.69898,-72.043659,Matching,Winchendon,Murdock Academy for Success,Matching,44.01,134.29,243.63,8408.74,Matching,Matching
+MN,Dakota,27037,,5.3%,3768,14,117,94.66,23.49,0,5,48213,3186,Matching,44.733448,-93.182451,Matching,INTERMEDIATE SCHOOL DISTRICT 917,TEA,Matching,35.45,66.73,76.17,4471.42,Matching,Matching
+CA,Los Angeles,6037,,5.3%,72250,87,1877,2443.79,441.83,0,135,197834,9328,Matching,33.99533,-118.32625,Matching,Los Angeles Unified,Whitney Young Continuation,Matching,282.91,2417.95,1458.23,59014.55,Matching,Matching
+IN,Elkhart,18039,,5.3%,1867,7,53,68.25,17.07,0,4,20129,1198,Matching,41.667496,-85.968722,Matching,Elkhart Community Schools,Pierre Moran Middle School,Matching,25,9.1,52,2065.59,Matching,Matching
+SC,Union,45087,,5.3%,244,1,10,12,4,0,1,2659,169,Matching,34.80014,-81.67492,Matching,Union 01,Jonesville Middle,Matching,0,2.5,8,326.75,Matching,Matching
+NM,DoÃ±a Ana,35013,,5.3%,2049,8,69,86,16,0,5,4995,247,Matching,32.21,-106.71,Matching,LAS CRUCES PUBLIC SCHOOLS,MESILLA VALLEY ALTERNATIVE MIDDLE SCHOOL,Matching,32.19,13.79,54.75,2529.04,Matching,Matching
+IN,Henry,18065,,5.2%,389,5,18,13,7,0,1,6906,367,Matching,39.913992,-85.376596,Matching,New Castle Community Sch Corp,New Castle Middle School,Matching,1,0.33,15.83,484.03,Matching,Matching
+CO,Morgan,8087,,5.2%,292,4,18,14.74,6.66,0,1,2379,199,Matching,40.249948,-103.809351,Matching,School District No. Re-3 Fort Morgan,LINCOLN HIGH SCHOOL,Matching,1,0,3.2,361.14,Matching,Matching
+NC,Chatham,37037,,5.2%,532,4,21,22.68,9.5,0,1,5700,415,Matching,35.73,-79.46,Matching,Chatham County Schools,SAGE Academy,Matching,5.35,3.71,7.15,835.33,Matching,Matching
+KS,Coffey,20031,,5.2%,81,3,11,5.6,8.3,0,1,1406,73,Matching,38.395635,-95.601005,Matching,Lebo-Waverly,Waverly High,Matching,5.2,6,5,135.5,Matching,Matching
+MI,Isabella,26073,,5.2%,426,6,22,9.08,1,0,1,6565,313,Matching,43.608574,-84.750304,Matching,Mt. Pleasant City School District,Mary McGuire School,Matching,15.2,7.1,3.2,435.53,Matching,Matching
+KS,Thomas,20193,1,5.2%,75,2,7,2.85,2,0,1,1174,67,Matching,39.364998,-101.37678,Matching,Brewster,Brewster High,Matching,0,0,1,110.55,Matching,Matching
+MA,Bristol,25005,,5.2%,3375,23,115,199.11,29.29,0,9,47446,2883,Matching,41.636336,-70.948665,Matching,New Bedford,Thomas R Rodman,Matching,19,50.71,134.7,4782.21,Matching,Matching
+OR,Clackamas,41005,,5.1%,3079,10,112,117.9,25.46,0,8,43135,2060,Matching,45.293592,-122.33312,Matching,Estacada SD 108,Estacada Middle School,Matching,7,24.34,12.71,2847.48,Matching,Matching
+IN,Greene,18055,,5.1%,267,5,13,10.5,10,0,1,4969,247,Matching,39.03,-86.94,Matching,Eastern Greene Schools,Eastern Greene High School,Matching,2,1,10.4,301.4,Matching,Matching
+MN,Becker,27005,,5.1%,223,3,10,8.45,1,0,1,3329,40,Matching,46.88,-96.12,Matching,LAKE PARK AUDUBON SCHOOL DISTRICT,LAKE PARK AUDUBON SECONDARY,Matching,2.5,2.75,1.5,347.87,Matching,Matching
+CO,Adams,8001,,5.1%,4339,6,138,136.84,30.1,0,9,30304,573,Matching,39.828047,-105.03022,Matching,State Charter School Institute,RICARDO FLORES MAGON ACADEMY,Matching,32.16,90.33,8.68,4355.83,Matching,Matching
+CO,Jefferson,8059,,5.1%,4362,2,159,157.79,50.49,0,14,56491,1973,Matching,39.809163,-105.12603,Matching,Jefferson County School District No. R-1,WARREN TECH NORTH,Matching,81.1,55.86,4.85,4980.05,Matching,Matching
+CA,Kern,6029,,5.0%,8890,49,253,192.91,49.47,0,19,41463,3441,Matching,35.503378,-119.2806,Matching,Richland Union Elementary,Redwood Elementary,Matching,7.98,141.98,112.01,8081.86,Matching,Matching
+NY,Dutchess,36027,,5.0%,2061,14,74,101.7,21.52,0,7,26999,1480,Matching,41.739485,-73.579343,Matching,DOVER UNION FREE SCHOOL DISTRICT,DOVER ELEMENTARY SCHOOL,Matching,45.09,70.5,80.5,3133.24,Matching,Matching
+NY,Suffolk,36103,,5.0%,12093,71,345,608.1,61.56,0,21,140083,5592,Matching,40.798085,-73.206879,Matching,CENTRAL ISLIP UNION FREE SCHOOL DISTRICT,CENTRAL ISLIP SENIOR HIGH SCHOOL,Matching,291.41,397.87,403.41,18763.26,Matching,Matching
+MI,Menominee,26109,,5.0%,183,7,16,10.47,1.08,0,1,3208,175,Matching,45.42,-87.61,Matching,Stephenson Area Public Schools,Stephenson High School,Matching,4.4,1.4,1,266.94,Matching,Matching
+MN,Waseca,27161,,4.9%,160,4,10,8.5,4.35,0,2,2863,104,Matching,43.891367,-93.495575,Matching,NRHEG SCHOOL DISTRICT,NRHEG SECONDARY,Matching,7.5,3.75,6.05,221.67,Matching,Matching
+IN,Lake,18089,,4.9%,3963,27,126,129.8,105,0,9,32599,1239,Matching,41.291661,-87.394933,Matching,Tri-Creek School Corporation,Lowell Senior High School,Matching,55.6,26.43,118.3,4476.04,Matching,Matching
+NY,Onondaga,36067,,4.9%,3386,20,119,192.98,57.25,0,8,45580,2999,Matching,43.019292,-76.171672,Matching,SYRACUSE CITY SCHOOL DISTRICT,ROBERTS K-8 SCHOOL,Matching,81.3,118.39,129.1,5413.59,Matching,Matching
+OH,Portage,39133,,4.8%,1060,14,51,54.2,12.65,0,3,19023,948,Matching,41.16,-81.3,Matching,Ravenna City,Ravenna High School,Matching,1,23.95,33.79,1499.08,Matching,Matching
+PA,Franklin,42055,,4.8%,1136,7,41,53,56,0,4,18918,1027,Matching,39.91,-77.65,Matching,Franklin County CTC,Franklin County CTC,Matching,25,25.21,34,1487.78,Matching,Matching
+TX,Cass,48067,,4.8%,260,7,18,14,7,0,1,3699,190,Matching,33,-94.36,Matching,LINDEN-KILDARE CISD,LINDEN-KILDARE H S,Matching,0,0,11.99,411.5,Matching,Matching
+WA,Clark,53011,,4.8%,3826,12,126,185.32,44.98,0,7,54400,2362,Matching,45.575175,-122.31315,Matching,Washougal School District,Jemtegaard Middle School,Matching,0.06,69.23,48.41,4105.65,Matching,Matching
+MN,Washington,27163,,4.8%,2048,13,80,70.9,19,0,4,31945,967,Matching,44.818198,-92.936375,Matching,SOUTH WASHINGTON COUNTY SCHOOL DIST,SOUTH WASHINGTON ALTERNATIVE HS,Matching,22.6,50.25,49.98,2595.25,Matching,Matching
+TX,Robertson,48395,,4.8%,125,4,8,6,1,0,1,1157,10,Matching,30.983984,-96.665724,Matching,CALVERT ISD,CALVERT SCHOOL,Matching,0,0,5.33,220.3,Matching,Matching
+CA,Fresno,6019,,4.8%,9393,31,318,182.98,53.69,0,16,35093,1823,Matching,36.834649,-119.685603,Matching,Clovis Unified,Clovis Community Day Secondary,Matching,21.03,236.79,142.07,8471.99,Matching,Matching
+TX,Bowie,48037,,4.8%,826,12,42,38.5,16.75,0,3,9414,537,Matching,33.467144,-94.283964,Matching,HOOKS ISD,HOOKS H S,Matching,1,1,11,1306.75,Matching,Matching
+IL,Will,17197,,4.7%,5849,33,184,157.15,34.5,0,13,66173,5164,Matching,41.303199,-88.131935,Matching,S Will Co Coop for Spec Ed,SOWIC Educ Center,Matching,212.5,122.47,182.43,7759.1,Matching,Matching
+MS,Jackson,28059,,4.7%,1119,4,41,57,15.42,0,4,14592,253,Matching,30.47,-88.42,Matching,JACKSON CO SCHOOL DIST,EAST CENTRAL MIDDLE SCHOOL,Matching,6,3.01,19.19,1636,Matching,Matching
+NY,Fulton,36035,,4.7%,388,6,21,22,4,0,1,7578,367,Matching,43.05,-74.34,Matching,GLOVERSVILLE CITY SCHOOL DISTRICT,MCNAB-MECO SCHOOL,Matching,9,17,21,682.7,Matching,Matching
+IA,Muscatine,19139,,4.7%,343,3,17,16.5,3,0,1,4649,241,Matching,41.433088,-91.053953,Matching,Muscatine Comm School District,Jefferson Elementary School,Matching,0,0,10,556.28,Matching,Matching
+MI,Berrien,26021,,4.6%,1126,19,73,36.1,4,0,3,15688,297,Matching,42.075685,-86.341972,Matching,Countryside Academy,Countryside Academy - Middle/High School,Matching,16.24,3.25,4.55,1522.04,Matching,Matching
+CA,Humboldt,6023,,4.6%,823,30,87,40.82,1.99,0,8,10476,89,Matching,40.954362,-124.10802,Matching,Northern Humboldt Union High,Tsurai High (Continuation),Matching,3.05,20.14,5.51,977.42,Matching,Matching
+WI,Manitowoc,55071,,4.6%,489,6,30,29.17,10,0,1,8491,424,Matching,44.068472,-87.667999,Matching,Manitowoc School District,Monroe Elementary,Matching,1,9.41,5.32,743.52,Matching,Matching
+WI,Marinette,55075,,4.6%,261,7,22,16.15,1,0,1,5302,238,Matching,45.636163,-87.995387,Matching,Beecher-Dunbar-Pembine School District,Pembine High,Matching,2.13,4.45,7.29,393.32,Matching,Matching
+KS,Butler,20015,,4.6%,656,9,42,41.55,19.08,0,3,12294,531,Matching,37.813309,-96.61874,Matching,Flinthills,Flinthills High School,Matching,4.05,5.68,22.44,960.13,Matching,Matching
+MI,Eaton,26045,,4.5%,767,12,42,24.05,10,0,4,13485,676,Matching,42.612072,-85.057825,Matching,Maple Valley Schools,Maple Valley Pathways High School,Matching,11.15,4.83,4.58,922.98,Matching,Matching
+IL,Kane,17089,,4.5%,4192,13,133,126.9,22.5,0,7,40982,898,Matching,41.743876,-88.337808,Matching,Carroll/Jo Daviess/Stephenson ROE,RAP Elizabeth,Matching,148.72,89.67,94.63,5761.88,Matching,Matching
+IL,Cook,17031,,4.5%,34526,155,1250,1404.28,553.84,0,66,198496,12435,Matching,41.842981,-87.717545,Matching,City of Chicago SD 299,Little Village Elem School,Matching,881.63,470.33,577.06,51764.62,Matching,Matching
+MS,Clay,28025,,4.5%,145,1,8,9,2,0,1,636,10,Matching,33.61,-88.65,Matching,WEST POINT CONSOLIDATED SCHOOL DIST,WEST POINT HIGH SCHOOL,Matching,0,0,0,221.5,Matching,Matching
+UT,Salt Lake,49035,,4.5%,10661,40,286,312.11,97.63,0,20,158895,5627,Matching,40.551052,-111.90129,Matching,JORDAN DISTRICT,RIVERS EDGE SCHOOL,Matching,51.5,106.16,42.79,9201.2,Matching,Matching
+CO,Boulder,8013,,4.5%,2157,1,84,103.04,20.96,0,6,31072,1722,Matching,40.014669,-105.19919,Matching,Boulder Valley School District No. Re2,ARAPAHOE RIDGE HIGH SCHOOL,Matching,14.87,16.7,0,2686.26,Matching,Matching
+OH,Hamilton,39061,,4.5%,4960,44,187,173.44,39.49,0,9,54811,2421,Matching,39.218739,-84.550349,Matching,North College Hill City,North College Hill High School,Matching,34.56,116.11,73.37,6232.06,Matching,Matching
+CA,Solano,6095,,4.5%,2638,8,99,60.05,11.93,0,5,16382,1157,Matching,38.14,-122.23,Matching,Vallejo City Unified,John Finney High (Continuation),Matching,12.83,58.77,29.39,2818.47,Matching,Matching
+IN,Porter,18127,,4.4%,1221,9,51,44.56,17.71,0,3,20781,1098,Matching,41.609053,-87.060054,Matching,Duneland School Corporation,Chesterton Middle School,Matching,17.48,0.5,33.44,1472.75,Matching,Matching
+IL,St. Clair,17163,,4.4%,1884,30,90,58.8,17.25,0,9,21375,576,Matching,38.632141,-89.998485,Matching,Collinsville CUSD 10,Hollywood Heights,Matching,68.31,19.3,66.65,2730,Matching,Matching
+ID,Bonneville,16019,,4.2%,998,7,49,49.5,24.05,0,4,18401,886,Matching,43.5,-112.02,Matching,BONNEVILLE JOINT DISTRICT,FALLS VALLEY ELEMENTARY SCHOOL,Matching,1,5.04,1.65,1071.53,Matching,Matching
+WI,Door,55029,,4.2%,150,5,16,10.89,1.69,0,1,3115,127,Matching,44.73415,-87.6694,Matching,Southern Door County School District,Southern Door High,Matching,0.3,1.81,17.03,294.79,Matching,Matching
+AZ,Cochise,4003,,4.2%,829,25,60,32.78,11.5,0,3,7213,258,Matching,31.49,-110.41,Matching,Sonoita Elementary District,Elgin Elementary School,Matching,0,13.4,31.25,1012.39,Matching,Matching
+TN,Lauderdale,47097,,4.2%,208,1,8,12,6,0,1,2555,157,Matching,35.73,-89.54,Matching,Lauderdale County,Lauderdale Middle School,Matching,3,6.2,5.33,361.33,Matching,Matching
+MI,Saginaw,26145,,4.2%,1188,18,70,37.5,6,0,3,16069,492,Matching,43.432517,-83.930027,Matching,Saginaw Learn to Earn Academy,Saginaw Learn to Earn Academy,Matching,17.33,2.98,1,1409.25,Matching,Matching
+UT,Sanpete,49039,,4.2%,244,2,16,8.5,4.38,0,1,4907,199,Matching,39.142989,-111.81677,Matching,SOUTH SANPETE DISTRICT,GUNNISON VALLEY HIGH,Matching,0,0,1.65,293.33,Matching,Matching
+NY,Niagara,36063,,4.1%,1167,12,48,84,11.5,0,3,20915,756,Matching,43.286953,-78.694555,Matching,NEWFANE CENTRAL SCHOOL DISTRICT,NEWFANE SENIOR HIGH SCHOOL,Matching,19,41.3,53.3,2024.53,Matching,Matching
+OH,Licking,39089,,4.1%,1133,15,54,40.5,6.25,0,3,23688,1062,Matching,40.024972,-82.432699,Matching,Heath City,Heath High School,Matching,8.25,14.45,9.5,1659.84,Matching,Matching
+NE,Lancaster,31109,,4.0%,1776,6,79,81.24,13.62,0,5,30595,1667,Matching,40.816299,-96.64363,Matching,LINCOLN PUBLIC SCHOOLS,DONALD D SHERRILL EDUCATION CNTR - ELEM,Matching,20.82,38.29,36.2,3085.43,Matching,Matching
+IL,LaSalle,17099,,4.0%,666,26,45,27.2,8,0,3,12609,525,Matching,41.411104,-89.122886,Matching,Dimmick CCSD 175,Dimmick Comm Cons School,Matching,34.93,21.49,22,1138.36,Matching,Matching
+MS,Washington,28151,,3.9%,370,4,24,23,11,0,1,882,31,Matching,33.41,-90.9,Matching,LELAND SCHOOL DIST,LELAND MIDDLE SCHOOL,Matching,4,0,5,593,Matching,Matching
+MS,Forrest,28035,,3.9%,432,4,21,26.9,28,0,1,5055,10,Matching,31.35,-89.23,Matching,PETAL SCHOOL DIST,PETAL HIGH SCHOOL,Matching,9,0,16,846.44,Matching,Matching
+NC,Henderson,37089,,3.9%,557,2,26,33.66,9.99,0,1,9704,439,Matching,35.409286,-82.497669,Matching,Henderson County Schools,Fletcher Elementary,Matching,2,10.59,13.5,1124.89,Matching,Matching
+PA,Beaver,42007,,3.9%,905,16,49,61,18,0,2,19375,665,Matching,40.677875,-80.241025,Matching,Freedom Area SD,Freedom Area SHS,Matching,7.55,19.04,41,1629.28,Matching,Matching
+WV,Cabell,54011,,3.8%,503,1,27,31.5,7.5,0,1,11142,361,Matching,38.437432,-82.151035,Matching,CABELL COUNTY SCHOOLS,MILTON MIDDLE SCHOOL,Matching,3,4,9.2,845.72,Matching,Matching
+SC,Charleston,45019,,3.8%,1820,1,81,127.1,44,0,3,23090,1083,Matching,32.798433,-80.074395,Matching,Charleston 01,C. E. Williams Middle School for Creative & Scientific Arts,Matching,0,3.7,91.45,3241.46,Matching,Matching
+AR,Hempstead,5057,,3.8%,135,3,9,11.5,5,0,1,1383,31,Matching,33.66,-93.59,Matching,SPRING HILL SCHOOL DISTRICT,SPRING HILL HIGH SCHOOL,Matching,5,0,7.5,360,Matching,Matching
+NY,Erie,36029,,3.8%,4836,48,216,345.4,36.5,0,10,79316,3898,Matching,42.757902,-78.845062,Matching,RANDOLPH ACADEMY UNION FREE SCHOOL DISTRICT,RANDOLPH ACADEMYHAMBURG CAMPUS,Matching,105.49,123.09,168.37,10256.7,Matching,Matching
+PA,Fayette,42051,,3.8%,632,6,42,42,17.95,0,1,14865,616,Matching,39.885832,-79.871286,Matching,Albert Gallatin Area SD,Albert Gallatin North MS,Matching,5.55,14.11,37.5,1191,Matching,Matching
+KS,Stevens,20189,,3.7%,50,2,6,5,2.8,0,1,681,28,Matching,37.17,-101.35,Matching,Hugoton Public Schools,Hugoton High,Matching,7.5,3.5,8,103.2,Matching,Matching
+IL,Adams,17001,,3.7%,353,6,23,38.55,6.5,0,2,8204,326,Matching,39.931569,-91.393065,Matching,Adam/Brwn/Cass/Morgn/Pik/Sctt ROE,Academic Behavior&Community Acad,Matching,10.5,6.9,23.8,617.99,Matching,Matching
+PA,Allegheny,42003,,3.7%,5465,67,279,372,64.46,0,15,100081,3165,Matching,40.460053,-79.911611,Matching,Pittsburgh SD,Pittsburgh Lincoln K-5,Matching,80.99,65.63,188.8,10995.21,Matching,Matching
+CA,Stanislaus,6099,,3.6%,3908,26,178,107.9,20,0,3,30833,597,Matching,37.603499,-120.94642,Matching,Ceres Unified,Mae Hensley Junior High,Matching,16.5,62.86,66.77,4778.78,Matching,Matching
+Grand Total,Grand Total,Grand Total,,3.6%,1695640,17135,89053,106522.62,26630.76,0,3965,23716168,812664,Matching,,,Non-matching,,,Non-matching,20964.4,30470.16,50391.06,3037287.24,Matching,Matching
+IN,Vanderburgh,18163,,3.5%,804,3,37,42.5,14,0,2,15844,332,Matching,38.007194,-87.573215,Matching,Evansville Vanderburgh Sch Corp,Academy for Innovative Studies,Matching,18,1,36,1417.5,Matching,Matching
+AL,Limestone,1083,,3.5%,505,2,20,33.5,16,0,1,10148,409,Matching,34.796245,-86.967853,Matching,Athens City,Athens Middle Sch,Matching,0,0,19,860.27,Matching,Matching
+NY,Oswego,36075,,3.5%,700,10,39,57,5,0,1,18438,661,Matching,43.460028,-76.260076,Matching,OSWEGO BOCES,OSWEGO BOCES,Matching,21.4,43,42,1683.94,Matching,Matching
+WY,Big Horn,56003,,3.5%,82,4,16,13.46,6.63,0,1,1927,58,Matching,44.497053,-108.0507,Matching,Big Horn County School District #3,Greybull Middle School,Matching,0,2,4.89,205.56,Matching,Matching
+DE,Sussex,10005,,3.5%,928,8,41,70.5,22.6,0,2,14738,644,Matching,38.590236,-75.287843,Matching,Indian River School District,Millsboro Middle School,Matching,18.77,31.25,50.1,1858.5,Matching,Matching
+OH,Stark,39151,,3.5%,1923,21,102,128.36,24.35,0,4,43801,1702,Matching,40.786173,-81.377474,Matching,Canton City,Canton City Digital Academy,Matching,7.6,47.83,40.49,3273.91,Matching,Matching
+OH,Marion,39101,,3.4%,418,11,26,20.75,5,0,1,10409,340,Matching,40.582962,-83.012531,Matching,River Valley Local,River Valley High School,Matching,17,11.67,12.99,806.19,Matching,Matching
+OH,Mahoning,39099,,3.4%,1096,25,68,78.91,59.91,0,6,21469,585,Matching,41.113715,-80.593378,Matching,Mahoning County High School,Mahoning County High School,Matching,2,27.84,46.64,1948.62,Matching,Matching
+MA,Franklin,25011,,3.4%,236,15,27,30.8,4.2,0,1,5892,175,Matching,42.691662,-72.627274,Matching,Pioneer Valley Regional School District,Pearl E Rhodes Elementary,Matching,3.4,18.43,28.07,630.97,Matching,Matching
+MN,Anoka,27003,,3.4%,1866,13,89,83.69,23.7,0,7,39531,1458,Matching,45.181535,-93.3014,Matching,ANOKA-HENNEPIN PUBLIC SCHOOL DIST.,COMPASS-BELL CENTER,Matching,55.7,30.69,38.4,3520.36,Matching,Matching
+CA,Madera,6039,,3.3%,936,10,68,51.08,22,0,2,6603,617,Matching,36.90406,-119.90981,Matching,Golden Valley Unified,Valley Teen Ranch Community Day,Matching,0,25.1,18.75,1338.95,Matching,Matching
+MI,Barry,26015,,3.3%,307,6,22,13.8,3.2,0,2,8488,284,Matching,42.705556,-85.488791,Matching,Thornapple Kellogg School District,Thornapple Kellogg High School,Matching,7.42,4.55,0.35,474.48,Matching,Matching
+IA,Buena Vista,19021,,3.3%,142,5,15,11.8,4,0,1,1959,16,Matching,42.647826,-95.226087,Matching,Storm Lake Comm School District,Storm Lake Middle School,Matching,0,0,9.8,299.24,Matching,Matching
+NJ,Gloucester,34015,,3.3%,1506,28,84,132.79,20.77,0,3,33328,1221,Matching,39.79667,-75.118091,Matching,Gloucester County Special Services School District,Bankbridge Regional School,Matching,58.58,59.49,98.96,4003.04,Matching,Matching
+CO,Garfield,8045,,3.2%,350,4,27,25.9,5.55,0,2,5469,245,Matching,39.442699,-108.05826,Matching,Garfield County School District No. 16,GRAND VALLEY HIGH SCHOOL,Matching,2.24,1.18,2.02,660.05,Matching,Matching
+CA,Fulton,39051,,3.2%,581,9,33,41.75,2.18,0,1,11151,433,Matching,41.656482,-84.001797,Matching,San Bernardino City Unified,Curtis Middle,Matching,9,18.68,16.08,1271.68,Matching,Matching
+OH,Ashland,39005,,3.2%,247,8,21,19,2,0,1,7416,241,Matching,40.873615,-82.312982,Matching,Ashland County Community Academy,Ashland County Community Academy,Matching,1,3.24,4.9,492.79,Matching,Matching
+NJ,Bergen,34003,,3.2%,3883,71,256,388.7,51.72,0,19,63538,1984,Matching,40.924828,-74.005956,Matching,Bergenfield Public School District,Bergenfield High School,Matching,177.04,183.64,266.52,11038.31,Matching,Matching
+FL,Charlotte,12015,,3.2%,500,1,21,37,21,0,3,11128,346,Matching,26.927298,-82.332189,Matching,CHARLOTTE,LEMON BAY HIGH SCHOOL,Matching,0,0,0,948,Matching,Matching
+NM,McKinley,35031,,3.2%,394,4,40,48,5,0,2,615,0,Matching,35.135263,-108.49311,Matching,GALLUP-MCKINLEY CTY SCHOOLS,RAMAH HIGH,Matching,7.78,3.84,7.14,831,Matching,Matching
+CO,Douglas,8035,,3.1%,2033,1,84,85.15,15.3,0,1,50037,1639,Matching,39.540642,-104.80799,Matching,Douglas County School District No. Re 1,CHAPARRAL HIGH SCHOOL,Matching,31.88,54.8,5.07,3293.95,Matching,Matching
+SD,Roberts,46109,1,3.1%,44,3,11,3,2,0,1,668,19,Matching,45.661524,-97.056199,Matching,Sisseton School District 54-2,Westside Elementary - 03,Matching,0,1,1,108.95,Matching,Matching
+GA,Bibb,13021,,3.1%,769,2,43,56,36,0,4,4907,124,Matching,32.815777,-83.750039,Matching,Bibb County,Westside High School,Matching,2,1.7,10,1548.75,Matching,Matching
+AL,Talladega,1121,,3.1%,378,4,30,29,15,0,3,6963,168,Matching,33.461046,-86.090556,Matching,Al Inst Deaf And Blind,Helen Keller School,Matching,1,6,34.5,868.67,Matching,Matching
+SC,Marion,45067,,3.0%,156,1,11,14,6,0,1,1058,34,Matching,34.18,-79.39,Matching,Marion 10,Marion High,Matching,1,2.25,12,332,Matching,Matching
+IN,LaPorte,18091,,3.0%,480,7,31,44.5,6.5,0,1,11155,424,Matching,41.67,-86.89,Matching,Michigan City Area Schools,Barker Middle School,Matching,6.4,7.6,19.82,980.29,Matching,Matching
+OH,Franklin,39049,,3.0%,5391,96,357,331.86,48,0,11,88049,1526,Matching,40.066544,-83.005553,Matching,Ohio School For The Deaf,Ohio School For The Deaf (9-12),Matching,44.44,160.72,164.72,10865.45,Matching,Matching
+TX,Harris,48201,,2.9%,25651,57,1029,1510.73,346.93,0,37,152050,1902,Matching,29.695406,-95.489918,Matching,HOUSTON ISD,INSPIRED FOR EXCELLENCE ACADEMY WEST,Matching,61.62,110.76,851.28,54278.13,Matching,Matching
+CA,Sonoma,6097,,2.9%,1959,39,165,113.66,25,0,6,29672,860,Matching,38.241691,-122.59903,Matching,Petaluma Joint Union High,Sonoma Mountain High (Continuation),Matching,3.6,47.9,27.95,3321.77,Matching,Matching
+OH,Auglaize,39011,,2.9%,213,6,16,18.4,1,0,1,6988,193,Matching,40.55,-84.4,Matching,St Marys City,St Marys Memorial High School,Matching,1,3.2,6.34,444.66,Matching,Matching
+OK,Cherokee,40021,,2.9%,226,11,18,17.6,10.07,0,1,1907,58,Matching,35.92,-94.97,Matching,TAHLEQUAH,TAHLEQUAH MS,Matching,0.85,2.25,7.5,475.99,Matching,Matching
+WI,Pierce,55093,,2.9%,210,6,22,20.02,1.89,0,2,6799,176,Matching,44.726524,-92.48331,Matching,Ellsworth Community School District,Ellsworth High,Matching,0,6.35,6.37,524.45,Matching,Matching
+VA,Buchanan,51027,,2.8%,85,1,9,8,7,0,1,2973,85,Matching,37.311844,-81.977674,Matching,BUCHANAN CO PBLC SCHS,JM BEVINS ELEM,Matching,0,0,7,243,Matching,Matching
+AZ,Pima,4019,,2.8%,4046,72,281,245.84,27.92,0,10,47940,1705,Matching,32.159537,-110.97261,Matching,Sunnyside Unified District,S.t.A.R. Academic Center,Matching,44.05,103.88,98.26,7903.43,Matching,Matching
+TX,Matagorda,48321,,2.8%,191,5,16,18,14.34,0,1,1849,91,Matching,28.988203,-95.956685,Matching,BAY CITY ISD,BAY CITY J H,Matching,0,0,14,474.67,Matching,Matching
+ID,Ada,16001,,2.8%,1899,12,119,154.63,33.31,0,6,55059,1552,Matching,43.65691,-116.2315,Matching,BOISE INDEPENDENT DISTRICT,HILLSIDE JUNIOR HIGH SCHOOL,Matching,9.93,37.43,60.42,3606.66,Matching,Matching
+OH,Wood,39173,,2.8%,544,10,36,48.8,10.73,0,1,16362,478,Matching,41.55,-83.6,Matching,Penta Career Center - District,Penta Career Center - on campus,Matching,1,15.49,13.99,1286.48,Matching,Matching
+IN,Madison,18095,,2.7%,491,6,25,24.5,5.66,0,1,13804,424,Matching,40.135171,-85.615547,Matching,Anderson Community School Corp,Highland Middle School,Matching,8.8,13.72,26.5,990,Matching,Matching
+VT,Addison,50001,,2.7%,116,20,21,20.46,4,0,1,3990,103,Matching,44.006703,-73.163138,Matching,Middlebury UHSD #3,Middlebury Senior UHSD #3,Matching,3.6,3.2,12.24,393.48,Matching,Matching
+SD,Hanson,46061,1,2.7%,16,1,10,1.33,1,0,1,568,16,Matching,43.671271,-97.875345,Matching,Hanson School District 30-1,Hanson Colony Alternative High School - 07,Matching,0,0.2,1,55.95,Matching,Matching
+NC,Macon,37113,,2.7%,119,1,11,11.51,10,0,1,3491,100,Matching,35.227788,-83.415605,Matching,Macon County Schools,Iotla Valley Elementary,Matching,3.1,3.84,3.9,370.23,Matching,Matching
+FL,Leon,12073,,2.6%,937,3,53,65.43,23,0,4,15419,527,Matching,30.400903,-84.267984,Matching,LEON,PACE SECONDARY SCHOOL,Matching,2,0,0,2107.9,Matching,Matching
+CT,Windham,9015,,2.6%,401,17,41,53,3,0,1,11154,334,Matching,41.772256,-72.087612,Matching,EASTERN CONNECTICUT REGIONAL,EASTCONN Special Education,Matching,41.02,30.9,43,1399.83,Matching,Matching
+VA,Russell,51167,,2.6%,107,2,13,10.8,8.33,0,2,4006,101,Matching,36.89,-82.1,Matching,PROJECT BRIDGE/RUSSELL CO,PROJECT BRIDGE/RUSSELL CO,Matching,0,0,7.73,287.25,Matching,Matching
+MA,Essex,25009,,2.6%,2557,41,200,291.04,23.78,0,6,55980,1803,Matching,42.782351,-71.013261,Matching,Pentucket,Pentucket Regional Sr High,Matching,78.92,108.11,225.37,7727.28,Matching,Matching
+ME,Penobscot,23019,,2.5%,486,22,65,59.1,15.75,0,2,17522,452,Matching,45.924683,-68.439476,Matching,RSU 50,Katahdin Middle/High School,Matching,17.02,5.62,27.76,1422.89,Matching,Matching
+VA,Arlington,51013,,2.5%,637,1,37,81.8,12,0,1,11560,409,Matching,38.889072,-77.092848,Matching,ARLINGTON CO PBLC SCHS,NEW DIRECTIONS ALTERNATIVE H.S. PROGRAM,Matching,20.6,23,0,2119.56,Matching,Matching
+GA,Bleckley,13023,1,2.5%,62,1,5,4,1.9,0,1,1697,37,Matching,32.40547,-83.307564,Matching,Bleckley County,Bleckley County Success Academy,Matching,0,0,0.5,153.85,Matching,Matching
+NC,Alamance,37001,,2.4%,618,4,39,55,15,0,1,12381,541,Matching,36.087457,-79.397088,Matching,Alamance-Burlington Schools,Broadview Middle,Matching,26.7,15,26,1697.52,Matching,Matching
+OH,Guernsey,39059,,2.4%,125,5,16,11.33,2.66,0,1,4786,115,Matching,39.95103,-81.557572,Matching,Rolling Hills Local,Meadowbrook Middle School,Matching,2.8,3.16,4.16,338.49,Matching,Matching
+MI,Montcalm,26117,,2.4%,252,8,31,17.95,4.99,0,1,9493,238,Matching,43.261294,-84.916209,Matching,Carson City-Crystal Area Schools,Carson City-Crystal Alternative Academy,Matching,18.74,7.5,2.39,565.27,Matching,Matching
+TX,Hunt,48231,,2.4%,385,10,41,38.7,16,0,2,9397,95,Matching,32.986087,-95.931223,Matching,LONE OAK ISD,LONE OAK H S,Matching,0.2,0.8,25.9,1139.13,Matching,Matching
+DE,Kent,10001,,2.4%,687,12,48,67,13.05,0,1,14754,430,Matching,39.16,-75.53,Matching,Capital School District,Kent County Secondary ILC,Matching,11,30.05,55,1988.1,Matching,Matching
+KY,Warren,21227,,2.4%,468,2,38,45.5,20,0,2,13563,356,Matching,36.894709,-86.516487,Matching,Warren County,South Warren High School,Matching,1.07,10.95,16.81,1219.82,Matching,Matching
+TN,Putnam,47141,,2.3%,255,1,20,28,10,0,1,8846,238,Matching,36.176275,-85.453213,Matching,Putnam County,Algood Middle School,Matching,0,0,16,649.5,Matching,Matching
+FL,Seminole,12117,,2.3%,1503,1,67,107,62,0,6,33619,845,Matching,28.777058,-81.255177,Matching,SEMINOLE,SCPS CONSEQUENCE UNIT,Matching,0,0,0,3905.75,Matching,Matching
+OH,Summit,39153,,2.3%,1708,35,146,165.1,45.43,0,6,49789,621,Matching,41.063863,-81.471866,Matching,Akron City,Bridges Learning Center,Matching,5.39,82.11,29.1,4801.87,Matching,Matching
+SC,Florence,45041,,2.3%,548,5,39,61.5,17,0,1,9242,160,Matching,33.946389,-79.550809,Matching,Florence 02,Hannah Pamplico High,Matching,4,20.99,46.5,1595.92,Matching,Matching
+PA,Lawrence,42073,,2.3%,267,9,23,26,11,0,1,10061,226,Matching,40.976524,-80.33111,Matching,Lawrence County CTC,Lawrence County CTC,Matching,0,10.65,23,831.45,Matching,Matching
+ME,Waldo,23027,,2.3%,82,4,17,12.03,6,0,1,3347,76,Matching,44.446211,-69.048118,Matching,RSU 71,Belfast Area High School,Matching,6.2,5.27,7.18,321.65,Matching,Matching
+AK,Sitka,2220,,2.3%,41,2,7,6.25,5,0,1,739,16,Matching,57.061439,-135.341796,Matching,Sitka School District,Sitka High School,Matching,3.9,1,4.5,131.5,Matching,Matching
+MO,Lincoln,29113,,2.3%,192,4,18,25,9,0,1,7602,184,Matching,38.97,-90.99,Matching,TROY R-III,MAIN STREET ELEM.,Matching,0,0,18,630.77,Matching,Matching
+OH,Medina,39103,,2.2%,616,6,44,53.74,13.46,0,1,25208,583,Matching,41.235311,-81.841214,Matching,Brunswick City,Visintainer Middle School,Matching,1,27.8,24.01,1541.36,Matching,Matching
+NJ,Cumberland,34011,,2.2%,606,18,54,84.1,12,0,1,9175,67,Matching,39.420084,-75.249479,Matching,Bridgeton City School District,Quarter Mile Lane School,Matching,44.4,29.88,61.4,2320.94,Matching,Matching
+IA,Des Moines,19057,,2.2%,145,4,17,14,4.5,0,1,5024,88,Matching,40.818129,-91.161255,Matching,West Burlington Ind School District,West Burlington High School,Matching,4,0,8.91,467.1,Matching,Matching
+CA,San Diego,6073,,2.2%,10061,43,699,717.86,92.43,0,22,137248,972,Matching,32.729423,-117.0083,Matching,La Mesa-Spring Valley,Quest Academy,Matching,72.52,423.1,672.23,21540.01,Matching,Matching
+GA,Lowndes,13185,,2.1%,398,3,20,35.98,23,0,1,8108,178,Matching,30.866041,-83.250189,Matching,Valdosta City,Newbern Middle School,Matching,0,0,20,1167.45,Matching,Matching
+SC,Georgetown,45043,,2.1%,197,1,18,27,18,0,1,4585,169,Matching,33.388242,-79.297462,Matching,Georgetown 01,Georgetown Middle,Matching,1.6,11.84,18,647.58,Matching,Matching
+CA,Santa Barbara,6083,,2.1%,1452,22,113,93.39,16.48,0,4,17076,50,Matching,34.943362,-119.67386,Matching,Cuyama Joint Unified,Cuyama Valley High,Matching,27.25,75.9,31.27,3187.01,Matching,Matching
+NY,Nassau,36059,,2.1%,4260,59,306,520.05,12.8,0,8,102867,2009,Matching,40.755357,-73.605955,Matching,CARLE PLACE UNION FREE SCHOOL DISTRICT,CARLE PLACE MIDDLE SENIOR HIGH SCHOOL,Matching,252.2,394.7,370.39,16956.62,Matching,Matching
+CA,Alameda,6001,,2.1%,4342,22,324,277.94,61.95,0,6,41569,576,Matching,37.709521,-121.9218,Matching,Dublin Unified,Valley High (Continuation),Matching,24.82,165.14,71.88,9941.61,Matching,Matching
+FL,St. Johns,12109,,2.1%,658,2,45,62.6,19,0,8,24273,320,Matching,29.888179,-81.329634,Matching,ST. JOHNS,GAINES ALTERNATIVE AT HAMBLEN,Matching,0,0,0,1801.13,Matching,Matching
+AZ,Coconino,4005,,2.1%,394,18,46,50.13,3,0,1,7554,211,Matching,35.210892,-111.61571,Matching,Flagstaff Unified District,W F Killip Elementary School,Matching,3,15.85,23.6,1205.56,Matching,Matching
+RI,Washington,44009,,2.1%,312,8,36,36.92,10.47,0,1,13035,292,Matching,41.448342,-71.69546,Matching,Chariho,The R.Y.S.E School,Matching,20.76,22,32,1342.42,Matching,Matching
+OH,Trumbull,39155,,2.0%,586,26,70,74.6,27.17,0,2,23005,551,Matching,41.387213,-80.8673,Matching,Bristol Local,Bristol High School,Matching,1,24.45,42.86,1927.82,Matching,Matching
+IA,Woodbury,19193,,2.0%,365,7,37,38.1,6.75,0,1,10783,298,Matching,42.385519,-95.869007,Matching,Maple Valley-Anthon Oto Comm School District,Anthon Elementary,Matching,0,0,19.43,1179.26,Matching,Matching
+SC,Kershaw,45055,,2.0%,214,1,18,28.65,13.25,0,1,6561,160,Matching,34.429106,-80.530227,Matching,Kershaw 01,North Central Middle,Matching,2.35,8.5,13.5,642.8,Matching,Matching
+OH,Lucas,39095,,2.0%,1256,44,134,144.79,48.7,0,5,35285,341,Matching,41.682886,-83.592752,Matching,Toledo City,McKinley Elementary School,Matching,15.5,50.12,140.6,3832.39,Matching,Matching
+SD,Minnehaha,46099,,2.0%,651,8,72,74.07,25.85,0,7,23291,471,Matching,43.541007,-96.717222,Matching,East Dakota Educational Cooperative,Teachwell Academy Middle School - 04,Matching,6.95,11.15,30.02,2020.96,Matching,Matching
+OH,Clermont,39025,,2.0%,572,10,47,35.99,10,0,1,26102,517,Matching,39.227207,-84.158424,Matching,Goshen Local,Goshen High School,Matching,2.25,19.75,22.78,1577.87,Matching,Matching
+WY,Albany,56001,,2.0%,79,1,17,15.06,3.9,0,1,3002,64,Matching,41.305423,-105.56178,Matching,Albany County School District #1,Whiting High School,Matching,5.15,7,9.5,369.15,Matching,Matching
+FL,Bay,12005,,2.0%,546,1,46,69.5,25,0,4,18955,397,Matching,30.151711,-85.661506,Matching,BAY,PANAMA CITY MARINE INSTITUTE,Matching,5,5,2,1687.97,Matching,Matching
+IL,Union,17181,1,2.0%,61,8,16,4.8,1,0,1,2752,55,Matching,37.39,-89.15,Matching,Dongola USD 66,Dongola High School,Matching,9.08,0,6.05,206.95,Matching,Matching
+PA,York,42133,,1.9%,1236,21,107,167.15,39.99,0,2,48308,194,Matching,40.065688,-76.715675,Matching,Northeastern York SD,Northeastern SHS,Matching,7.43,26.49,77.65,4315.23,Matching,Matching
+PA,Erie,42049,,1.9%,753,18,71,95,130.49,0,2,29399,689,Matching,42.151142,-80.010721,Matching,Iroquois SD,Iroquois JSHS,Matching,4.3,36.4,53.5,2812.41,Matching,Matching
+WY,Teton,56039,,1.9%,54,2,10,14.4,2,0,1,1813,22,Matching,43.535619,-110.83025,Matching,Region V BOCES,C-Bar-V Ranch,Matching,5.5,6.17,5,262.9,Matching,Matching
+WI,Oneida,55085,,1.9%,79,4,15,11.6,6.1,0,1,3720,73,Matching,45.648197,-89.40058,Matching,Rhinelander School District,Rhinelander High,Matching,3,4,2.69,322.4,Matching,Matching
+KY,Jessamine,21113,,1.9%,155,1,12,15.9,5,0,1,6867,136,Matching,37.86,-84.66,Matching,Jessamine County,The Providence School,Matching,3,5.9,12,499.38,Matching,Matching
+ID,Madison,16065,,1.9%,132,2,15,8,5,0,1,6378,112,Matching,43.817731,-111.77733,Matching,MADISON DISTRICT,CENTRAL ALTERNATIVE HIGH,Matching,0.9,3.34,0,301.97,Matching,Matching
+WI,Rock,55105,,1.9%,516,9,60,58.38,11,0,1,19325,121,Matching,42.630862,-89.259607,Matching,Parkview School District,Parkview High,Matching,10.02,28.4,13.87,1900.85,Matching,Matching
+NJ,Passaic,34031,,1.9%,1493,27,146,228.32,28.49,0,3,24129,4,Matching,40.91739,-74.171031,Matching,Paterson Public School District,Alternative High School,Matching,128.86,96.66,164.45,7126.02,Matching,Matching
+FL,Walton,12131,,1.8%,162,1,19,16.99,14,0,1,6798,100,Matching,30.721074,-86.096065,Matching,WALTON,WALTON ACADEMY INC.,Matching,0,0,0,550,Matching,Matching
+CO,Denver,8031,,1.8%,1697,3,201,115.7,20,0,3,21003,46,Matching,39.776692,-104.83251,Matching,School District No. 1 in the county of Denver and State of C,FARRELL B. HOWELL ECE-8 SCHOOL,Matching,66.68,54.68,31.85,6066.58,Matching,Matching
+WI,Brown,55009,,1.8%,791,9,78,102.07,24.63,0,4,29559,658,Matching,44.52017,-88.02154,Matching,Green Bay Area Public School District,Fort Howard Elementary,Matching,44.32,30.89,16.14,3192.84,Matching,Matching
+WI,Juneau,55057,,1.8%,43,5,15,9.3,2,0,1,2133,37,Matching,44.042033,-90.036794,Matching,New Lisbon School District,Juneau County Charter School,Matching,0,4,5.5,199.9,Matching,Matching
+NJ,Essex,34013,,1.8%,2403,45,230,400.85,37,0,1,34676,7,Matching,40.756235,-74.179375,Matching,NEWARK PUBLIC SCHOOL DISTRICT,BARRINGER ARTS HIGH SCHOOL,Matching,373.28,160.74,285.22,10793.36,Matching,Matching
+FL,Lee,12071,,1.8%,1638,1,113,137,40,0,2,38672,851,Matching,26.648362,-81.84032,Matching,LEE,LEE ADOLESCENT MOTHERS PROGRAM,Matching,3.2,0,0,5116.3,Matching,Matching
+OH,Cuyahoga,39035,,1.8%,2914,109,354,328.49,53.76,0,9,70551,1284,Matching,41.473808,-81.731838,Matching,Cleveland Metropolitan School District,H Barbara Booker Elementary School,Matching,37.8,246.66,213.91,11277.57,Matching,Matching
+TX,Gregg,48183,,1.8%,389,8,41,50.83,22,0,1,8914,205,Matching,32.515788,-94.780919,Matching,PINE TREE ISD,EXCEL H S OF CHOICE,Matching,0,1.09,33.83,1468.9,Matching,Matching
+TN,Hamilton,47065,,1.8%,792,1,77,89.87,28,0,1,24636,478,Matching,35.001323,-85.28215,Matching,Hamilton County,East Lake Academy Of Fine Arts,Matching,31.31,37.9,60.8,3122.4,Matching,Matching
+LA,St. Mary,22101,,1.8%,162,2,24,10,1,0,1,4287,112,Matching,29.705808,-91.204433,Matching,St. Mary Parish,Morgan City Junior High School,Matching,0,0,11.7,646.78,Matching,Matching
+KY,Madison,21151,,1.8%,229,2,24,28,14.65,0,1,11154,196,Matching,37.745173,-84.296016,Matching,Madison County,Madison Middle School,Matching,3.3,14.66,10.5,826.45,Matching,Matching
+CO,Arapahoe,8005,,1.7%,1907,7,148,172.89,44,0,6,49556,1353,Matching,39.692114,-104.81731,Matching,Aurora Joint District No. 28 of the counties of Adams and A,GATEWAY HIGH SCHOOL,Matching,69.56,124.58,79.11,5999.96,Matching,Matching
+CA,Marin,6041,,1.7%,591,20,74,67.9,7.1,0,2,19918,332,Matching,37.938832,-122.53155,Matching,Larkspur-Corte Madera School District,Hall Middle,Matching,2.38,29.67,9.39,1838.92,Matching,Matching
+LA,St. Tammany,22103,,1.7%,650,2,57,66,13,0,1,27331,217,Matching,30.36,-90.06,Matching,St. Tammany Parish Public School System,Mandeville Middle School,Matching,0,2,26,2595,Matching,Matching
+OK,Muskogee,40101,,1.7%,224,13,38,31.57,17,0,2,5138,116,Matching,35.77,-95.37,Matching,MUSKOGEE,CHEROKEE ES,Matching,1,3.5,12.16,810.74,Matching,Matching
+LA,Orleans,22071,,1.7%,786,60,82,93.02,20,0,2,4300,65,Matching,29.947197,-90.073263,Matching,Voices for International Business & Education,International High School of New Orleans,Matching,95.35,26.3,85.15,3222.78,Matching,Matching
+LA,East Baton Rouge,22033,,1.6%,1015,23,119,153,44.8,0,2,13732,174,Matching,30.464023,-91.139823,Matching,East Baton Rouge Parish,Greenville Superintendent's Academy,Matching,44,8.25,87.3,4460.25,Matching,Matching
+OR,Benton,41003,,1.6%,159,4,27,20.81,0.5,0,2,7344,137,Matching,44.595144,-123.25647,Matching,Corvallis SD 509J,Wilson Elementary School,Matching,0,0,1.05,492.44,Matching,Matching
+LA,St. Bernard,22087,,1.6%,118,1,11,14,4,0,1,3893,28,Matching,29.944177,-89.979036,Matching,St. Bernard Parish,C.f. Rowley Alternative School,Matching,6.8,3.16,6.74,452,Matching,Matching
+TN,Knox,47093,,1.6%,944,2,89,127.6,39.1,0,1,43916,805,Matching,36.020178,-83.887983,Matching,Knox County,Richard Yoakley School,Matching,28.08,32.79,72.18,3979.78,Matching,Matching
+PA,Lehigh,42077,,1.5%,799,19,80,164.3,19,0,3,25828,699,Matching,40.663054,-75.607235,Matching,Lehigh Career & Technical Institute,Lehigh Career & Technical Institute,Matching,2.99,386.42,83.55,3466.32,Matching,Matching
+RI,Providence,44007,,1.5%,1230,34,172,194.2,33.3,0,4,36425,1084,Matching,41.834784,-71.401992,Matching,Providence,360 High School,Matching,121.01,96.55,154.21,6485.79,Matching,Matching
+IL,McHenry,17111,,1.5%,804,21,84,74.05,11,0,1,38265,247,Matching,42.28,-88.21,Matching,Wauconda CUSD 118,Matthews Middle School,Matching,72.79,64.04,78.29,3624.8,Matching,Matching
+MN,Scott,27139,,1.5%,407,7,48,34,6,0,3,20385,324,Matching,44.792164,-93.472081,Matching,SOUTHWEST METRO EDUCATIONAL COOP,SWMETRO - CHASKA SPECIAL ED CENTER,Matching,34.27,31.2,27.82,1764.28,Matching,Matching
+MO,Jackson,29095,,1.5%,1581,32,215,292,100.6,0,7,49495,404,Matching,39.041895,-94.448481,Matching,RAYTOWN C-2,NORTHWOOD SCH.,Matching,83.96,16.64,208.94,7335.41,Matching,Matching
+MO,Cape Girardeau,29031,,1.5%,159,5,26,29.25,27,0,2,8270,143,Matching,37.298052,-89.541062,Matching,CAPE GIRARDEAU 63,JEFFERSON ELEM.,Matching,9,6,22.25,732.96,Matching,Matching
+WA,Clallam,53009,,1.5%,149,6,25,23.07,4.17,0,1,7047,121,Matching,48.136023,-123.74567,Matching,Crescent School District,Crescent School,Matching,1,8.06,2.02,545.06,Matching,Matching
+UT,Cache,49005,,1.5%,370,7,39,41.35,7.86,0,1,20541,229,Matching,41.708113,-111.81558,Matching,CACHE DISTRICT,PROVIDENCE SCHOOL,Matching,0,3.7,5.25,1133.96,Matching,Matching
+MN,Rice,27131,,1.4%,131,8,22,16.8,5.2,0,1,6316,115,Matching,44.291758,-93.281641,Matching,FARIBAULT PUBLIC SCHOOL DISTRICT,REFLECTIONS,Matching,15.4,14.5,18.37,631.01,Matching,Matching
+ME,Cumberland,23005,,1.4%,552,21,89,120.91,23.13,0,2,32108,194,Matching,43.757992,-70.014808,Matching,Harpswell Coastal Academy,Harpswell Coastal Academy,Matching,92.91,29.14,72.97,3267.88,Matching,Matching
+OK,Garfield,40047,,1.4%,160,9,33,37.81,15,0,1,6945,94,Matching,36.397231,-97.864451,Matching,ENID,LONGFELLOW MS,Matching,0,2,10.14,694.11,Matching,Matching
+FL,Osceola,12097,,1.4%,833,1,60,96,47,0,2,14995,335,Matching,28.326364,-81.36957,Matching,OSCEOLA,PARKWAY MIDDLE SCHOOL,Matching,0,0,0,3098,Matching,Matching
+CT,Litchfield,9005,,1.4%,262,20,54,72.36,10.8,0,1,15463,247,Matching,41.914619,-73.047963,Matching,REGIONAL SCHOOL DISTRICT 07,STEP,Matching,28.51,40.79,54,1824.6,Matching,Matching
+GA,Habersham,13137,,1.4%,89,1,13,12,12,0,1,4291,49,Matching,34.557196,-83.495869,Matching,Habersham County,Habersham Success Academy,Matching,0,0,11,458.61,Matching,Matching
+OR,Multnomah,41051,,1.4%,1276,10,163,264.85,20,0,1,47941,1078,Matching,45.555226,-122.61991,Matching,Oregon Department of Education,The Ivy School,Matching,6.95,19.5,7.37,5153.02,Matching,Matching
+NE,Douglas,31055,,1.4%,1187,9,175,229,33.5,0,4,46018,853,Matching,41.203752,-96.245571,Matching,MILLARD PUBLIC SCHOOLS,HORIZON HIGH SCHOOL,Matching,16.96,67.05,93.1,6113.79,Matching,Matching
+KY,Simpson,21213,,1.3%,41,1,6,5.3,5,0,1,2388,25,Matching,36.72222,-86.57722,Matching,Simpson County,Franklin-Simpson High School West Campus,Matching,4.5,2.75,6,185.5,Matching,Matching
+NE,Scotts Bluff,31157,,1.3%,85,7,23,17.5,14,0,2,3620,47,Matching,41.946218,-103.813571,Matching,MITCHELL PUBLIC SCHOOLS,MITCHELL SECONDARY SCHOOL,Matching,13,5.9,11.08,433.66,Matching,Matching
+ID,Bingham,16011,,1.3%,132,8,31,24.34,11.62,0,2,6888,16,Matching,43.189029,-112.33737,Matching,BLACKFOOT DISTRICT,INDEPENDENCE ALTERNATE HIGH,Matching,0,5.55,0.84,516.47,Matching,Matching
+MS,Warren,28149,,1.3%,116,1,17,20,6,0,1,2747,19,Matching,32.351541,-90.873913,Matching,VICKSBURG WARREN SCHOOL DIST,CENTER FOR ALTERNATIVE PROGRAMS,Matching,1,0,6,574,Matching,Matching
+TN,Sumner,47165,,1.3%,363,1,46,109.4,42,0,1,21296,319,Matching,36.398462,-86.44323,Matching,Sumner County,R T Fisher Alternative,Matching,4,16.38,25.85,3115.52,Matching,Matching
+NJ,Middlesex,34023,,1.3%,1458,25,167,289,44,0,3,31845,348,Matching,40.500415,-74.453658,Matching,New Brunswick School District,Lincoln Elementary School,Matching,150.14,119.88,201.55,9109.05,Matching,Matching
+CO,Mesa,8077,,1.3%,285,3,48,55.49,5,0,2,15297,242,Matching,39.10519,-108.3699,Matching,Mesa County Valley School District No. 51,PALISADE HIGH SCHOOL,Matching,3,18.24,14.17,1239.51,Matching,Matching
+KS,Sedgwick,20173,,1.3%,1143,10,157,177.7,23,0,2,44674,935,Matching,37.628959,-97.323575,Matching,Wichita,Wells Alternative Middle School,Matching,108.32,88.88,129.44,5588.17,Matching,Matching
+OR,Deschutes,41017,,1.3%,338,3,46,44.17,13.62,0,1,20908,304,Matching,43.673164,-121.506858,Matching,Bend-LaPine Administrative SD 1,LaPine Middle School,Matching,0,4.5,17.59,1182,Matching,Matching
+CA,El Dorado,6017,,1.3%,328,14,55,36,11,0,2,17021,275,Matching,38.61,-120.86,Matching,El Dorado Union High,Union Mine High,Matching,0.2,24.68,16.66,1157.09,Matching,Matching
+WA,King,53033,,1.3%,3620,19,454,619.47,60.17,0,5,125303,1236,Matching,47.6038,-122.3301,Matching,Seattle Public Schools,Cleveland High School STEM,Matching,13.79,228.89,206.69,14290.52,Matching,Matching
+NY,Westchester,36119,,1.3%,1961,48,249,397.6,21,0,4,68894,1543,Matching,40.928015,-73.892807,Matching,YONKERS CITY SCHOOL DISTRICT,SCHOLASTIC ACADEMY FOR ACADEMIC EXCELLENCE,Matching,150.5,317.95,292.13,11520.42,Matching,Matching
+OK,Garvin,40049,,1.3%,69,8,21,17.65,10,0,1,3387,49,Matching,34.741884,-97.221756,Matching,PAULS VALLEY,PAULS VALLEY JHS,Matching,2,0,0,385.57,Matching,Matching
+TN,Wilson,47189,,1.3%,275,2,25,39,29.34,0,1,17032,235,Matching,36.205198,-86.334435,Matching,Wilson County,Lebanon High School,Matching,0,10,24,1381.93,Matching,Matching
+MI,Ingham,26065,,1.3%,510,20,91,50.12,14,0,1,22582,136,Matching,42.597204,-84.44308,Matching,Ingham ISD,SLC/Evergreen,Matching,43.61,29,10.05,2155.6,Matching,Matching
+TN,Roane,47145,,1.3%,71,1,14,14,14,0,1,5018,67,Matching,35.873692,-84.518536,Matching,Roane County,Roane County High School,Matching,0,3,9.5,375,Matching,Matching
+SC,Lexington,45063,,1.3%,627,5,70,142.5,39.99,0,1,32002,367,Matching,33.736409,-81.095509,Matching,Lexington 04,Swansea High,Matching,6.93,49.02,71,3492.81,Matching,Matching
+PA,Luzerne,42079,,1.3%,516,14,60,82.5,38,0,1,28494,70,Matching,41.26059,-75.800551,Matching,Wilkes-Barre Area CTC,Wilkes-Barre Area CTC,Matching,1.12,20.48,59.6,2641.53,Matching,Matching
+CO,Larimer,8069,,1.2%,572,3,89,118.62,44,0,2,33632,398,Matching,40.38475,-105.11349,Matching,Thompson School District R-2J,WALT CLARK MIDDLE SCHOOL,Matching,4.68,11.99,11.35,2995.24,Matching,Matching
+AR,Pulaski,5119,,1.2%,696,17,113,151.4,16.24,0,3,16639,216,Matching,34.760479,-92.346589,Matching,LITTLE ROCK SCHOOL DISTRICT,HALL HIGH SCHOOL,Matching,21,7.55,108.5,3699.17,Matching,Matching
+WI,Portage,55097,,1.2%,112,4,26,15.25,6.2,0,1,7688,94,Matching,44.629622,-89.313393,Matching,Rosholt School District,Rosholt High,Matching,8.5,11.01,2.1,656.66,Matching,Matching
+NY,Albany,36001,,1.2%,495,20,74,125.6,16,0,1,23570,67,Matching,42.770768,-73.710263,Matching,COHOES CITY SCHOOL DISTRICT,COHOES MIDDLE SCHOOL,Matching,98.5,65.5,96.75,3275.37,Matching,Matching
+FL,Putnam,12107,,1.2%,128,1,20,22,6,0,1,5795,61,Matching,29.6308,-81.693618,Matching,PUTNAM,ELEANOR H. MILLER SCHOOL,Matching,0,0,0,584,Matching,Matching
+NC,Lee,37105,,1.2%,125,1,16,26.2,16,0,1,4120,28,Matching,35.471879,-79.143543,Matching,Lee County Schools,Lee Early College,Matching,4.21,4.5,10.04,756.34,Matching,Matching
+AZ,Pinal,4021,,1.2%,617,39,95,55.75,14,0,2,21377,212,Matching,32.935457,-111.73739,Matching,Casa Grande Union High School District,Casa Grande Union High School,Matching,14,44.91,42.25,2487.12,Matching,Matching
+NJ,Atlantic,34001,,1.2%,537,29,76,146,16,0,3,18696,273,Matching,39.4523,-74.7277,Matching,Atlantic County Vocational School District,Atlantic County Alternative High School,Matching,66.61,55.7,90,4042.82,Matching,Matching
+TX,Ellis,48139,,1.2%,426,10,60,85.3,21,0,1,16050,94,Matching,32.530021,-96.651051,Matching,FERRIS ISD,FERRIS J H,Matching,0,0,48.5,2249.66,Matching,Matching
+WI,Dane,55025,,1.2%,871,15,147,151.49,27.79,0,4,48266,691,Matching,43.06072,-89.33974,Matching,Monona Grove School District,Monona Grove Liberal Arts,Matching,98.25,89.85,70.09,5768.73,Matching,Matching
+WI,Waupaca,55135,,1.2%,98,7,25,22.69,4.98,0,2,7463,89,Matching,44.37181,-88.759287,Matching,New London School District,Next Generation Academy,Matching,2,9.38,5.32,597.32,Matching,Matching
+NC,Stokes,37169,,1.2%,72,1,19,18.5,7.4,0,1,5401,61,Matching,36.272245,-80.382457,Matching,Stokes County Schools,Meadowbrook Academy,Matching,1.15,0.69,5.89,505.95,Matching,Matching
+IL,Woodford,17203,,1.2%,82,10,21,9.1,3,0,1,6540,58,Matching,40.916582,-89.292078,Matching,La Salle/Marshall/Putnam ROE,Regional Safe Schools Program,Matching,6.58,4.83,6.5,472.49,Matching,Matching
+OK,Pottawatomie,40125,,1.2%,194,12,33,43.01,22.16,0,1,9789,130,Matching,35.338535,-96.928694,Matching,SHAWNEE,JEFFERSON ES,Matching,5,5,21.38,1010.44,Matching,Matching
+WY,Lincoln,56023,,1.1%,39,2,15,8,0.9,0,1,3137,28,Matching,42.725373,-110.933171,Matching,Lincoln County School District #2,Swift Creek High School,Matching,1.15,5.5,2.06,265.95,Matching,Matching
+TX,Brown,48049,,1.1%,77,8,21,21,1,0,1,4081,14,Matching,31.548047,-99.119252,Matching,BROOKESMITH ISD,BROOKESMITH SCHOOL,Matching,0,0,12.99,542.63,Matching,Matching
+FL,Madison,12079,,1.1%,29,1,8,5,3,0,1,1023,4,Matching,30.4,-83.36,Matching,MADISON,MADISON COUNTY EXCEL ALTERNATIVE EDUCATION CENTER,Matching,0,0,0,174,Matching,Matching
+MT,Lake,30047,,1.1%,48,12,21,16,6.79,0,1,1995,28,Matching,47.318734,-114.09118,Matching,St Ignatius K-12 Schools,St Ignatius High School,Matching,0.3,2.3,5.29,327.65,Matching,Matching
+OR,Columbia,41009,,1.1%,83,5,22,19.6,6.2,0,1,6244,61,Matching,45.859558,-123.17832,Matching,Vernonia SD 47J,Vernonia High School,Matching,1,5.4,6.94,408.89,Matching,Matching
+TN,Anderson,47001,,1.1%,122,3,23,32.5,12.68,0,1,9305,118,Matching,36.101138,-84.135749,Matching,Anderson County,Clinton Middle School,Matching,0,11.35,17.95,816.9,Matching,Matching
+NE,Red Willow,31145,1,1.1%,18,2,7,4.5,5,0,1,1540,16,Matching,40.255045,-100.308985,Matching,SOUTHWEST PUBLIC SCHOOLS,SOUTHWEST JR/SR HIGH SCHOOL,Matching,0,1,2.9,143.5,Matching,Matching
+SC,Lee,45061,,1.1%,24,1,7,5,3,0,1,161,2,Matching,34.21,-80.25,Matching,Lee 01,Lee Central Middle,Matching,0,1,7,156,Matching,Matching
+KY,Butler,21031,,1.0%,23,1,5,6,4.5,0,1,2015,16,Matching,37.215681,-86.706013,Matching,Butler County,Butler County Learning Center,Matching,0,0,4.5,137.5,Matching,Matching
+FL,Citrus,12017,,1.0%,194,1,26,40,23,0,2,13104,161,Matching,28.818453,-82.497162,Matching,CITRUS,CITRUS COUNTY RENAISSANCE CENTER,Matching,0,0,0,1071,Matching,Matching
+VA,Campbell,51031,,1.0%,81,1,14,21,8.46,0,1,5846,58,Matching,37.251863,-79.182376,Matching,CAMPBELL CO PBLC SCHS,CORNERSTONE LEARNING CENTER,Matching,0,3.64,13.5,544.5,Matching,Matching
+KY,Monroe,21171,1,1.0%,19,1,6,4,0.99,0,1,1638,13,Matching,36.705006,-85.695869,Matching,Monroe County,Falcon Academy,Matching,0,0,1,129,Matching,Matching
+TX,Terry,48445,,1.0%,23,3,7,5,3,0,1,554,2,Matching,33.186393,-102.26158,Matching,BROWNFIELD ISD,BROWNFIELD H S,Matching,0,0,2,174.78,Matching,Matching
+FL,Columbia,12023,,1.0%,102,1,16,18,5,0,1,6662,49,Matching,30.195427,-82.658032,Matching,COLUMBIA,Pathways Academy,Matching,0,0,0,661,Matching,Matching
+CO,Weld,8123,,1.0%,524,14,97,104.76,20.65,0,2,27805,242,Matching,40.4247,-104.73422,Matching,Weld County School District 6,FRANKLIN MIDDLE SCHOOL,Matching,2.7,12.66,7.45,2939.23,Matching,Matching
+OH,Delaware,39041,,1.0%,407,5,55,92.1,23.08,0,1,32317,373,Matching,40.231635,-83.039076,Matching,Delaware Area Career Center,Delaware Area Career Center South Campus,Matching,4.62,37.72,20.23,2352.97,Matching,Matching
+TX,Ector,48135,,1.0%,324,3,44,79.2,17.75,0,1,6731,211,Matching,31.86,-102.39,Matching,ECTOR COUNTY ISD,CROCKETT MIDDLE,Matching,0,0,26.5,2051.1,Matching,Matching
+NJ,Burlington,34005,,1.0%,633,39,124,209.8,44.4,0,2,40609,449,Matching,40.001739,-74.781309,Matching,Mount Holly Township Public School District,Gertrude C. Folwell Elementary School,Matching,89.99,97.91,141,5692.49,Matching,Matching
+TN,Sevier,47155,,1.0%,144,1,29,32,29,0,3,12725,114,Matching,35.861612,-83.557776,Matching,Sevier County,Sevierville Middle School,Matching,0.2,11.25,29,1031.35,Matching,Matching
+KY,Montgomery,21173,,1.0%,46,1,10,8,1.75,0,1,4323,40,Matching,38.044174,-83.941861,Matching,Montgomery County,Montgomery County High School,Matching,0,1.8,6,306.5,Matching,Matching
+OH,Lorain,39093,,1.0%,437,27,91,84.05,12.9,0,2,31282,350,Matching,41.43,-82.12,Matching,Summit Academy Community School Alternative Learners-Lorain,Summit Academy Community School Alternative Learners-Lorain,Matching,1.6,32.67,35.27,2765.62,Matching,Matching
+KY,McCracken,21145,,0.9%,94,2,18,24,8.42,0,1,7323,76,Matching,37.066056,-88.638111,Matching,Paducah Independent,Paducah Middle School,Matching,1.75,3,11.18,598.5,Matching,Matching
+IN,Wayne,18177,,0.9%,92,5,22,18,7,0,1,7869,58,Matching,39.832564,-84.904073,Matching,Richmond Community Schools,Community Youth Services,Matching,1.99,1,14.39,698.82,Matching,Matching
+LA,Caddo,22017,,0.9%,373,2,67,100.57,23,0,1,11998,196,Matching,32.399136,-93.791571,Matching,Caddo Parish,Ridgewood Middle School,Matching,1,0,10,2364.87,Matching,Matching
+FL,Holmes,12059,,0.9%,27,1,7,7,1,0,1,2614,19,Matching,30.740444,-85.956367,Matching,HOLMES,PONCE DE LEON ELEMENTARY SCHOOL,Matching,0,0,0,201.16,Matching,Matching
+NM,Sandoval,35043,,0.9%,197,7,40,50.49,6.81,0,1,6479,7,Matching,35.6,-106.74,Matching,JEMEZ VALLEY PUBLIC SCHOOLS,JEMEZ VALLEY HIGH,Matching,24.11,6.56,29.35,1308.83,Matching,Matching
+ND,Cass,38017,,0.9%,213,8,49,73.17,36.63,0,2,18478,200,Matching,46.887079,-97.051199,Matching,MAPLETON 7,MAPLETON ELEMENTARY SCHOOL,Matching,10.25,27.9,18.91,1888.29,Matching,Matching
+IA,Polk,19153,,0.9%,693,9,127,168.55,30.1,0,1,49079,487,Matching,41.601548,-93.598887,Matching,Des Moines Independent Comm School District,Hiatt Middle School,Matching,11.64,2.47,123.03,5230.05,Matching,Matching
+CO,El Paso,8041,,0.9%,1070,17,215,280.97,52.21,0,5,69293,848,Matching,38.85688,-104.90478,Matching,Manitou Springs School District No. 14 in the county of El Paso,MANITOU SPRINGS HIGH SCHOOL,Matching,61.86,67.61,59.82,6917.2,Matching,Matching
+CA,Placer,6061,,0.9%,527,15,102,75.25,23.3,0,3,37788,420,Matching,38.75243,-121.27931,Matching,Roseville Joint Union High,Adelante High (Continuation),Matching,2.49,54.53,37.36,2633.5,Matching,Matching
+GA,Fulton,13121,,0.9%,1291,6,191,310,112,0,3,34648,34,Matching,34.063123,-84.383136,Matching,Fulton County,Roswell High School,Matching,73.87,41.5,40.67,9717.19,Matching,Matching
+IL,Henry,17073,,0.9%,67,9,25,18.5,4,0,2,6665,45,Matching,41.413426,-90.015499,Matching,Bureau/Henry/Stark ROE,Reg'l Safe School Program ROE #28,Matching,7.05,8.65,14.07,529.49,Matching,Matching
+SC,Edgefield,45037,,0.8%,28,1,9,12,5,0,1,1637,11,Matching,33.611763,-81.945485,Matching,SC Public Charter School District,Fox Creek Charter High,Matching,0,0,6,262,Matching,Matching
+FL,Alachua,12001,,0.8%,251,2,57,63,40,0,1,13320,115,Matching,29.657991,-82.336113,Matching,ALACHUA,A.QUINN JONES CENTER,Matching,1,0,0,1718,Matching,Matching
+OH,Lawrence,39087,,0.8%,83,9,24,19.5,10.5,0,1,9369,73,Matching,38.491855,-82.473987,Matching,Lawrence County Academy,Lawrence County Academy,Matching,3,5.49,16.49,713.62,Matching,Matching
+ME,York,23031,,0.8%,205,14,56,92.07,16.6,0,1,23066,187,Matching,43.289179,-70.826088,Matching,RSU 60/MSAD 60,Noble Middle School,Matching,35.3,18.91,56.66,2093.78,Matching,Matching
+KY,Woodford,21239,,0.8%,34,1,7,11.5,2.1,0,1,3193,22,Matching,38.05,-84.72,Matching,Woodford County Public Schools,Woodford County Middle School,Matching,2,27.55,4.9,212.5,Matching,Matching
+KY,Anderson,21005,,0.8%,31,1,7,7,3,0,1,3457,25,Matching,38.024114,-84.908588,Matching,Anderson County,APEX Academy,Matching,2,5.5,6,253,Matching,Matching
+NC,Wayne,37191,,0.8%,160,3,35,49.75,16.08,0,1,7727,49,Matching,35.226898,-77.897397,Matching,Wayne County Public Schools,Spring Creek High,Matching,18,3,24,1417.06,Matching,Matching
+OR,Coos,41011,,0.8%,64,6,24,12,2,0,1,5919,40,Matching,43.115604,-124.42039,Matching,Bandon SD 54,Bandon Senior High School,Matching,0.75,3.35,7.6,394.55,Matching,Matching
+TX,Limestone,48293,,0.8%,32,3,11,9,3,0,1,1569,14,Matching,31.53,-96.53,Matching,GROESBECK ISD,GROESBECK H S,Matching,0,0.5,5.9,311.72,Matching,Matching
+MA,Norfolk,25021,,0.8%,763,35,177,361.88,28.42,0,2,70410,647,Matching,42.162238,-71.044941,Matching,Randolph,Randolph High,Matching,48.2,150.29,199.54,7707.55,Matching,Matching
+MA,Hampden,25013,,0.8%,366,17,101,198,35.95,0,1,21506,295,Matching,42.1015,-72.5898,Matching,Springfield,Springfield Public Day High School,Matching,79.88,44.54,109.75,3867.67,Matching,Matching
+TX,Lubbock,48303,,0.8%,393,11,97,114.65,20,0,2,18083,167,Matching,33.573019,-101.82098,Matching,LUBBOCK ISD,PRIORITY INTERVENTION ACADEMY,Matching,2,0,33.52,3609.16,Matching,Matching
+NC,Cumberland,37051,,0.8%,402,4,90,149.16,82.05,0,1,16356,46,Matching,35.053085,-78.868804,Matching,Cumberland County Schools,Pauline Jones Middle,Matching,83.3,28.17,2,4079.44,Matching,Matching
+VA,Pittsylvania,51143,,0.7%,67,3,20,30,9,0,1,6257,37,Matching,36.66774,-79.526337,Matching,PITTSYLVANIA CO PBLC SCHS,TUNSTALL MIDDLE,Matching,0.25,4.2,18,711.58,Matching,Matching
+NJ,Mercer,34021,,0.7%,292,14,72,146.3,80,0,1,14335,64,Matching,40.2273,-74.6532,Matching,Mercer County Special Services School District,Mercer Elementary School,Matching,49.61,50.41,79,3475.59,Matching,Matching
+MS,Lafayette,28071,,0.7%,53,3,14,16,12,0,2,4281,20,Matching,34.369214,-89.524812,Matching,OXFORD SCHOOL DISTRICT,OXFORD LEARNING CENTER,Matching,3,4,13,487.21,Matching,Matching
+TX,Dawson,48115,,0.7%,20,4,8,7.5,5,0,1,638,4,Matching,32.74,-101.95,Matching,LAMESA ISD,LAMESA MIDDLE,Matching,0,0,1,201.17,Matching,Matching
+GA,Colquitt,13071,,0.7%,70,1,14,19,4,0,1,4088,31,Matching,31.173548,-83.764561,Matching,Colquitt County,Colquitt County Achievement Center,Matching,9,4,14,633.97,Matching,Matching
+MN,Swift,27151,1,0.7%,13,3,6,2.5,1,0,1,1503,7,Matching,45.316247,-95.602909,Matching,BENSON PUBLIC SCHOOL DISTRICT,BENSON AREA LEARNING CENTER,Matching,2,0,2.5,122.8,Matching,Matching
+TX,Jefferson,48245,,0.7%,304,10,70,96.2,16,0,2,11045,9,Matching,30.102101,-94.138125,Matching,BEAUMONT ISD,PATHWAYS LEARNING CTR,Matching,0.1,0,64,2734.18,Matching,Matching
+FL,Wakulla,12129,,0.7%,34,1,10,14,4,0,1,3896,28,Matching,30.058288,-84.49441,Matching,WAKULLA,SECOND CHANCE SCHOOL-SOPCHOPPY EDUCATION CENTER,Matching,0,0,0,287,Matching,Matching
+WI,Milwaukee,55079,,0.7%,965,36,272,232.74,39.85,0,3,45157,711,Matching,43.094877,-87.94317,Matching,Milwaukee School District,NOVA Tech,Matching,134.07,151.58,91.1,9262.32,Matching,Matching
+KY,Estill,21065,,0.7%,18,1,7,6,6,0,1,2521,16,Matching,37.703163,-83.97586,Matching,Estill County,Estill County Success Academy,Matching,0,0,2,162.75,Matching,Matching
+FL,Martin,12085,,0.7%,140,1,27,33.5,12,0,2,11579,53,Matching,27.162276,-80.241283,Matching,MARTIN,WILLOUGHBY LEARNING CENTER,Matching,0,0,0,1191.53,Matching,Matching
+TN,Carter,47019,,0.7%,50,2,17,18,14,0,1,6761,46,Matching,36.340563,-82.154036,Matching,Carter County,Siam Learning Center,Matching,1,0,16,592,Matching,Matching
+FL,Polk,12105,,0.7%,703,2,149,208,35,0,2,42591,221,Matching,28.024624,-81.618277,Matching,POLK,DON E WOODS OPPORTUNITY CENTER,Matching,7,3,5,5970,Matching,Matching
+FL,Gadsden,12039,,0.7%,39,1,17,16,6,0,2,208,4,Matching,30.548138,-84.68529,Matching,GADSDEN,WEST GADSDEN HIGH SCHOOL,Matching,0,0,0,329,Matching,Matching
+NJ,Morris,34027,,0.7%,482,37,144,271.96,14.75,0,1,48523,343,Matching,40.889022,-74.547007,Matching,Dover Public School District,Dover Middle School,Matching,89.91,111.78,160.73,6651.57,Matching,Matching
+FL,Volusia,12127,,0.7%,420,1,87,130.8,28,0,3,37250,129,Matching,29.217837,-81.048742,Matching,VOLUSIA,RICHARD MILBURN ACADEMY MIDDLE SCHOOL,Matching,0,0,0,4058.98,Matching,Matching
+GA,Elbert,13105,1,0.7%,19,1,5,3,3,0,1,1502,7,Matching,34.107573,-82.885589,Matching,Elbert County Schools,Elberton Education Center,Matching,1,0,4.5,183.61,Matching,Matching
+UT,Summit,49043,,0.6%,50,4,15,18.28,8.91,0,1,6360,40,Matching,40.751802,-111.59272,Matching,WEILENMANN SCHOOL OF DISCOVERY,WEILENMANN SCHOOL OF DISCOVERY,Matching,0.75,1.88,6.58,453.3,Matching,Matching
+ND,Stark,38089,,0.6%,27,5,16,14.91,2.99,0,1,3754,19,Matching,46.89,-103.19,Matching,BELFIELD 13,BELFIELD HIGH SCHOOL,Matching,3.6,0.9,0,336.27,Matching,Matching
+WI,Monroe,55081,,0.6%,41,4,25,18.25,17.5,0,1,5773,31,Matching,43.945788,-90.808664,Matching,Sparta Area School District,Sparta High Point School,Matching,0,6.64,4.42,502.4,Matching,Matching
+KY,Rowan,21205,,0.6%,18,1,9,6.4,3,0,1,2860,16,Matching,38.178766,-83.439153,Matching,Rowan County,Bluegrass Discovery Academy High,Matching,0,0,6,174.04,Matching,Matching
+GA,DeKalb,13089,,0.6%,615,4,147,282.42,70.7,0,2,14714,428,Matching,33.677017,-84.294662,Matching,DeKalb County,Cedar Grove High School,Matching,42.79,44.5,74.12,7238.72,Matching,Matching
+WI,Dodge,55027,,0.6%,65,12,36,26.19,18.4,0,1,9759,43,Matching,43.460047,-88.837901,Matching,Beaver Dam Unified School District,Beaver Dam Middle,Matching,4.9,11.4,7.46,796.35,Matching,Matching
+WA,Kitsap,53035,,0.6%,199,6,70,76.12,14.59,0,1,23200,157,Matching,47.655689,-122.703518,Matching,Central Kitsap School District,New Frontiers Jr High,Matching,0,17.56,7.15,1816.2,Matching,Matching
+OR,Yamhill,41071,,0.6%,92,8,36,38.55,7.5,0,2,11292,68,Matching,45.084828,-123.47437,Matching,Willamina SD 30J,Willamina Middle School,Matching,0,5.13,4.75,879.98,Matching,Matching
+CA,San Mateo,6081,,0.5%,493,23,163,145.33,21.7,0,4,25925,133,Matching,37.513651,-122.335022,Matching,San Mateo County Office of Education,Gateway Center,Matching,2.13,57.94,17.35,4383.47,Matching,Matching
+KY,Kenton,21117,,0.5%,122,5,38,49,20.6,0,3,17979,61,Matching,39.091766,-84.553544,Matching,Ludlow Independent,Ludlow High School,Matching,26,16.1,25.9,1358.01,Matching,Matching
+VA,Newport News,51700,,0.5%,150,3,42,77,15.5,0,1,7137,64,Matching,37.171457,-76.526885,Matching,NEW HORIZONS REGIONAL EDUC CTR-SPEC ED,NEWPORT ACADEMY,Matching,12.86,16.77,42,1958,Matching,Matching
+TN,Warren,47177,,0.5%,33,1,10,13,12,0,1,4948,22,Matching,35.686209,-85.771251,Matching,Warren County,Warren County Alternative Academy,Matching,2.12,4.1,10,417.75,Matching,Matching
+NC,Dare,37055,,0.5%,26,1,11,14.83,11,0,1,3926,22,Matching,35.91,-75.68,Matching,Dare County Schools,Manteo Middle School,Matching,2,6.6,11,439.44,Matching,Matching
+OK,Tulsa,40143,,0.5%,576,24,176,295.31,101.43,0,1,50293,337,Matching,36.026519,-95.969342,Matching,JENKS,JENKS HS,Matching,16,43.47,97.64,6665.82,Matching,Matching
+GA,Barrow,13013,,0.5%,69,1,14,22.5,8.5,0,1,8315,34,Matching,34.097614,-83.80373,Matching,Gwinnett County,Frank N. Osborne Middle School,Matching,0,0,0,905.07,Matching,Matching
+CA,Napa,6055,,0.5%,104,6,42,33.8,10,0,1,6295,19,Matching,38.277785,-122.25685,Matching,Napa County Office of Education,Napa County Community,Matching,8.63,15.95,5.91,913.59,Matching,Matching
+FL,Jefferson,12065,1,0.5%,4,1,4,2,3,0,1,149,2,Matching,30.46,-83.77,Matching,JEFFERSON,JEFFERSON COUNTY MIDDLE/HIGH SCHOOL,Matching,0,0,0,57,Matching,Matching
+NJ,Camden,34007,,0.5%,371,47,150,259.25,38.96,0,2,32601,155,Matching,39.878119,-75.118888,Matching,BROOKLAWN PUBLIC SCHOOL DISTRICT,Alice Costello Elementary School,Matching,98.87,90.18,160,6495.33,Matching,Matching
+NJ,Monmouth,34025,,0.5%,476,54,179,342,40.72,0,2,68167,380,Matching,40.439369,-74.124146,Matching,Keansburg School District,Keansburg High School,Matching,139.96,247.27,196.65,9132.51,Matching,Matching
+KY,Boone,21015,,0.5%,105,2,28,43,13.47,0,1,18589,76,Matching,39.060677,-84.696667,Matching,Boone County,Conner Middle School,Matching,1,12.99,18.7,1418,Matching,Matching
+KY,Oldham,21185,,0.5%,52,1,16,26,2.4,0,1,9913,46,Matching,38.389397,-85.437824,Matching,Oldham County,Buckner Alternative High School,Matching,3.36,5.56,6.16,642.01,Matching,Matching
+FL,Marion,12083,,0.4%,192,1,61,84.82,18,0,1,22078,64,Matching,29.183397,-82.137839,Matching,MARION,PACE CENTER FOR GIRLS INC.,Matching,0,0,0,2462.6,Matching,Matching
+MI,Grand Traverse,26055,,0.4%,61,7,31,17.03,1.25,0,1,12490,46,Matching,44.751191,-85.644634,Matching,Traverse Bay Area ISD,New Campus Center,Matching,17.5,3.5,6,731.7,Matching,Matching
+MO,St. Louis,29189,,0.4%,606,23,244,434.4,106.71,0,1,71392,4,Matching,38.708292,-90.308069,Matching,NORMANDY SCHOOLS COLLABORATIVE,NORMANDY MIDDLE,Matching,85.08,25.02,257.15,9499.41,Matching,Matching
+TX,Orange,48361,,0.4%,67,6,26,34,6,0,1,11489,10,Matching,30.166989,-93.755558,Matching,LITTLE CYPRESS-MAURICEVILLE CISD,LITTLE CYPRESS-MAURICEVILLE ALTERNATIVE,Matching,0,0,23,1072.38,Matching,Matching
+KS,Labette,20099,,0.4%,16,5,17,6.9,3,0,1,2780,10,Matching,37.341381,-95.278,Matching,Parsons District Schools USD 503,Parsons Middle School,Matching,2.5,2.4,2,311.95,Matching,Matching
+WI,Marathon,55073,,0.4%,83,8,48,50.32,10.99,0,1,15027,61,Matching,44.974396,-89.65112,Matching,Wausau School District,West High,Matching,8.1,19.37,7.05,1351.37,Matching,Matching
+NM,San Juan,35045,,0.4%,101,5,48,61.31,17.93,0,1,6755,28,Matching,36.723099,-108.19282,Matching,FARMINGTON MUNICIPAL SCHOOLS,MCCORMICK ELEMENTARY,Matching,30.85,20.57,34.75,1634.03,Matching,Matching
+CA,Del Norte,6015,,0.4%,17,2,13,8.75,4,0,1,2126,2,Matching,41.926596,-124.147808,Matching,Del Norte County Unified,Smith River Elementary,Matching,0,1.94,5.95,189,Matching,Matching
+TX,Brazos,48041,,0.4%,124,3,43,71.22,11.99,0,2,10794,7,Matching,30.558753,-96.249038,Matching,COLLEGE STATION ISD,PEBBLE CREEK EL,Matching,2,15.29,41.79,1997.53,Matching,Matching
+WI,Columbia,55021,,0.4%,42,9,33,27.54,6.85,0,1,8883,34,Matching,43.533547,-89.292346,Matching,Pardeeville Area School District,Pardeeville High,Matching,0,11.33,7.37,747.26,Matching,Matching
+TX,Williamson,48491,,0.4%,412,12,133,222.75,16,0,2,48993,207,Matching,30.53096,-97.661644,Matching,ROUND ROCK ISD,STONY POINT H S,Matching,2.46,54.42,105.57,6875.25,Matching,Matching
+NC,Davidson,37057,,0.4%,100,3,46,74.25,44.1,0,1,17848,67,Matching,35.822913,-80.218501,Matching,Davidson County Schools,Davidson County High School,Matching,11.15,5.39,8,1876.33,Matching,Matching
+FL,Union,12125,,0.4%,9,1,4,5,4,0,1,1816,4,Matching,30.018278,-82.344538,Matching,UNION,LAKE BUTLER ELEMENTARY SCHOOL,Matching,0,0,0,154.59,Matching,Matching
+TX,Cameron,48061,,0.4%,387,10,163,301.09,137.59,0,1,2692,2,Matching,25.90465,-97.477964,Matching,BROWNSVILLE ISD,FAULK MIDDLE,Matching,5.5,8.46,129.74,6834.21,Matching,Matching
+WA,Skagit,53057,,0.4%,66,7,40,45.63,1,0,1,10675,49,Matching,48.478309,-122.33906,Matching,Burlington-Edison School District,Burlington-Edison Alternative School,Matching,0,14.4,5.48,990.42,Matching,Matching
+CA,Mendocino,6045,,0.3%,37,13,55,36.73,2,0,1,5109,25,Matching,39.307022,-123.800364,Matching,Mendocino Unified,Mendocino High,Matching,5.3,11.55,14.07,693.46,Matching,Matching
+ND,Burleigh,38015,,0.3%,40,7,31,38.1,13.2,0,1,10525,40,Matching,46.80118,-100.80053,Matching,BISMARCK 1,SOUTH CENTRAL ALTERNATIVE HIGH SCHOOL,Matching,115.71,7.85,6.67,848.85,Matching,Matching
+VA,Norfolk,51710,,0.3%,101,3,49,86,14,0,1,7177,10,Matching,36.86,-76.21,Matching,TIDEWATER REGIONAL ALTERNATIVE ED PROJECT,TIDEWATER REGIONAL ALTERNATIVE ED PROJECT,Matching,20.61,18.3,47,2262,Matching,Matching
+TX,Kaufman,48257,,0.3%,83,7,46,54.77,14.75,0,1,14833,25,Matching,32.564767,-96.310613,Matching,KAUFMAN ISD,GARY W CAMPBELL H S,Matching,0,1.3,42.55,1707.25,Matching,Matching
+CA,Contra Costa,6013,,0.3%,534,19,249,224.14,129.72,0,1,56131,340,Matching,37.977486,-121.98936,Matching,Mt. Diablo Unified,Summit High (Continuation),Matching,12,153.65,33.06,7887.44,Matching,Matching
+VA,Suffolk,51800,,0.3%,44,1,20,34,7,0,1,4709,19,Matching,36.795669,-76.525693,Matching,SUFFOLK CITY PBLC SCHS,NANSEMOND PARKWAY ELEM,Matching,6,4,23,1059,Matching,Matching
+NC,Iredell,37097,,0.3%,91,6,47,70.69,24,0,1,20945,7,Matching,35.794762,-80.864051,Matching,Iredell-Statesville Schools,Pressly School,Matching,17.41,9.14,27.23,2089.74,Matching,Matching
+KY,Mercer,21167,,0.3%,10,2,8,7.5,2.12,0,1,2882,10,Matching,37.775124,-84.857101,Matching,Mercer County,Kenneth D King Middle School,Matching,1,5.25,5.5,222.24,Matching,Matching
+WI,Price,55099,1,0.3%,5,3,10,3.3,3.5,0,1,1559,5,Matching,45.945665,-90.453765,Matching,Chequamegon School District,Chequamegon High,Matching,0,3,0.8,124.02,Matching,Matching
+KY,Bullitt,21029,,0.3%,37,1,23,27,9,0,1,11865,31,Matching,37.99851,-85.695764,Matching,Bullitt County,Bullitt Alternative Center,Matching,6.74,9.2,3.68,742.79,Matching,Matching
+TX,Tarrant,48439,,0.3%,1067,28,533,1082.82,95.97,0,2,120780,212,Matching,32.735745,-97.336352,Matching,FORT WORTH ISD,TRIMBLE TECHNICAL H S,Matching,42.69,354.68,355.15,24160.36,Matching,Matching
+FL,Indian River,12061,,0.3%,50,1,26,23.6,7,0,1,10001,13,Matching,27.69,-80.45,Matching,INDIAN RIVER,ALTERNATIVE CENTER FOR EDUCATION,Matching,3.8,0,0,1080.6,Matching,Matching
+IL,Kankakee,17091,,0.3%,48,12,38,22,5,0,1,10352,10,Matching,41.114563,-87.832766,Matching,Kankakee SD 111,Kankakee Junior High School,Matching,30.01,17.28,8.79,1269.04,Matching,Matching
+OK,Oklahoma,40109,,0.3%,366,29,223,287.97,77.33,0,1,54921,136,Matching,35.57377,-97.490139,Matching,OKLAHOMA CITY,OKLAHOMA CENTENNIAL HS,Matching,10.99,74.92,81.31,8627.18,Matching,Matching
+AL,Morgan,1103,,0.3%,44,3,35,44,25,0,1,10757,19,Matching,34.34,-86.75,Matching,Morgan County Schools,Eva Sch,Matching,2,2,30,1119.49,Matching,Matching
+OR,Marion,41047,,0.3%,142,10,107,119.41,9,0,1,26822,16,Matching,45.137357,-122.844766,Matching,Woodburn SD 103,Woodburn Success,Matching,2,7.07,9.54,2635.1,Matching,Matching
+SC,Greenville,45045,,0.3%,196,3,96,201.5,52.1,0,2,42928,98,Matching,34.880141,-82.357972,Matching,SC Public Charter School District,NEXT High,Matching,30.2,28.35,110,4677.95,Matching,Matching
+TN,Davidson,47037,,0.3%,217,3,167,265.1,67.25,0,1,26477,193,Matching,36.150922,-86.846208,Matching,Davidson County,The Cohn School,Matching,18.6,2,12,5518.31,Matching,Matching
+TX,Angelina,48005,,0.2%,43,7,38,39.41,13.8,0,1,8100,37,Matching,31.316747,-94.767753,Matching,LUFKIN ISD,BROOKHOLLOW EL,Matching,2,3,22,1213.64,Matching,Matching
+WV,Monroe,54063,,0.2%,4,1,5,6,5,0,1,1571,4,Matching,37.4537,-80.6698,Matching,MONROE COUNTY SCHOOLS,JAMES MONROE HIGH SCHOOL,Matching,0,1,1,121.05,Matching,Matching
+MS,Lamar,28073,,0.2%,26,2,18,29,19.5,0,1,7029,16,Matching,31,-89.45,Matching,LUMBERTON PUBLIC SCHOOL DISTRICT,LUMBERTON HIGH SCHOOL,Matching,2,0,15.5,765,Matching,Matching
+KY,Christian,21047,,0.2%,21,1,17,27.1,6.23,0,1,4790,7,Matching,36.84112,-87.504636,Matching,Christian County,Hopkinsville Middle School,Matching,2.72,5.16,12.2,518.4,Matching,Matching
+SC,Anderson,45007,,0.2%,75,5,51,85,29.56,0,1,22365,64,Matching,34.630896,-82.478647,Matching,Anderson 01,Palmetto Middle,Matching,1,13,50.9,1909.52,Matching,Matching
+AL,Jefferson,1073,,0.2%,235,14,157,221.25,74.08,0,1,38802,169,Matching,33.64364,-86.66128,Matching,Jefferson County,Chalkville Elem Sch,Matching,4,0.9,144.1,6235.08,Matching,Matching
+ID,Jerome,16053,,0.2%,11,3,9,8.6,5,0,1,2295,7,Matching,42.733142,-114.520218,Matching,JEROME JOINT DISTRICT,JEROME MIDDLE SCHOOL,Matching,1.04,1.88,1.54,259.7,Matching,Matching
+NM,Bernalillo,35001,,0.2%,218,35,173,221.45,2,0,1,20234,130,Matching,35.048655,-106.68227,Matching,ALBUQUERQUE PUBLIC SCHOOLS,ERNIE PYLE MIDDLE,Matching,113.01,1.85,98.65,6158.68,Matching,Matching
+TX,Wichita,48485,,0.2%,44,5,40,46.86,18,0,1,10289,10,Matching,33.887689,-98.513437,Matching,WICHITA FALLS ISD,FRANKLIN EL,Matching,3,6.47,35.92,1472.06,Matching,Matching
+ID,Minidoka,16067,,0.2%,9,1,11,7,4,0,1,2163,4,Matching,42.557552,-113.770358,Matching,MINIDOKA COUNTY JOINT DISTRICT,MT HARRISON JR/SR HIGH ALT SCHOOL,Matching,0,3,1,213.5,Matching,Matching
+TX,Collin,48085,,0.2%,395,16,238,410.97,85.99,0,2,88046,197,Matching,33.004702,-96.53706,Matching,WYLIE ISD,ACHIEVE ACADEMY,Matching,2.1,15.81,224.1,12367.07,Matching,Matching
+VA,Prince William,51153,,0.2%,188,1,89,224.1,27.5,0,1,27968,73,Matching,38.62556,-77.324809,Matching,PRINCE WILLIAM CO PBLC SCHS,NEABSCO ELEM,Matching,39.91,46.9,82.66,5483.08,Matching,Matching
+TX,Grimes,48185,,0.2%,9,4,12,13.5,4.7,0,1,1863,7,Matching,30.399014,-96.065843,Matching,NAVASOTA ISD,NAVASOTA J H,Matching,0,0,7.5,345.65,Matching,Matching
+WA,Spokane,53063,,0.2%,150,14,157,185.6,20.52,0,3,57834,126,Matching,47.653758,-117.31083,Matching,Spokane School District,Eagle Peak At Pratt,Matching,43.64,43.69,29.08,4347.18,Matching,Matching
+FL,Pinellas,12103,,0.2%,201,1,150,202.8,40,0,2,57882,71,Matching,27.75718,-82.657401,Matching,PINELLAS,MELROSE ELEMENTARY SCHOOL,Matching,1,0,0,6319.54,Matching,Matching
+TX,Nueces,48355,,0.2%,123,17,116,170.4,39,0,2,12327,15,Matching,27.719601,-97.408212,Matching,CORPUS CHRISTI ISD,KOSTORYZ EL,Matching,2,2,105.16,4115.89,Matching,Matching
+IA,Linn,19113,,0.2%,71,11,75,96.66,12,0,1,28509,61,Matching,41.905964,-91.660356,Matching,College Comm School District,Prairie High School,Matching,11.44,10.09,42.22,2400.73,Matching,Matching
+TX,Taylor,48441,,0.2%,45,3,46,55.5,9,0,2,11280,21,Matching,32.46397,-99.742743,Matching,ABILENE ISD,MARTINEZ EL,Matching,0,0,43.5,1628.4,Matching,Matching
+VA,Virginia Beach,51810,,0.2%,131,1,85,171.2,30,0,2,34741,47,Matching,36.867146,-76.159351,Matching,VA BEACH CITY PBLC SCHS,BAYSIDE MIDDLE,Matching,0,0,83,4869.45,Matching,Matching
+TX,Bexar,48029,,0.2%,655,36,502,838.63,231.06,0,4,56288,115,Matching,29.436881,-98.472539,Matching,NORTHSIDE ISD,NISD BEXAR COUNTY JJA,Matching,62.67,79.04,399.21,22714.55,Matching,Matching
+GA,Hall,13139,,0.2%,64,2,41,60.97,17.1,0,1,15011,4,Matching,34.298881,-83.842364,Matching,Gainesville City,The Academy at Woods Mill,Matching,0,0,37,2203.78,Matching,Matching
+NJ,Ocean,34029,,0.2%,142,33,128,233.5,63.9,0,1,55569,112,Matching,39.968491,-74.073318,Matching,Lavallette Borough School District,Lavallette Elementary School,Matching,95.07,91.6,152.3,6639.3,Matching,Matching
+WY,Sheridan,56033,,0.2%,8,4,23,18.5,9,0,1,4144,2,Matching,44.804069,-106.963214,Matching,Sheridan County School District #2,Sheridan Junior High School,Matching,5,5,12.22,401.47,Matching,Matching
+NC,Union,37179,,0.2%,74,2,53,125.52,30,0,1,28331,46,Matching,34.975993,-80.740122,Matching,Union County Public Schools,Cuthbertson High,Matching,5.16,19.5,45.27,3063.67,Matching,Matching
+TX,Chambers,48071,,0.2%,13,2,15,16,10.75,0,1,4989,7,Matching,29.833401,-94.847308,Matching,BARBERS HILL ISD,ALTERNATIVE SCHOOL,Matching,1.13,3,14.6,544.1,Matching,Matching
+WI,Kenosha,55059,,0.2%,47,12,52,65.48,37,0,1,17443,16,Matching,42.61658,-87.865248,Matching,Kenosha School District,Hillcrest School,Matching,21.95,25.1,13.71,1798.96,Matching,Matching
+VA,Spotsylvania,51177,,0.2%,38,1,33,55,16,0,1,13991,16,Matching,38.155546,-77.59918,Matching,SPOTSYLVANIA CO PBLC SCHS,JOHN J. WRIGHT ED. AND CULTURAL CTR.,Matching,16.7,18,30,1439.5,Matching,Matching
+WI,Fond du Lac,55039,,0.2%,22,6,41,33.05,13.49,0,1,11297,22,Matching,43.805624,-88.682504,Matching,Rosendale-Brandon School District,Laconia High,Matching,4.4,8.81,10.94,992.71,Matching,Matching
+KY,Boyd,21019,,0.1%,9,3,16,16,2.95,0,1,6466,7,Matching,38.456401,-82.65042,Matching,Ashland Independent,Ashland Middle School,Matching,2,0,9,435.6,Matching,Matching
+MO,Jasper,29097,,0.1%,27,7,46,57.34,12.39,0,1,16405,25,Matching,37.339815,-94.301957,Matching,JASPER CO. R-V,JASPER HIGH,Matching,2,6.3,40.97,1460.55,Matching,Matching
+SC,Jasper,45053,,0.1%,4,1,6,9,6,0,1,448,2,Matching,32.26,-81.1,Matching,Jasper 01,Hardeeville-Ridgeland Middle,Matching,0,4,5,207,Matching,Matching
+NC,New Hanover,37129,,0.1%,35,5,49,73.68,41.52,0,1,17317,10,Matching,34.13725,-77.884109,Matching,New Hanover County Schools,Myrtle Grove Middle,Matching,38.47,15.05,33.1,2110.36,Matching,Matching
+TX,Rockwall,48397,,0.1%,21,2,25,37,25,0,1,11299,10,Matching,32.971579,-96.323419,Matching,ROYSE CITY ISD,HH BROWNING ACADEMY,Matching,0,0,24,1115.21,Matching,Matching
+FL,Hillsborough,12057,,0.1%,236,1,280,403.5,102,0,1,73786,37,Matching,28.00527,-82.134711,Matching,HILLSBOROUGH,SIMMONS EXCEPTIONAL CENTER,Matching,133,158.5,6,13968.5,Matching,Matching
+LA,Calcasieu,22019,,0.1%,36,4,61,83.93,57,0,1,19491,19,Matching,30.180667,-93.584557,Matching,Calcasieu Parish,Vinton Elementary School,Matching,1,0,41.16,2385.14,Matching,Matching
+WI,Wood,55141,,0.1%,12,6,30,29.77,6.74,0,1,10049,0,Matching,44.378588,-89.856467,Matching,Wisconsin Rapids School District,Wisconsin Rapids Area Middle,Matching,0,12.89,6.39,765.91,Matching,Matching
+SC,Richland,45079,,0.1%,63,3,96,164.5,77,0,2,17169,19,Matching,34.207492,-80.978182,Matching,Richland 02,Blythewood High,Matching,31.46,32.41,94.6,4415.26,Matching,Matching
+CA,Butte,6007,,0.1%,29,14,80,46.67,2.6,0,1,16394,13,Matching,39.5,-121.57,Matching,Oroville Union High,Oroville High Community Day,Matching,3.8,27.16,15.84,1399.88,Matching,Matching
+MO,Stone,29209,,0.1%,4,5,16,13.84,5.84,0,1,3970,4,Matching,36.894725,-93.571359,Matching,CRANE R-III,CRANE HIGH,Matching,0,0,9.51,321.78,Matching,Matching
+TX,Guadalupe,48187,,0.1%,27,4,40,54.99,13,0,1,11225,2,Matching,29.552785,-98.276334,Matching,SCHERTZ-CIBOLO-U CITY ISD,ALLISON STEELE ENHANCED LEARNING CENTER,Matching,1.94,16.15,34.72,1773.4,Matching,Matching
+TX,Cherokee,48073,,0.1%,9,6,23,26,10,0,1,5193,2,Matching,31.495739,-94.947069,Matching,WELLS ISD,WELLS H S,Matching,0,9,26,822.96,Matching,Matching
+WI,Oconto,55083,,0.1%,4,5,22,15.55,7,0,1,4391,2,Matching,44.886856,-88.314723,Matching,Gillett School District,Gillett High,Matching,0,9.9,9.48,374.85,Matching,Matching
+TX,Galveston,48167,,0.1%,49,9,72,114.49,44.22,0,3,26619,10,Matching,29.393325,-94.914865,Matching,TEXAS CITY ISD,TEXAS CITY H S,Matching,1.83,19.85,50.39,3713.2,Matching,Matching
+MD,St. Mary's,24037,,0.1%,19,6,44,61.1,12.25,0,1,15401,19,Matching,38.292849,-76.490723,Matching,St. Mary's County Public Schools,Esperanza Middle,Matching,4.64,8.24,45.71,1629.92,Matching,Matching
+MD,Prince George's,24033,,0.1%,109,1,200,357,72,0,1,5641,0,Matching,38.967186,-76.881674,Matching,Prince George's County Public Schools,Charles Carroll Middle,Matching,5,196,203,9675,Matching,Matching
+FL,Lake,12069,,0.1%,32,1,52,96,21,0,2,22961,9,Matching,28.930488,-81.664247,Matching,LAKE,UMATILLA HIGH SCHOOL,Matching,0,0,0,2477.08,Matching,Matching
+NY,Chautauqua,36013,,0.1%,14,18,50,58.5,11,0,1,14735,10,Matching,42.111572,-79.232066,Matching,JAMESTOWN CITY SCHOOL DISTRICT,GEORGE WASHINGTON MIDDLE SCHOOL,Matching,16,33.15,57.5,1676.77,Matching,Matching
+MS,Hinds,28049,,0.1%,24,7,81,115,10,0,1,3349,5,Matching,32.339291,-90.20476,Matching,JACKSON PUBLIC SCHOOL DIST,BRINKLEY MIDDLE SCHOOL,Matching,1,0,21,2671.52,Matching,Matching
+KY,Jefferson,21111,,0.1%,60,3,167,260,5,0,1,46867,41,Matching,38.243709,-85.732507,Matching,Jefferson County,Breckinridge Metropolitan High,Matching,11.17,1.72,30.16,6203.6,Matching,Matching
+WI,Eau Claire,55035,,0.1%,8,4,33,40,7,0,1,10962,4,Matching,44.809891,-91.506226,Matching,Eau Claire Area School District,Second Avenue School,Matching,2.8,14.24,12.25,934.75,Matching,Matching
+WI,Waukesha,55133,,0.1%,32,20,103,102.43,18,0,1,45335,8,Matching,43.164811,-88.088469,Matching,Menomonee Falls School District,Menomonee Falls High,Matching,20.9,67.09,46.79,3587.26,Matching,Matching
+MN,Nobles,27105,,0.1%,2,4,12,8.05,1.2,0,1,1594,2,Matching,43.6382045,-95.9363775,Matching,ADRIAN PUBLIC SCHOOL DISTRICT,ADRIAN SECONDARY,Matching,12.2,5.25,6.95,305.42,Matching,Matching
+MS,Rankin,28121,,0.0%,11,3,34,55.5,32,0,1,16084,4,Matching,32.159055,-90.110298,Matching,RANKIN CO SCHOOL DIST,FLORENCE HIGH SCHOOL,Matching,2,2,11.48,1649,Matching,Matching
+SC,Spartanburg,45083,,0.0%,22,8,80,134.4,52.09,0,1,29026,0,Matching,34.744301,-81.991464,Matching,Spartanburg 04,Woodruff Middle,Matching,4,30.2,84,3350.19,Matching,Matching
+PA,Dauphin,42043,,0.0%,16,15,69,98.99,8,0,1,18038,10,Matching,40.263844,-76.705321,Matching,Lower Dauphin SD,Price,Matching,14,29.7,66.56,2524.89,Matching,Matching
+AL,Walker,1127,,0.0%,4,2,21,23.5,7,0,1,8520,4,Matching,33.9,-87.27,Matching,Walker County,Curry High Sch,Matching,0,1,19.33,622.22,Matching,Matching
+TX,Dallas,48113,,0.0%,181,43,681,1107.32,175.3,0,2,62862,28,Matching,32.829183,-96.99078,Matching,IRVING ISD,STUDENT REASSIGN CTR,Matching,39.96,20.38,591.07,30689.6,Matching,Matching
+NV,Clark,32003,,0.0%,125,1,371,676.5,65,0,1,94678,43,Matching,36.108172,-115.184489,Matching,CLARK COUNTY SCHOOL DISTRICT,Burk Horizon Southwest Sunset HS,Matching,33,170.49,148.44,18759.4,Matching,Matching
+SC,Sumter,45085,,0.0%,6,1,28,46,11.5,0,1,5546,2,Matching,34.016052,-80.401234,Matching,Sumter 01,Ebenezer Middle,Matching,11,21.5,20.5,1102,Matching,Matching
+TX,McLennan,48309,,0.0%,15,22,104,109.22,28.2,0,2,17929,11,Matching,31.573161,-97.126245,Matching,WACO ISD,G L WILEY OPPORTUNITY CENTER,Matching,10.99,3,65.79,3111.82,Matching,Matching
+MS,Jones,28067,,0.0%,4,3,18,25,10,0,1,6152,0,Matching,31.69485,-89.050588,Matching,JONES CO SCHOOL DIST,NORTHEAST JONES HIGH SCHOOL,Matching,0,0,8,817,Matching,Matching
+TX,Medina,48325,,0.0%,2,5,17,15.05,1.7,0,1,2922,2,Matching,29.148544,-98.917796,Matching,DEVINE ISD,DEVINE H S,Matching,2.66,34.8,11.5,613.86,Matching,Matching
+TX,Webb,48479,,0.0%,13,4,78,168.5,100,0,1,559,0,Matching,27.581398,-99.446609,Matching,UNITED ISD,JOHN B ALEXANDER H S,Matching,2.6,0,80.44,4024.42,Matching,Matching
+FL,Pasco,12101,,0.0%,12,1,91,155.5,33,0,1,45148,5,Matching,28.229938,-82.715366,Matching,PASCO,AMI KIDS PASCO,Matching,4,1,2,4269.02,Matching,Matching
+UT,Weber,49057,,0.0%,8,11,80,98.43,18.28,0,1,35279,4,Matching,41.278915,-111.962857,Matching,WEBER DISTRICT,CANYON VIEW SCHOOL,Matching,6.01,5.25,17.71,2313.48,Matching,Matching
+NV,Washoe,32031,,0.0%,7,2,107,253.8,36.44,0,1,30377,7,Matching,39.51576,-119.83493,Matching,WASHOE COUNTY SCHOOL DISTRICT,Turning Point,Matching,5.3,44.5,38.8,3692.81,Matching,Matching
+SC,Berkeley,45015,,0.0%,2,2,42,88.5,15,0,1,17876,2,Matching,33.336882,-79.89081,Matching,Berkeley 01,Timberland High,Matching,9.3,27.7,46,2035.5,Matching,Matching
+TX,El Paso,48141,,0.0%,6,15,253,427.74,115.34,0,1,10092,0,Matching,31.59,-106.23,Matching,CLINT ISD,CLINT H S,Matching,15,0,253.39,11248.04,Matching,Matching
+TX,Bell,48027,,0.0%,2,10,101,157.33,30.74,0,1,21629,0,Matching,31.091069,-97.33758,Matching,TEMPLE ISD,WHEATLEY ALTERNATIVE EDUCATION CENTER,Matching,3.11,2,70.56,4270.6,Matching,Matching
+TX,Denton,48121,,0.0%,4,13,202,335.99,58,0,1,72780,2,Matching,33.027972,-96.988998,Matching,WINFREE ACADEMY CHARTER SCHOOLS,WINFREE ACADEMY CHARTER SCHOOL (LEWISVILLE),Matching,2,35.66,176.92,9888.47,Matching,Matching
+TX,Fort Bend,48157,,0.0%,2,4,149,229.31,169.13,0,1,37517,0,Matching,29.704363,-95.683695,Matching,FORT BEND ISD,GEORGE BUSH H S,Matching,12.46,44.01,115.52,8814.4,Matching,Matching

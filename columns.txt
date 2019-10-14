@@ -1,0 +1,168 @@
+county
+county_geoid
+latitude
+longitude
+State
+DISTRICT
+SCHOOL
+Law Enforcement
+Students Enrolled
+CHARTER
+ALTERNATIVE SCHOOL
+SPED SCHOOL
+Total Days Lost
+Days Lost per 100 Students ALL
+Arrests or Referrals per 1,000
+Arrests per 1,000
+Law Enforcment Referrals per 1,000
+Total # of Arrests or Referrals
+Black # of Arrests or Referrals
+Black Students
+% of Black Students
+Black Arrests or Referrals per 1,000
+Black/White Gap in Arrests or Referrals per 1,000
+Black Days Lost
+Black Days Lost per 100 Students
+Black/ White Gap in Days Lost per 100
+Latino # of Arrests or Referrals
+Latino Students
+% of Latino Students
+Latino Arrests or Referrals per 1,000
+Latino/White Gap in Arrests or Referrals per 1,000
+Latino Days Lost
+Latino Days Lost per 100 Students
+White # of Arrests or Referrals
+White Students Enrolled
+% of White Students
+White Arrests
+White Referrals
+White Total
+White Arrests or Referrals per 1,000
+White Days Lost
+White Days Lost per 100 Students
+SWD Days Lost
+SWD Days Lost per 100 Students
+SwD # of Arrests or Referrals
+SWD Enrolled
+SWD Arrests or Referrals per 1,000
+SWD/SWoD Gap in Arrests or Referrals per 1,000
+SWoD Enrolled
+SWoD Arrests or Referrals per 1,000
+SWoD Days Lost
+SWoD Days Lost per 100 Students
+Native # of Arrests or Referrals
+Native American Students Enrolled
+Native American Arrests or Referrals per 1,000
+Native American Days Lost
+Native Am. Days Lost per 100 Students
+Native Am Arr/Reff
+Native Am. Arrest+ Referrals per 1,000
+Black Boy Days Lost
+Black Boy Days Lost per 100 Students
+Black Boys # of Arrests or Referrals
+Black Boys Enrolled
+Black Boy Arrests or Referrals per 1,000
+Black Girl # of Arrests or Referrals
+Black Girls Enrolled
+Black Girl Arrests or Referrals per 1,000
+Black Girl Arr/Ref
+Black Girl Days Lost per 100 Students
+Latino Boy Days Lost
+Latino Boy Days Lost per 100 Students
+Latino Boy # of Arrests or Referrals
+Latino Boys Enrolled
+Latino Boys Arrests or Referrals per 1,000
+Pac. Islander Days Lost
+Pac. Islander Days Lost per 100 Students
+Pac. Islander # of Arrests or Referrals
+Pac. Islander Students Enrolled
+Pac. Islander Arrests or Referrals per 1,000
+Asian Students Enrolled
+Asian # of Arrests or Referrals
+Asian Arrests or Referrals per 1,000
+Asian Days Lost
+Asian Days Lost per 100 Students
+Multiracial # of Arrests or Referrals
+Multiracial Students Enrolled
+Multi Racial Arrests or Referrals per 1,000
+Security Guards
+Students-to-Guards
+Students-to-LEO
+Mostly Students of Color
+LEO + SG
+Support Staff
+Support - Security
+Teachers
+Teachers - SS
+Teachers - Security
+Counselors
+Nurses
+Psychologists
+Social Workers
+Students-to-Counselors
+Students-to-Nurses
+Students-to-Psychologist
+Student-to-Social Workers
+Students-to-Teacher
+Cop no Counselor
+Cop no Nurse
+Cop no Psychologist
+Cop no Social Worker
+CopButNah
+Counselor Ratio Above 250
+Less than 250 Students
+JJ
+MAGNET
+TITLE 1
+LEO Update Needed?
+Arrests w/o Disability
+Total Arrests + Referrals
+SwoD # of Arrests or Referrals
+Total Referrals w/o Disabilities
+Refferrals Total
+Arrests Total
+Address
+City
+Zip
+MTW Status
+Total Referrals w/ Disability
+Arrests SWD
+Arrest+ Referrals per 1,000
+SWD Match Status
+Students Enrolled
+Latino Referrals
+Latino Arrests
+Latino Boys Arrests
+Latino Boys Referrals
+Black Referrals
+Black Arrests
+Black Boy Arrests
+Black Boy Referrals
+Black Girl Referrals
+Black Girl Arrests
+Total Referrals
+Total Arrests
+Native American Arrests
+Native American Referrals
+Asian Referrals
+Asian Arrests
+Hawaiian Pac. Islanders Referrals
+Hawaiian Pac. Islander Arrests
+Two+ Races Referrals
+Two+ Races Arrests
+SWoD Total Arrests
+SWoD Total Referrals
+MTW Status
+MTW Status
+MTW Status
+Black Students Arrests OR Referrals (Higher Value)
+Hispanic Students Arrests OR Referrals (Higher Value)
+American Indian Students Arrests OR Referrals (Higher Value)
+Asian Students Arrests OR Referrals (Higher Value)
+Pacific Islander Students Arrests OR Referrals (Higher Value)
+Two or More Races Students Arrests OR Referrals (Higher Value)
+LEAID
+SCHID
+COMBOKEY
+MTW Status
+MTW Status
