@@ -1,0 +1,4 @@
+.DS_Store
+*.pyc
+/sources/counties.geojson
+/sources/*.xlsx
